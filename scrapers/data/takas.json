@@ -1588,24 +1588,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Apple iPhone 15 128GB",
-    "brand": "Apple",
-    "sku": "",
-    "price": 306900.0,
-    "regular_price": 312000.0,
-    "sale_price": 306900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/apple-iphone-15-128gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-iphone-15-1.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "128GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "OnePlus Nord CE5 8GB 256GB | Global Version",
     "brand": "OnePlus",
     "sku": "",
@@ -1618,6 +1600,24 @@
     "category": "phones",
     "attrs": {
       "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Apple iPhone 15 128GB",
+    "brand": "Apple",
+    "sku": "",
+    "price": 306900.0,
+    "regular_price": 312000.0,
+    "sale_price": 306900.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/apple-iphone-15-128gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/a/p/apple-iphone-15-1.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "128GB"
     },
     "on_sale": true,
     "junk": false
@@ -4075,6 +4075,22 @@
   },
   {
     "retailer": "Takas",
+    "name": "Logitech H111 Stereo Headset",
+    "brand": null,
+    "sku": "",
+    "price": 3190.0,
+    "regular_price": 3850.0,
+    "sale_price": 3190.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/logitech-h111-stereo-headset.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/h/1/h111-gallery.png",
+    "category": "audio",
+    "attrs": {},
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
     "name": "G435 LIGHTSPEED Wireless Gaming Headset Black",
     "brand": null,
     "sku": "",
@@ -4088,22 +4104,6 @@
     "attrs": {
       "color": "Black"
     },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Logitech H111 Stereo Headset",
-    "brand": null,
-    "sku": "",
-    "price": 3190.0,
-    "regular_price": 3850.0,
-    "sale_price": 3190.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/logitech-h111-stereo-headset.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/h/1/h111-gallery.png",
-    "category": "audio",
-    "attrs": {},
     "on_sale": true,
     "junk": false
   },
@@ -4501,22 +4501,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "JBL Junior 470NC Wireless Noise Cancelling over-ear Headphone",
-    "brand": "JBL",
-    "sku": "",
-    "price": 22390.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/jbl-junior-470nc-wireless-noise-cancelling-over-ear-headphone.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/1/_/1_16_1.png",
-    "category": "audio",
-    "attrs": {},
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Hoco W16 Overhead Bluetooth V4.2 Headset",
     "brand": null,
     "sku": "",
@@ -4533,15 +4517,15 @@
   },
   {
     "retailer": "Takas",
-    "name": "Haylou S40 ANC Over Ear Headphones",
-    "brand": null,
+    "name": "JBL Junior 470NC Wireless Noise Cancelling over-ear Headphone",
+    "brand": "JBL",
     "sku": "",
-    "price": 15699.0,
+    "price": 22390.0,
     "regular_price": null,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/haylou-s40-anc-over-ear-headphones.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/c/screenshot_2026-05-10_215937.png",
+    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/jbl-junior-470nc-wireless-noise-cancelling-over-ear-headphone.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/1/_/1_16_1.png",
     "category": "audio",
     "attrs": {},
     "on_sale": false,
@@ -4562,6 +4546,22 @@
     "attrs": {
       "color": "Black"
     },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Haylou S40 ANC Over Ear Headphones",
+    "brand": null,
+    "sku": "",
+    "price": 15699.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/haylou-s40-anc-over-ear-headphones.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/c/screenshot_2026-05-10_215937.png",
+    "category": "audio",
+    "attrs": {},
     "on_sale": false,
     "junk": false
   },
@@ -4777,6 +4777,22 @@
   },
   {
     "retailer": "Takas",
+    "name": "Apple Watch Ultra 2 (49mm, eSIM — 2023)",
+    "brand": "Apple",
+    "sku": "",
+    "price": 254890.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/apple-watch-ultra-2-49mm-esim-2023.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/1/-/1-102.png",
+    "category": "audio",
+    "attrs": {},
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
     "name": "Skullcandy Crusher Wireless Over-the-Ear Headphones - Coral / Black",
     "brand": "Skullcandy",
     "sku": "",
@@ -4790,22 +4806,6 @@
     "attrs": {
       "color": "Black"
     },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Apple Watch Ultra 2 (49mm, eSIM — 2023)",
-    "brand": "Apple",
-    "sku": "",
-    "price": 254890.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/apple-watch-ultra-2-49mm-esim-2023.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/1/-/1-102.png",
-    "category": "audio",
-    "attrs": {},
     "on_sale": false,
     "junk": false
   },
@@ -4845,22 +4845,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Awei ES15Hi Headphones",
-    "brand": null,
-    "sku": "",
-    "price": 661.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/awei-es15hi-headphones.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/1/5/15hi-1-400x400.jpg",
-    "category": "audio",
-    "attrs": {},
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Haylou S30 Pro Wireless Over Ear Headphones",
     "brand": null,
     "sku": "",
@@ -4870,6 +4854,22 @@
     "currency": "LKR",
     "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/haylou-s30-pro-wireless-over-ear-headphones-89023.html",
     "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/c/screenshot_2026-05-10_213042.png",
+    "category": "audio",
+    "attrs": {},
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Awei ES15Hi Headphones",
+    "brand": null,
+    "sku": "",
+    "price": 661.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/awei-es15hi-headphones.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/1/5/15hi-1-400x400.jpg",
     "category": "audio",
     "attrs": {},
     "on_sale": false,
@@ -4893,22 +4893,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Jabra J005 Classic Bluetooth Mono Headset",
-    "brand": null,
-    "sku": "",
-    "price": 9800.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/jabra-j005-classic-bluetooth-mono-headset.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/a/takas-deals-jabra-j005-classic-bluetooth-mono-headset.jpg",
-    "category": "audio",
-    "attrs": {},
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Apple Watch Series SE (2023) 44mm - Midnight Black",
     "brand": "Apple",
     "sku": "",
@@ -4922,6 +4906,22 @@
     "attrs": {
       "color": "Black"
     },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Jabra J005 Classic Bluetooth Mono Headset",
+    "brand": null,
+    "sku": "",
+    "price": 9800.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/earphones-headphones/headphones/jabra-j005-classic-bluetooth-mono-headset.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/a/takas-deals-jabra-j005-classic-bluetooth-mono-headset.jpg",
+    "category": "audio",
+    "attrs": {},
     "on_sale": false,
     "junk": false
   },
@@ -5209,24 +5209,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "ABANS Fully Auto Washing Machine – 7KG",
-    "brand": "Abans",
-    "sku": "",
-    "price": 61353.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/abans-fully-auto-washing-machine-7kg.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/webv_1.jpg",
-    "category": "appliances",
-    "attrs": {
-      "capacity": "7KG"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Samsung Washing Machine Front Load 7Kg SMGWA70J3283",
     "brand": "Samsung",
     "sku": "",
@@ -5245,20 +5227,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "ELECTROLUX 7KG Fully Auto Washing Machine | EWT705WN",
-    "brand": "Electrolux",
+    "name": "ABANS Fully Auto Washing Machine – 7KG",
+    "brand": "Abans",
     "sku": "",
-    "price": 89990.0,
-    "regular_price": 105990.0,
-    "sale_price": 89990.0,
+    "price": 61353.0,
+    "regular_price": null,
+    "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/electrolux-fully-automatic-top-load-washing-machine-7kg-white.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/e/remote.jpg.png",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/abans-fully-auto-washing-machine-7kg.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/webv_1.jpg",
     "category": "appliances",
     "attrs": {
       "capacity": "7KG"
     },
-    "on_sale": true,
+    "on_sale": false,
     "junk": false
   },
   {
@@ -5275,24 +5257,6 @@
     "category": "appliances",
     "attrs": {
       "capacity": "7KG"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "SGL 7.5kg Top Loading Washing Machine",
-    "brand": null,
-    "sku": "",
-    "price": 88990.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/sgl-7-5kg-top-loading-washing-machine.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/g/sglwmfa75tl.png",
-    "category": "appliances",
-    "attrs": {
-      "capacity": "7.5KG"
     },
     "on_sale": false,
     "junk": false
@@ -5317,18 +5281,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung 12kg Front Loading Inverter Washing Machine",
-    "brand": "Samsung",
+    "name": "SGL 7.5kg Top Loading Washing Machine",
+    "brand": null,
     "sku": "",
-    "price": 276990.0,
+    "price": 88990.0,
     "regular_price": null,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-12kg-front-loading-inverter-washing-machine.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/m/smgwd12dg5b15-03.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/sgl-7-5kg-top-loading-washing-machine.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/g/sglwmfa75tl.png",
     "category": "appliances",
     "attrs": {
-      "capacity": "12KG"
+      "capacity": "7.5KG"
     },
     "on_sale": false,
     "junk": false
@@ -5349,6 +5313,24 @@
       "capacity": "7KG"
     },
     "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Samsung 12kg Front Loading Inverter Washing Machine",
+    "brand": "Samsung",
+    "sku": "",
+    "price": 276990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-12kg-front-loading-inverter-washing-machine.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/m/smgwd12dg5b15-03.jpg",
+    "category": "appliances",
+    "attrs": {
+      "capacity": "12KG"
+    },
+    "on_sale": false,
     "junk": false
   },
   {
@@ -5461,24 +5443,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Midea 10.5KG Front Loading Inverter Washing Machine & Dryer 7KG",
-    "brand": "Midea",
-    "sku": "",
-    "price": 172500.0,
-    "regular_price": 239985.0,
-    "sale_price": 172500.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/midea-10-5kg-front-loading-inverter-washing-machine-dryer-7kg.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/m/f/mf200-wd-titanium-front-mob-specid-652a4979.png",
-    "category": "appliances",
-    "attrs": {
-      "capacity": "10.5KG"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "LG 12Kg Fully Auto Inverter Washing Machine T2312VSAM",
     "brand": "LG",
     "sku": "",
@@ -5497,20 +5461,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung Bespoke AI™ Top-load Washer AI Wash 19kg - WA80F19B9BFQ",
-    "brand": "Samsung",
+    "name": "Midea 10.5KG Front Loading Inverter Washing Machine & Dryer 7KG",
+    "brand": "Midea",
     "sku": "",
-    "price": 198990.0,
-    "regular_price": null,
-    "sale_price": null,
+    "price": 172500.0,
+    "regular_price": 239985.0,
+    "sale_price": 172500.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-bespoke-aitm-top-load-washer-ai-wash-19kg-wa80f19b9bfq.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/m/y/my-wa80f24-542735-wa80f15s5bfq-545654175_1.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/midea-10-5kg-front-loading-inverter-washing-machine-dryer-7kg.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/m/f/mf200-wd-titanium-front-mob-specid-652a4979.png",
     "category": "appliances",
     "attrs": {
-      "capacity": "19KG"
+      "capacity": "10.5KG"
     },
-    "on_sale": false,
+    "on_sale": true,
     "junk": false
   },
   {
@@ -5524,6 +5488,24 @@
     "currency": "LKR",
     "url": "https://takas.lk/home-garden/home-appliances/washing-machines/lg-washer-dryer-with-steam-19-kg.html",
     "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/7/0/700_2_.png",
+    "category": "appliances",
+    "attrs": {
+      "capacity": "19KG"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Samsung Bespoke AI™ Top-load Washer AI Wash 19kg - WA80F19B9BFQ",
+    "brand": "Samsung",
+    "sku": "",
+    "price": 198990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-bespoke-aitm-top-load-washer-ai-wash-19kg-wa80f19b9bfq.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/m/y/my-wa80f24-542735-wa80f15s5bfq-545654175_1.jpg",
     "category": "appliances",
     "attrs": {
       "capacity": "19KG"
@@ -5569,22 +5551,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Hafele Marina 7512WD - Washer Dryer Combo",
-    "brand": null,
-    "sku": "",
-    "price": 450062.0,
-    "regular_price": 494433.0,
-    "sale_price": 450062.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/marina-7512wd-washer-dryer-combo.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/5/3/533.93.020_-_marina_7512_wd.jpg",
-    "category": "appliances",
-    "attrs": {},
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Samsung Fully Automatic Front Loading 8 Kg Washer & 6 Kg Dryer with Eco-Bubble Technology",
     "brand": "Samsung",
     "sku": "",
@@ -5603,20 +5569,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Abans 6.5KG Fully Automatic Washing Machine",
-    "brand": "Abans",
+    "name": "Hafele Marina 7512WD - Washer Dryer Combo",
+    "brand": null,
     "sku": "",
-    "price": 81990.0,
-    "regular_price": null,
-    "sale_price": null,
+    "price": 450062.0,
+    "regular_price": 494433.0,
+    "sale_price": 450062.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/abans-6-5kg-fully-automatic-washing-machine.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/g/h/ghmd1jhmka5fsfj6g2wi0cne5hro0uvnyovldejc.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/marina-7512wd-washer-dryer-combo.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/5/3/533.93.020_-_marina_7512_wd.jpg",
     "category": "appliances",
-    "attrs": {
-      "capacity": "6.5KG"
-    },
-    "on_sale": false,
+    "attrs": {},
+    "on_sale": true,
     "junk": false
   },
   {
@@ -5635,6 +5599,24 @@
       "capacity": "7KG"
     },
     "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Abans 6.5KG Fully Automatic Washing Machine",
+    "brand": "Abans",
+    "sku": "",
+    "price": 81990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/abans-6-5kg-fully-automatic-washing-machine.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/g/h/ghmd1jhmka5fsfj6g2wi0cne5hro0uvnyovldejc.jpg",
+    "category": "appliances",
+    "attrs": {
+      "capacity": "6.5KG"
+    },
+    "on_sale": false,
     "junk": false
   },
   {
@@ -5725,24 +5707,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "LG 8kg Front Load Washer Dryer FV1408H4V",
-    "brand": "LG",
-    "sku": "",
-    "price": 385990.0,
-    "regular_price": 392990.0,
-    "sale_price": 385990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/lg-8kg-front-load-washer-dryer-fv1408h4v.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/f/v/fv1408h4v_1.png",
-    "category": "appliances",
-    "attrs": {
-      "capacity": "8KG"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "ABANS Fully Auto Washing Machine 5.5KG",
     "brand": "Abans",
     "sku": "",
@@ -5757,6 +5721,24 @@
       "capacity": "5.5KG"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "LG 8kg Front Load Washer Dryer FV1408H4V",
+    "brand": "LG",
+    "sku": "",
+    "price": 385990.0,
+    "regular_price": 392990.0,
+    "sale_price": 385990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/lg-8kg-front-load-washer-dryer-fv1408h4v.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/f/v/fv1408h4v_1.png",
+    "category": "appliances",
+    "attrs": {
+      "capacity": "8KG"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -5834,6 +5816,24 @@
   },
   {
     "retailer": "Takas",
+    "name": "Candy 7Kg Front Loading Fully Automatic Washing Machine",
+    "brand": null,
+    "sku": "",
+    "price": 118990.0,
+    "regular_price": 128990.0,
+    "sale_price": 118990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/candy-7kg-front-loading-fully-automatic-washing-machine.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/6/4/640-1_31010946_09_01_f_cs_147te1-80-m.jpg",
+    "category": "appliances",
+    "attrs": {
+      "capacity": "7KG"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
     "name": "Samsung Bespoke AI™ Top-load Washer AI Wash 21kg - WA80F21B9BFQ",
     "brand": "Samsung",
     "sku": "",
@@ -5852,18 +5852,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Candy 7Kg Front Loading Fully Automatic Washing Machine",
-    "brand": null,
+    "name": "LG 8Kg Smart Inverter Top Loading Washing Machine -T2108VSAL",
+    "brand": "LG",
     "sku": "",
-    "price": 118990.0,
-    "regular_price": 128990.0,
-    "sale_price": 118990.0,
+    "price": 163990.0,
+    "regular_price": 197064.0,
+    "sale_price": 163990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/candy-7kg-front-loading-fully-automatic-washing-machine.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/6/4/640-1_31010946_09_01_f_cs_147te1-80-m.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/lg-8kg-smart-inverter-top-loading-washing-machine-t2108vsal.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/2/t2108vsal_washing_machines_350.jpg",
     "category": "appliances",
     "attrs": {
-      "capacity": "7KG"
+      "capacity": "8KG"
     },
     "on_sale": true,
     "junk": false
@@ -5888,18 +5888,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "LG 8Kg Smart Inverter Top Loading Washing Machine -T2108VSAL",
-    "brand": "LG",
+    "name": "Samsung Washing Machine 7Kg - WW70J3283KW",
+    "brand": "Samsung",
     "sku": "",
-    "price": 163990.0,
-    "regular_price": 197064.0,
-    "sale_price": 163990.0,
+    "price": 191990.0,
+    "regular_price": 229990.0,
+    "sale_price": 191990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/lg-8kg-smart-inverter-top-loading-washing-machine-t2108vsal.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/2/t2108vsal_washing_machines_350.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-washing-machine-7kg-ww70j3283kw.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/d/f/df82d580a16cd4eefdbd6004db0716dbc6fd8198_2015_06_30_13_19_39_1939_7ed1_optimized.jpg",
     "category": "appliances",
     "attrs": {
-      "capacity": "8KG"
+      "capacity": "7KG"
     },
     "on_sale": true,
     "junk": false
@@ -5924,18 +5924,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung Washing Machine 7Kg - WW70J3283KW",
+    "name": "Samsung Series 7 Ecobubble 10.5kg Washing Machine WW10T684DLN",
     "brand": "Samsung",
     "sku": "",
-    "price": 191990.0,
-    "regular_price": 229990.0,
-    "sale_price": 191990.0,
+    "price": 395990.0,
+    "regular_price": 411350.0,
+    "sale_price": 395990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-washing-machine-7kg-ww70j3283kw.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/d/f/df82d580a16cd4eefdbd6004db0716dbc6fd8198_2015_06_30_13_19_39_1939_7ed1_optimized.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-series-7-ecobubble-10-5kg-washing-machine-ww10t684dln.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/w/ww10t684dln_1.png",
     "category": "appliances",
     "attrs": {
-      "capacity": "7KG"
+      "capacity": "10.5KG"
     },
     "on_sale": true,
     "junk": false
@@ -5960,24 +5960,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung Series 7 Ecobubble 10.5kg Washing Machine WW10T684DLN",
-    "brand": "Samsung",
-    "sku": "",
-    "price": 395990.0,
-    "regular_price": 411350.0,
-    "sale_price": 395990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-series-7-ecobubble-10-5kg-washing-machine-ww10t684dln.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/w/ww10t684dln_1.png",
-    "category": "appliances",
-    "attrs": {
-      "capacity": "10.5KG"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Abans 7KG Semi Auto Washing Machine",
     "brand": "Abans",
     "sku": "",
@@ -5992,24 +5974,6 @@
       "capacity": "7KG"
     },
     "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Midea 11KG Top Loading Inverter Washing Machine",
-    "brand": "Midea",
-    "sku": "",
-    "price": 89900.0,
-    "regular_price": 104990.0,
-    "sale_price": 89900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/midea-11kg-top-loading-inverter-washing-machine.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/c/screenshot_2026-06-09_225910.png",
-    "category": "appliances",
-    "attrs": {
-      "capacity": "11KG"
-    },
-    "on_sale": true,
     "junk": false
   },
   {
@@ -6032,20 +5996,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung Bespoke AI™ Top-load Washer AI Wash 15kg - WA80F15S5BFQ",
-    "brand": "Samsung",
+    "name": "Midea 11KG Top Loading Inverter Washing Machine",
+    "brand": "Midea",
     "sku": "",
-    "price": 139990.0,
-    "regular_price": null,
-    "sale_price": null,
+    "price": 89900.0,
+    "regular_price": 104990.0,
+    "sale_price": 89900.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-bespoke-aitm-top-load-washer-ai-wash-15kg-wa80f15s5bfq.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/m/y/my-wa80f24-542735-wa80f15s5bfq-545654175.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/midea-11kg-top-loading-inverter-washing-machine.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/c/screenshot_2026-06-09_225910.png",
     "category": "appliances",
     "attrs": {
-      "capacity": "15KG"
+      "capacity": "11KG"
     },
-    "on_sale": false,
+    "on_sale": true,
     "junk": false
   },
   {
@@ -6062,6 +6026,24 @@
     "category": "appliances",
     "attrs": {
       "capacity": "7KG"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Samsung Bespoke AI™ Top-load Washer AI Wash 15kg - WA80F15S5BFQ",
+    "brand": "Samsung",
+    "sku": "",
+    "price": 139990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/washing-machines/samsung-bespoke-aitm-top-load-washer-ai-wash-15kg-wa80f15s5bfq.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/m/y/my-wa80f24-542735-wa80f15s5bfq-545654175.jpg",
+    "category": "appliances",
+    "attrs": {
+      "capacity": "15KG"
     },
     "on_sale": false,
     "junk": false
@@ -6105,24 +6087,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Innovex INR240I Inverter Technology Refrigerator - 250L",
-    "brand": null,
-    "sku": "",
-    "price": 125900.0,
-    "regular_price": 174049.0,
-    "sale_price": 125900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/innovex-inr240i-inverter-technology-refrigerator-250l.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/i/n/innovex-250l-inverter-technology-refrigerator-inr240i.jpg",
-    "category": "refrigerators",
-    "attrs": {
-      "capacity": "250L"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Hafele 630L Freestanding French Door Refrigerator | ARK 630",
     "brand": null,
     "sku": "",
@@ -6137,6 +6101,24 @@
       "capacity": "630L"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Innovex INR240I Inverter Technology Refrigerator - 250L",
+    "brand": null,
+    "sku": "",
+    "price": 125900.0,
+    "regular_price": 174049.0,
+    "sale_price": 125900.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/innovex-inr240i-inverter-technology-refrigerator-250l.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/i/n/innovex-250l-inverter-technology-refrigerator-inr240i.jpg",
+    "category": "refrigerators",
+    "attrs": {
+      "capacity": "250L"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -7526,24 +7508,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Innovex Rice Cooker-2.2L",
-    "brand": null,
-    "sku": "",
-    "price": 9990.0,
-    "regular_price": 16306.0,
-    "sale_price": 9990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/innovex-rice-cooker-2-2l.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/i/n/innovex-rice-cooker-1.5l-1.8l-2.2l-2.8l_1.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "2.2L"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Sharp 1.8L Non-stick Rice Cooker",
     "brand": "Sharp",
     "sku": "",
@@ -7581,18 +7545,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Innovex Rice Cooker 1.8L",
+    "name": "Innovex Rice Cooker-2.2L",
     "brand": null,
     "sku": "",
-    "price": 9350.0,
-    "regular_price": 16095.0,
-    "sale_price": 9350.0,
+    "price": 9990.0,
+    "regular_price": 16306.0,
+    "sale_price": 9990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/innovex-rice-cooker-1-8l-82002.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/i/n/innovex-rice-cooker-1.5l-1.8l-2.2l-2.8l_2.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/innovex-rice-cooker-2-2l.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/i/n/innovex-rice-cooker-1.5l-1.8l-2.2l-2.8l_1.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "2.2L"
     },
     "on_sale": true,
     "junk": false
@@ -7633,18 +7597,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "LMG Rice Cooker - 2.2L",
+    "name": "Innovex Rice Cooker 1.8L",
     "brand": null,
     "sku": "",
-    "price": 13201.0,
-    "regular_price": 16949.0,
-    "sale_price": 13201.0,
+    "price": 9350.0,
+    "regular_price": 16095.0,
+    "sale_price": 9350.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-rice-cooker-2-2l.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_2.2l.01.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/innovex-rice-cooker-1-8l-82002.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/i/n/innovex-rice-cooker-1.5l-1.8l-2.2l-2.8l_2.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "2.2L"
+      "capacity": "1.8L"
     },
     "on_sale": true,
     "junk": false
@@ -7681,6 +7645,24 @@
     "category": "rice-cookers",
     "attrs": {
       "capacity": "6L"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "LMG Rice Cooker - 2.2L",
+    "brand": null,
+    "sku": "",
+    "price": 13201.0,
+    "regular_price": 16949.0,
+    "sale_price": 13201.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-rice-cooker-2-2l.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_2.2l.01.jpg",
+    "category": "rice-cookers",
+    "attrs": {
+      "capacity": "2.2L"
     },
     "on_sale": true,
     "junk": false
@@ -7757,24 +7739,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "MISTRAL Rice Cooker 7.8L",
-    "brand": null,
-    "sku": "",
-    "price": 62458.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/mistral-rice-cooker-7-8l.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web_11__1.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "7.8L"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Telesonic 4.5KG Commercial Rice Cooker - TL-66",
     "brand": null,
     "sku": "",
@@ -7827,22 +7791,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford SF-2501RC 1.8 LTR Rice Cooker",
-    "brand": null,
-    "sku": "",
-    "price": 8990.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-sf-2501rc-1-8-ltr-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/i/t/item_xl_8083566_7473759.jpg",
-    "category": "rice-cookers",
-    "attrs": {},
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Sanford 2.8 Litre Rice Cooker - SF 2507RC",
     "brand": null,
     "sku": "",
@@ -7877,20 +7825,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "ABANS Rice Cooker 2.8L - AC28TR1",
-    "brand": "Abans",
+    "name": "Sanford SF-2501RC 1.8 LTR Rice Cooker",
+    "brand": null,
     "sku": "",
-    "price": 5998.0,
-    "regular_price": 6526.0,
-    "sale_price": 5998.0,
+    "price": 8990.0,
+    "regular_price": null,
+    "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/abans-rice-cooker-2-8l-ac28tr1.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/0/1/01-500x500_2__2_10_1.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-sf-2501rc-1-8-ltr-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/i/t/item_xl_8083566_7473759.jpg",
     "category": "rice-cookers",
-    "attrs": {
-      "capacity": "2.8L"
-    },
-    "on_sale": true,
+    "attrs": {},
+    "on_sale": false,
     "junk": false
   },
   {
@@ -7927,6 +7873,24 @@
       "capacity": "2.2L"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "ABANS Rice Cooker 2.8L - AC28TR1",
+    "brand": "Abans",
+    "sku": "",
+    "price": 5998.0,
+    "regular_price": 6526.0,
+    "sale_price": 5998.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/abans-rice-cooker-2-8l-ac28tr1.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/0/1/01-500x500_2__2_10_1.jpg",
+    "category": "rice-cookers",
+    "attrs": {
+      "capacity": "2.8L"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -8053,18 +8017,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 1.8L Rice Cooker",
-    "brand": null,
+    "name": "Sharp 6.6L Rice Cooker",
+    "brand": "Sharp",
     "sku": "",
-    "price": 11320.0,
-    "regular_price": 17309.0,
-    "sale_price": 11320.0,
+    "price": 31990.0,
+    "regular_price": 43494.0,
+    "sale_price": 31990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-8l-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/c/screenshot_2023-11-10_110418-removebg-preview.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sharp-6-6l-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/k/s/ksh668cwh.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "6.6L"
     },
     "on_sale": true,
     "junk": false
@@ -8089,18 +8053,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sharp 6.6L Rice Cooker",
-    "brand": "Sharp",
+    "name": "Sanford 5.6L Rice Cooker - SF-1133RC",
+    "brand": null,
     "sku": "",
-    "price": 31990.0,
-    "regular_price": 43494.0,
-    "sale_price": 31990.0,
+    "price": 18790.0,
+    "regular_price": 19990.0,
+    "sale_price": 18790.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sharp-6-6l-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/k/s/ksh668cwh.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-5-6l-rice-cooker-sf-1133rc.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1133rc_1.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "6.6L"
+      "capacity": "5.6L"
     },
     "on_sale": true,
     "junk": false
@@ -8123,18 +8087,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 5.6L Rice Cooker - SF-1133RC",
+    "name": "LMG Rice Cooker - 2.8L",
     "brand": null,
     "sku": "",
-    "price": 18790.0,
-    "regular_price": 19990.0,
-    "sale_price": 18790.0,
+    "price": 14616.0,
+    "regular_price": 18539.0,
+    "sale_price": 14616.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-5-6l-rice-cooker-sf-1133rc.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1133rc_1.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-rice-cooker-2-8l.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_2.8l.02.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "5.6L"
+      "capacity": "2.8L"
     },
     "on_sale": true,
     "junk": false
@@ -8160,18 +8124,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "LMG Rice Cooker - 2.8L",
-    "brand": null,
+    "name": "Panasonic 2.2L Rice Cooker SR-W22GS",
+    "brand": "Panasonic",
     "sku": "",
-    "price": 14616.0,
-    "regular_price": 18539.0,
-    "sale_price": 14616.0,
+    "price": 24701.0,
+    "regular_price": 29202.0,
+    "sale_price": 24701.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-rice-cooker-2-8l.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_2.8l.02.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/panasonic-2-2l-rice-cooker-sr-w22gs.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/n/e/new_project_5.png",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "2.8L"
+      "capacity": "2.2L"
     },
     "on_sale": true,
     "junk": false
@@ -8196,18 +8160,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Panasonic 2.2L Rice Cooker SR-W22GS",
-    "brand": "Panasonic",
+    "name": "Krypton 1.8L Rice Cooker With Steamer - KNRC5283",
+    "brand": null,
     "sku": "",
-    "price": 24701.0,
-    "regular_price": 29202.0,
-    "sale_price": 24701.0,
+    "price": 13990.0,
+    "regular_price": 18396.0,
+    "sale_price": 13990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/panasonic-2-2l-rice-cooker-sr-w22gs.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/n/e/new_project_5.png",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/krypton-1-8l-rice-cooker-with-steamer-knrc5283.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/k/n/knrc5283.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "2.2L"
+      "capacity": "1.8L"
     },
     "on_sale": true,
     "junk": false
@@ -8232,18 +8196,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Krypton 1.8L Rice Cooker With Steamer - KNRC5283",
+    "name": "Telesonic 6KG Commercial Rice Cooker - TL-85",
     "brand": null,
     "sku": "",
-    "price": 13990.0,
-    "regular_price": 18396.0,
-    "sale_price": 13990.0,
+    "price": 39590.0,
+    "regular_price": 49339.0,
+    "sale_price": 39590.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/krypton-1-8l-rice-cooker-with-steamer-knrc5283.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/k/n/knrc5283.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/telesonic-6kg-commercial-rice-cooker-tl-85.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/l/tl-66_2edb5379-2cad-44b1-ad85-3c89da0c67ff.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "6KG"
     },
     "on_sale": true,
     "junk": false
@@ -8268,18 +8232,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Telesonic 6KG Commercial Rice Cooker - TL-85",
+    "name": "Sanford 2.8L Rice Cooker",
     "brand": null,
     "sku": "",
-    "price": 39590.0,
-    "regular_price": 49339.0,
-    "sale_price": 39590.0,
+    "price": 16690.0,
+    "regular_price": 19300.0,
+    "sale_price": 16690.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/telesonic-6kg-commercial-rice-cooker-tl-85.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/l/tl-66_2edb5379-2cad-44b1-ad85-3c89da0c67ff.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-2-8l-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/u/n/untitleddesign_25.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "6KG"
+      "capacity": "2.8L"
     },
     "on_sale": true,
     "junk": false
@@ -8304,40 +8268,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 2.8L Rice Cooker",
-    "brand": null,
-    "sku": "",
-    "price": 16690.0,
-    "regular_price": 19300.0,
-    "sale_price": 16690.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-2-8l-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/u/n/untitleddesign_25.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "2.8L"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Sanford SF-2502RC 2.2 LTR Rice Cooker",
-    "brand": null,
-    "sku": "",
-    "price": 9990.0,
-    "regular_price": 12450.0,
-    "sale_price": 9990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-sf-2502rc-2-2-ltr-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf2502rc_new.jpg",
-    "category": "rice-cookers",
-    "attrs": {},
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Sanford 1L Rice Cooker - SF-2511RC",
     "brand": null,
     "sku": "",
@@ -8356,20 +8286,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Orange 1.8L 700W Rice Cooker",
+    "name": "LMG 10L Rice Cooker",
     "brand": null,
     "sku": "",
-    "price": 7990.0,
-    "regular_price": null,
-    "sale_price": null,
+    "price": 25990.0,
+    "regular_price": 31990.0,
+    "sale_price": 25990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/orange-1-8l-700w-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/2/4/245-1003.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-10l-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/l/m/lmgricecooker10l.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "10L"
     },
-    "on_sale": false,
+    "on_sale": true,
     "junk": false
   },
   {
@@ -8406,6 +8336,24 @@
       "capacity": "1.0L"
     },
     "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Orange 1.8L 700W Rice Cooker",
+    "brand": null,
+    "sku": "",
+    "price": 7990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/orange-1-8l-700w-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/2/4/245-1003.jpg",
+    "category": "rice-cookers",
+    "attrs": {
+      "capacity": "1.8L"
+    },
+    "on_sale": false,
     "junk": false
   },
   {
@@ -8518,24 +8466,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 0.6L Rice Cooker",
-    "brand": null,
-    "sku": "",
-    "price": 8180.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-0-6l-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/u/n/untitleddesign_19.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "0.6L"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Sharp Rice Cooker KS-23E-PI",
     "brand": "Sharp",
     "sku": "",
@@ -8552,20 +8482,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 1.5L Rice Cooker",
+    "name": "Sanford 0.6L Rice Cooker",
     "brand": null,
     "sku": "",
-    "price": 7990.0,
-    "regular_price": 8990.0,
-    "sale_price": 7990.0,
+    "price": 8180.0,
+    "regular_price": null,
+    "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-5l-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1187rc_new1.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-0-6l-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/u/n/untitleddesign_19.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.5L"
+      "capacity": "0.6L"
     },
-    "on_sale": true,
+    "on_sale": false,
     "junk": false
   },
   {
@@ -8598,6 +8528,24 @@
     "category": "rice-cookers",
     "attrs": {},
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Sanford 1.5L Rice Cooker",
+    "brand": null,
+    "sku": "",
+    "price": 7990.0,
+    "regular_price": 8990.0,
+    "sale_price": 7990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-5l-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1187rc_new1.jpg",
+    "category": "rice-cookers",
+    "attrs": {
+      "capacity": "1.5L"
+    },
+    "on_sale": true,
     "junk": false
   },
   {

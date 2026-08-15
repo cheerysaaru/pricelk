@@ -1,0 +1,1658 @@
+[
+  {
+    "retailer": "Toplaps",
+    "name": "ACER ASPIRE | CORE i3 1305U | INTEL GRAPHICS | 8GB DDR4 | 512GB SSD",
+    "brand": "Acer",
+    "sku": "",
+    "price": 184370.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/acer-aspiren-16-core-i3-1305u-intel-graphics-8gb-ddr4-512gb-ssd?variant=46990288781539",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ASPIREN16_AL16_1.png?v=1754479893",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ ESSENTIAL | Ryzen 7 7735HS | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 375950.0,
+    "regular_price": 399000.0,
+    "sale_price": 375950.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-ryzen-7-7435hs-rtx-4050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=47157424095459",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/4b46306e99e4324e4f10117309041216-Photoroom.png?v=1784871535",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "PLAYSTATION 5 PRO 2TB - CFI 7121 (PS5 Pro)",
+    "brand": "Sony",
+    "sku": "",
+    "price": 400670.0,
+    "regular_price": 410000.0,
+    "sale_price": 400670.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/playstation-5-pro-2tb-cfi-7121?variant=49426423283939",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/417d5b37807ac7d44c8d75a0ffc8ce86-Photoroom.png?v=1784451871",
+    "category": "laptops",
+    "attrs": {
+      "storage": "2TB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "PLAYSTATION 5 SLIM DISK EDITION CONSOLE 1TB - CFI-2116 (GEN 5) (PS5)",
+    "brand": "Sony",
+    "sku": "",
+    "price": 266770.0,
+    "regular_price": 275000.0,
+    "sale_price": 266770.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/playstation-5-slim-disk-edition-console-1tb-cfi-2116-gen-5?variant=49426319343843",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/1f4acbccc18b9cae9b286a14e404e716-Photoroom.png?v=1784451840",
+    "category": "laptops",
+    "attrs": {
+      "storage": "1TB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION | Ryzen 7 260 | RTX5060 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD 2 year company warranty",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 585040.0,
+    "regular_price": 595000.0,
+    "sale_price": 585040.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-ryzen-7-260-rtx5060-8gb-16gb-ddr5-512gb-gen4-nvme-ssd-copy?variant=49413933465827",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF F17 | CORE 5 210H | RTX 3050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 359470.0,
+    "regular_price": 365000.0,
+    "sale_price": 359470.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f16-core-5-210h-rtx-3050-6gb-16gb-ddr5-512gb-gen-4-nvme-copy?variant=49362415059171",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/asus_FX607.png?v=1754382635",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF A17 | Ryzen 7 7445HS | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 394490.0,
+    "regular_price": 415000.0,
+    "sale_price": 394490.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-a17-ryzen-5-7535hs-rtx-4050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=47153424072931",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ASUS_FA507_1.png?v=1754381317",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF F16 | Intel Core i5-14450HX | RTX 5050 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 441870.0,
+    "regular_price": 450000.0,
+    "sale_price": 441870.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f15-fx507-intel-core-5-210h?variant=46975866306787",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/asus_FX507.png?v=1754382006",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ ESSENTIAL | RYZEN 7 7735HS | RTX 3050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 345050.0,
+    "regular_price": 355000.0,
+    "sale_price": 345050.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-essential-core-i5-12450hx-rtx-3050-6gb-8gb-ddr5-512gb-gen-4-nvme?variant=47335263633635",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/esenssial_12_new.png?v=1759236077",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | CORE i5-13450HX | RTX 3050 6GB | 24GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 365650.0,
+    "regular_price": 370000.0,
+    "sale_price": 365650.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-15irx9-i5-13450hx?variant=46968326062307",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_IRX9_IAX9.png?v=1755577481",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | CORE i7- 13650HX | RTX 3050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 386250.0,
+    "regular_price": 395000.0,
+    "sale_price": 386250.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-core-i7-13650hx-rtx-3050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=48972695503075",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_IRX9_IAX9.png?v=1755577481",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | CORE i7-13650HX | RTX 5050 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 468650.0,
+    "regular_price": 455000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-core-i7-13700hx-rtx-5050-8gb-12gb-ddr5-512gb-gen-4-nvme-1?variant=47730230034659",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_IRX9_IAX9.png?v=1755577481",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "HP VICTUS | CORE i7 13620H | RTX 3050 6GB | 08GB DDR4 | 512GB SSD",
+    "brand": "HP",
+    "sku": "",
+    "price": 297670.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/hp-victus-core-i7-13620h-rtx-4050-6gb-16gb-ddr4-512gb-ssd-copy?variant=48927451939043",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/victus_fa103_1_new.png?v=1754373013",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | CORE i7- 13650HX | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 427450.0,
+    "regular_price": 435000.0,
+    "sale_price": 427450.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-15irx9-i7-13650hx?variant=46968367284451",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_IRX9_IAX9.png?v=1755577481",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | CORE i5-13450HX | RTX 5050 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 410970.0,
+    "regular_price": 419000.0,
+    "sale_price": 410970.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-core-i5-13450hx-rtx-4050-6gb-08gb-ddr5-512gb-gen-4-nvme-copy?variant=48923173683427",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_IRX9_IAX9.png?v=1755577481",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION PRO 5 | R9 9955HX | RTX5060 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 656370.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-pro-5-r7-8745hx-rtx5060-8gb-16gb-ddr5-512gb-gen4-nvme-ssd-copy-1?variant=48922156171491",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION | CORE ULTRA 9 275HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD (Copy)",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 592250.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-pro-5-core-ultra-9-275hx-rtx5060-8gb-16gb-ddr5-1tb-gen4-nvme-ssd-copy?variant=48922153025763",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION 5| CORE ULTRA 7 255HX | RTX5060 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 627270.0,
+    "regular_price": 650000.0,
+    "sale_price": 627270.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-pro-5-r7-8745hx-rtx5060-8gb-16gb-ddr5-512gb-gen4-nvme-ssd-copy?variant=48922138083555",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION PRO 7 | CORE ULTRA9 275HX | RTX5090 24GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 1390500.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-pro-7-core-ultra9-275hx-rtx5080-16gb-16gb-ddr5-1tb-gen4-nvme-ssd-copy?variant=48922058227939",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "24GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION PRO 5 | CORE ULTRA 9 275HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 668470.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-core-ultra-9-275hx-rtx5060-8gb-16gb-ddr5-1tb-gen4-nvme-ssd-copy?variant=48922055737571",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION | CORE i9 14900HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 606670.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-core-i9-14900hx-rtx5070-8gb-16gb-ddr5-1tb-gen4-nvme-ssd-copy?variant=48921888653539",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | Ryzen 5 7235HS | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 360757.5,
+    "regular_price": 365000.0,
+    "sale_price": 360757.5,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-15ahp9-ryzen-5-8645hs?variant=46968337596643",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_15AHP9.png?v=1754370924",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF A16 | Ryzen 7 170 | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME new",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 390370.0,
+    "regular_price": 399000.0,
+    "sale_price": 390370.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-a16-ryzen-7-7435hs-rtx-4050-6gb-16gb-ddr5-512gb-gen-4-nvme-new?variant=47781374066915",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ASUS_FA507_1.png?v=1754381317",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | CORE i5-13450HX | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 361530.0,
+    "regular_price": 365000.0,
+    "sale_price": 361530.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-core-i5-13450hx-rtx-4050-6gb-24gb-ddr5-512gb-gen-4-nvme?variant=47441115218147",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_IRX9_IAX9.png?v=1755577481",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI KATANA | CORE i9 14900HX |RTX 5070 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 586070.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-katana-core-i9-14900hx-rtx-5070-8gb-16gb-ddr5-512gb-gen4-nvme-ssd?variant=47859809288419",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VECTOR_1.png?v=1755090566",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI KATANA | CORE i7 14650HX |RTX 5070 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 452170.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-katana-core-i7-14650hx-rtx-5050-08gb-16gb-ddr5-512gb-gen4-nvme-ssd-copy?variant=47859773866211",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VECTOR_1.png?v=1755090566",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI KATANA | CORE i7 14650HX | RTX 5050 08GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 406850.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-katana-core-i7-14650hx-rtx-5050-08gb-16gb-ddr5-512gb-gen4-nvme-ssd?variant=47859754402019",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VECTOR_1.png?v=1755090566",
+    "category": "laptops",
+    "attrs": {
+      "storage": "08GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ACER PREDATOR | CORE ULTRA 9 275HX | RTX 5060 8GB | 16GB DDR5 | 512GB GEN 4 NVMe SSD",
+    "brand": "Acer",
+    "sku": "",
+    "price": 616970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/acer-predator-core-ultra-9-275hx-rtx-5060-8gb-16gb-ddr5-512gb-gen-4-nvme-ssd?variant=47859457589475",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/predator_2.png?v=1768986863",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ACER PREDATOR | CORE ULTRA 9 275HX | RTX 5090 24GB | 16GB DDR5 | 1TB GEN 4 NVMe SSD",
+    "brand": "Acer",
+    "sku": "",
+    "price": 1224670.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/acer-predator-core-ultra-9-275hx-rtx-5090-24gb-16gb-ddr5-1tb-gen-4-nvme-ssd?variant=47859443728611",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/predator_2.png?v=1768986863",
+    "category": "laptops",
+    "attrs": {
+      "storage": "24GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ACER PREDATOR | CORE ULTRA 9 275HX | RTX 5070Ti 12GB | 16GB DDR5 | 512GB GEN 4 NVMe SSD",
+    "brand": "Acer",
+    "sku": "",
+    "price": 616970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/acer-predator-core-ultra-9-275hx-rtx-5070ti-12gb-16gb-ddr5-512gb-gen-4-nvme-ssd?variant=47859436716259",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/predator_2.png?v=1768986863",
+    "category": "laptops",
+    "attrs": {
+      "storage": "12GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ACER PREDATOR | CORE ULTRA 9 275HX | RTX 5090 24GB | 16GB DDR5 | 1TB GEN 4 NVMe SSD",
+    "brand": "Acer",
+    "sku": "",
+    "price": 1131970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/acer-predator-core-ultra-9-275hx-rtx5090-24gb-16gb-ddr5-512gb-gen-4-nvme?variant=47859432685795",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/predator_2.png?v=1768986863",
+    "category": "laptops",
+    "attrs": {
+      "storage": "24GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION | Ryzen 7 260 | RTX5060 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 555170.0,
+    "regular_price": 555000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-ryzen-7-260-rtx5060-8gb-16gb-ddr5-512gb-gen4-nvme-ssd?variant=47858910331107",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE ULTRA9 275HX | RTX5090 24GB |16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 1337970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-rog-strix-core-ultra9-275hx-rtx5090-24gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47855473131747",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "24GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE ULTRA9 275HX | RTX5080 16GB |16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 1028970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-rog-strix-core-ultra9-275hx-rtx5080-16gb-16gb-ddr5-1tb-gen4-nvme-ssd-copy?variant=47855446720739",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "16GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF A16 | Ryzen 9 270 | RTX 5070 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 513970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f16-ryzen-9-270-rtx-5070-8gb-16gb-ddr5-512gb-gen-4-nvme?variant=47852031279331",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/fx608_2_new.png?v=1759233682",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF F16 | Core Ultra 9 275HX | RTX 5060 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 503670.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f16-core-ultra-9-275hx-rtx-5060-8gb-16gb-ddr5-512gb-gen-4-nvme?variant=47851941986531",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/fx608_2_new.png?v=1759233682",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | Ryzen 7 250 | RTX 5050 8GB | 12GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 338870.0,
+    "regular_price": 360000.0,
+    "sale_price": 338870.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-ryzen-7-250-rtx-5050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=47813749080291",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_15AHP9.png?v=1754370924",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ ESSENTIAL | CORE I5-12450HX | RTX 3050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 328570.0,
+    "regular_price": 335000.0,
+    "sale_price": 328570.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-essential-core-i5-12450hx-rtx-3050-6gb-12gb-ddr5-512gb-gen-4-nvme?variant=47813497454819",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/esenssial_12_new.png?v=1759236077",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "HP VICTUS | CORE i7 13620H | RTX 4050 6GB | 16GB DDR4 | 512GB SSD",
+    "brand": "HP",
+    "sku": "",
+    "price": 359470.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/hp-victus-core-i7-13620h-rtx-4050-6gb-16gb-ddr4-512gb-ssd?variant=47813319655651",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/victus_fa103_1_new.png?v=1754373013",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI CYBORG | Core i5 13420H | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "MSI",
+    "sku": "",
+    "price": 345050.0,
+    "regular_price": 355000.0,
+    "sale_price": 345050.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-cyborg-core-i5-13620h-rtx-3050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=47813257986275",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/MSI_THIN_1.png?v=1761134308",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI CYBORG | Core i7 13620H | RTX 5060 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "MSI",
+    "sku": "",
+    "price": 437750.0,
+    "regular_price": 455000.0,
+    "sale_price": 437750.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-cyborg-core-i7-13620h-rtx-5060-8gb-16gb-ddr5-512gb-gen-4-nvme?variant=47813248975075",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/MSI_THIN_1.png?v=1761134308",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI CYBORG | Core i7 13620H | RTX 5050 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "MSI",
+    "sku": "",
+    "price": 412000.0,
+    "regular_price": 435000.0,
+    "sale_price": 412000.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-cyborg-core-i7-13620h-rtx-5050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=47811440050403",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/MSI_THIN_1.png?v=1761134308",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE i7 14650HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 525300.0,
+    "regular_price": 650000.0,
+    "sale_price": 525300.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-rog-strix-core-i7-14650hx-rtx5650-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47040503972067",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/rog_16.png?v=1761197544",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE i9 14900HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 602550.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-rog-strix-core-i9-14900hx-rtx5060-8gb-16gb-ddr5-512gb-gen4-nvme-ssd?variant=47654264471779",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/rog_16.png?v=1761197544",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "HP VICTUS | CORE i5 13420H | RTX 3050 6GB | 8GB DDR4 | 512GB SSD",
+    "brand": "HP",
+    "sku": "",
+    "price": 293550.0,
+    "regular_price": 300000.0,
+    "sale_price": 293550.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/hp-victus-core-i5-13420h-rtx-3050-6gb-8gb-ddr4-512gb-ssd?variant=47629787365603",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/victus_fa103_1_new.png?v=1754373013",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE i9 14900HX | RTX4070 8GB | 32GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 731300.0,
+    "regular_price": 650000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-rog-strix-core-i9-14900hx-rtx4070-8gb-32gb-ddr5-1tb-gen4-nvme-ssd?variant=47442331435235",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/rog_16.png?v=1761197544",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "HP VICTUS | CORE i7 13620H | RTX 5060 8GB | 16GB DDR5 | 512GB SSD",
+    "brand": "HP",
+    "sku": "",
+    "price": 431570.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/hp-victus-core-i7-13620h-rtx-5060-8gb-16gb-ddr5-512gb-ssd?variant=47442097471715",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/victus_fa103_1_new.png?v=1754373013",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF F16 | Core i7 - 14650HX | RTX 5050 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 492340.0,
+    "regular_price": 499000.0,
+    "sale_price": 492340.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f16-core-i7-14650hx-rtx-5050-8gb-16gb-ddr5-1tb-gen-4-nvme?variant=48903085555939",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/fx608_2_new.png?v=1759233682",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "DELL 15 | CORE 3 100U | INTEL GRAPHICS | 8GB DDR4 | 512GB SSD",
+    "brand": "Dell",
+    "sku": "",
+    "price": 175100.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/dell-vostro-core-i3-1334u-intel-graphics-8gb-ddr4-512gb-ssd?variant=47438913274083",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/laptop_webbsite_81146a42-0b4f-47e6-a992-385f0213b051.png?v=1762088951",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "DELL 15 ES | CORE i5 1334U | INTEL GRAPHICS | 8GB DDR4 | 512GB SSD",
+    "brand": "Dell",
+    "sku": "",
+    "price": 197760.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/dell-vostro-core-i5-1334u-intel-graphics-8gb-ddr4-512gb-ssd?variant=47438882144483",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VOSTRO_3530_1.png?v=1754460369",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "HP | CORE i5 1334U| INTEL GRAPHICS | 8GB DDR4 | 512GB SSD",
+    "brand": "HP",
+    "sku": "",
+    "price": 211150.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/hp-core-i5-1334u-intel-graphics-8gb-ddr4-512gb-ssd-1?variant=47438848917731",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/15FD_1.png?v=1754465159",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI Modern 15 | CORE 5 120U | INTEL UHD GRAPHICS | 8GB DDR4 | 512GB GEN 4 NVME",
+    "brand": "MSI",
+    "sku": "",
+    "price": 231750.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-modern-15-core-i5-1334u-intel-uhd-graphics-8gb-ddr4-512gb-gen-4-nvme?variant=47438431322339",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/modern.png?v=1759663219",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS VIVOBOOK | CORE 5 120U | INTEL GRAPHICS | 8GB DDR4 | 512GB NVMe SSD",
+    "brand": "vivo",
+    "sku": "",
+    "price": 224540.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-vivobook-core-5-120u-intel-graphics-8gb-ddr4-512gb-ssd?variant=47438174093539",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VIVOBOOK_X1502_1.png?v=1754400863",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "HP VICTUS | Ryzen 7 7445HS | RTX 4050 6GB | 16GB DDR5 | 512GB SSD",
+    "brand": "HP",
+    "sku": "",
+    "price": 370800.0,
+    "regular_price": 385000.0,
+    "sale_price": 370800.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/hp-victus-ryzen-7-7445hs-rtx-4050-6gb-16gb-ddr5-512gb-ssd?variant=47394843984099",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/victus_fa103_1_new.png?v=1754373013",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE ULTRA9 275HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 647870.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-rog-strix-core-ultra9-275hx-rtx5060-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47379428933859",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/rog_18.png?v=1761197736",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | Ryzen 9 9955HX | RTX5050 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 586070.0,
+    "regular_price": 599000.0,
+    "sale_price": 586070.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-rog-strix-ryzen-9-9955hx-rtx5050-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47379423756515",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE i9 14900HX | RTX5070 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 658170.0,
+    "regular_price": 650000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-rog-strix-core-i9-14900hx-rtx5070-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47379369132259",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/rog_16.png?v=1761197544",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI CYBORG | Core i7 13620H | RTX 3050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "MSI",
+    "sku": "",
+    "price": 297670.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-cyborg-core-i7-13620h-rtx-3050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=47373886750947",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/MSI_THIN_1.png?v=1761134308",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | CORE i7- 13650HX | RTX 5060 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 489250.0,
+    "regular_price": 475000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-core-i7-13700hx-rtx-5060-8gb-12gb-ddr5-512gb-gen-4-nvme?variant=47373857915107",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_IRX9_IAX9.png?v=1755577481",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LOQ | RYZEN 5 220 | RTX 5050 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 401700.0,
+    "regular_price": 359000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-loq-core-i5-13450hx-rtx-5050-8gb-12gb-ddr5-512gb-gen-4-nvme?variant=47335272644835",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/LOQ_IRX9_IAX9.png?v=1755577481",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI THIN 15 | Core i5 13420H | RTX 4050 6GB | 16GB DDR4 | 512GB GEN 4 NVME",
+    "brand": "MSI",
+    "sku": "",
+    "price": 334750.0,
+    "regular_price": 345000.0,
+    "sale_price": 334750.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-thin-15-ryzen-i5-13420h-rtx-4050-6gb-16gb-ddr4-512gb-gen-4-nvme?variant=47251902595299",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/wmremove-transformed.png?v=1759298721",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION | CORE ULTRA 9 275HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 592250.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-core-ultra9-275hx-rtx5060-8gb-32gb-ddr5-1tb-gen4-nvme-ssd?variant=47233269989603",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION | RYZEN 7 260 | RTX5050 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 520150.0,
+    "regular_price": 535000.0,
+    "sale_price": 520150.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-core-i7-13650hx-rtx5050-8gb-24gb-ddr5-512gb-gen4-nvme-ssd-copy?variant=47233155432675",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF F16 | Core i7 - 14650HX | RTX 5060 8GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 523240.0,
+    "regular_price": 530000.0,
+    "sale_price": 523240.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f16-core-i7-14650hx-rtx-5060-8gb-32gb-ddr5-1tb-gen-4-nvme?variant=47220600930531",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/fx608_2_new.png?v=1759233682",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF F16 | CORE 5 210H | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 375950.0,
+    "regular_price": 389000.0,
+    "sale_price": 375950.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f16-core-5-210h-rtx-4050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=47025889247459",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/asus_FX607.png?v=1754382635",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF F16 | CORE 5 210H | RTX 3050 6GB | 16GB DDR4 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 345050.0,
+    "regular_price": 355000.0,
+    "sale_price": 345050.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f16-core-5-210h-rtx-3050-6gb-16gb-ddr5-512gb-gen-4-nvme?variant=47025883283683",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/asus_FX607.png?v=1754382635",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI ΚΑΤΑΝΑ | CORE i9 14900HX | RTX 5070 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 715850.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-κατανα-core-i9-14900hx-rtx-5070-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47021749666019",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/KATANA_1.png?v=1755144023",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI ΚΑΤΑΝΑ | CORE i9 14900HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 659200.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-κατανα-core-i9-14900hx-rtx5060-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47021745471715",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/KATANA_1.png?v=1755144023",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI ΚΑΤΑΝΑ | CORE i7 14650HX | RTX5070 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 509850.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-κατανα-core-i7-14650hx-rtx5070-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47021744128227",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/KATANA_1.png?v=1755144023",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI ΚΑΤΑΝΑ | CORE i7 14650HX | RTX5050 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 586070.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-κατανα-core-i7-14650hx-rtx5050-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47021744062691",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/KATANA_1.png?v=1755144023",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI VECTOR | CORE ULTRA9 275HX | RTX5070TI 12GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 699370.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-vector-core-ultra9-275hx-rtx5070ti-12gb-32gb-ddr5-1tb-gen4-nvme-ssd-copy?variant=47020199280867",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VECTOR_1.png?v=1755090566",
+    "category": "laptops",
+    "attrs": {
+      "storage": "12GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI VECTOR | CORE ULTRA 9 275HX | RTX5080 16GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 864170.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-vector-core-ultra7-255hx-rtx5070ti-12gb-16gb-ddr5-512gb-gen4-nvme-ssd-copy?variant=47020194660579",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VECTOR_1.png?v=1755090566",
+    "category": "laptops",
+    "attrs": {
+      "storage": "16GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "MSI VECTOR | CORE ULTRA 7 255HX | RTX5070TI 12GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "MSI",
+    "sku": "",
+    "price": 616970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/msi-vector-core-ultra7-255hx-rtx5070ti-12gb-16gb-ddr5-512gb-gen4-nvme-ssd?variant=47020180996323",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VECTOR_1.png?v=1755090566",
+    "category": "laptops",
+    "attrs": {
+      "storage": "12GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION PRO 7 | CORE ULTRA9 275HX | RTX5070TI 12GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 925970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-pro-core-ultra9-275hx-rtx5070ti-12gb-32gb-ddr5-1tb-gen4-nvme-ssd?variant=47019921146083",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "12GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION PRO 7 | CORE ULTRA 9 275HX | RTX5080 16GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 1127850.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-pro-core-ultra9-275hx-rtx5080-16gb-32gb-ddr5-1tb-gen4-nvme-ssd?variant=47019914952931",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "16GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION | CORE i9 14900HX | RTX5070 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 637570.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-core-i9-14900hx-rtx5070-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47019900829923",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO LEGION PRO 5| R7 8745HX | RTX5060 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 583970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-legion-ccore-ultra7-255hx-rtx5060-8gb-32gb-ddr5-1tb-gen4-nvme-ssd-copy?variant=47019870847203",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/legion_1.png?v=1755077101",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | Ryzen 9 9955HX | RTX5060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 555170.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/rog-strix-ryzen-9-8949hx-rtx5060-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47019587731683",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE ULTRA9 275HX | RTX5080 16GB | 32GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 1131970.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/rog-strix-core-ultra9-275hx-rtx5080-16gb-32gb-ddr5-2tb-gen4-nvme-ssd-copy?variant=47019540512995",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "16GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE ULTRA9 275HX | RTX5070TI 12GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 998070.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/rog-strix-core-ultra9-275hx-rtx5070ti-12gb-32gb-ddr5-2tb-gen4-nvme-ssd?variant=47019501224163",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "12GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | Ryzen 9 9955HX | RTX5070TI 12GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 895070.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/rog-strix-ryzen-9-8949hx-rtx5070ti-12gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47019520032995",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "12GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE i7 14650HX | RTX5060 8GB | 16GB DDR5 | 512GB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 565470.0,
+    "regular_price": 575000.0,
+    "sale_price": 565470.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/rog-strix-core-i7-14650hx-rtx5050-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47019475796195",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS ROG STRIX | CORE i7 13650HX | RTX4060 8GB | 16GB DDR5 | 1TB GEN4 NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 473800.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/rog-strix-core-i7-13650hx-rtx4060-8gb-16gb-ddr5-1tb-gen4-nvme-ssd?variant=47019458560227",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ROG_SRIC_1.png?v=1755068872",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ACER ASPIRE | CORE i5 13420H | INTEL GRAPHICS | 16GB DDR4 | 512GB SSD",
+    "brand": "Acer",
+    "sku": "",
+    "price": 242050.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/acer-core-i5-13420h-intel-graphics-8gb-ddr4-512gb-ssd?variant=46990255980771",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/ASPIRE_5_A515_4.png?v=1754479064",
+    "category": "laptops",
+    "attrs": {
+      "storage": "16GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO V15 | CORE i5 13420H | INTEL GRAPHICS | 16GB DDR4 | 512GB SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 225570.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-v15-core-i5-13420h-intel-graphics-8gb-ddr4-256gb-ssd?variant=46990008221923",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/V15_2.png?v=1754476724",
+    "category": "laptops",
+    "attrs": {
+      "storage": "16GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "LENOVO V15 | CORE i3 1315U | INTEL GRAPHICS | 8GB DDR4 | 512GB SSD",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 183340.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/lenovo-v15-core-i3-1315u-intel-graphics-8gb-ddr4-256gb-ssd?variant=46989991936227",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/V15_2.png?v=1754476724",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS EXPERTBOOK | CORE 5 120U | INTEL GRAPHICS | 8GB DDR5 | 512GB NVMe SSD",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 221450.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-expertbook-p1503-intel-core-i5-13420h?variant=46989102219491",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/EXPERTBOOK_P1503_1.png?v=1754458488",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS VIVOBOOK | CORE i5 13420H | INTEL GRAPHICS | 8GB DDR4 | 256GB SSD",
+    "brand": "vivo",
+    "sku": "",
+    "price": 216300.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-vivobook-x1502-intel-core-i5-13420h?variant=46987680448739",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/VIVOBOOK_X1502_1.png?v=1754400863",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS VIVOBOOK | CORE i7 1355U | INTEL GRAPHICS | 8GB DDR4 | 512GB SSD",
+    "brand": "vivo",
+    "sku": "",
+    "price": 235870.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-vivobook-x1504-intel-core-i7-1355u?variant=46987656790243",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/asus_vivobook_x1504_3.png?v=1754396986",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "HP VICTUS | CORE i5 13420H | RTX 4050 6GB | 16GB DDR4 | 512GB SSD",
+    "brand": "HP",
+    "sku": "",
+    "price": 350200.0,
+    "regular_price": 345000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/victus-fa2701wm-i5-13420h-rtx-4050-6gb?variant=46985907929315",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/victus_fa103_1_new.png?v=1754373013",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF F16 | Core7 240H | RTX 4050 6GB | 16GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 453200.0,
+    "regular_price": 460000.0,
+    "sale_price": 453200.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-f16-fx607-intel-core-i7-13620h?variant=46976184910051",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/asus_FX607.png?v=1754382635",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Toplaps",
+    "name": "ASUS TUF A15 | Ryzen 7 7435HS | RTX 3050 4GB | 08GB DDR5 | 512GB GEN 4 NVME",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 303850.0,
+    "regular_price": 315000.0,
+    "sale_price": 303850.0,
+    "currency": "LKR",
+    "url": "https://toplaps.lk/products/asus-tuf-a15-fa506n-rtx-3050?variant=46329879691491",
+    "image": "https://cdn.shopify.com/s/files/1/0733/8328/0867/files/asus_FA506.png?v=1754377901",
+    "category": "laptops",
+    "attrs": {
+      "storage": "4GB"
+    },
+    "on_sale": true,
+    "junk": false
+  }
+]

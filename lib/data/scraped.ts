@@ -42,6 +42,12 @@ export const RETAILER_IDS: Record<string, string> = {
   "Wasi.lk": "wasi",
   "iDealz": "idealz",
   "Takas": "takas",
+  "Abans": "abans",
+  "Acecom": "acecom",
+  "PC.LK": "pclk",
+  "ComputerCare": "computercare",
+  "Laptop.lk": "laptop_lk",
+  "Toplaps": "toplaps",
 };
 
 function normalize(s: string): string {
@@ -118,6 +124,18 @@ export function getScrapedRecords(): ScrapedRecord[] {
   return RECORDS;
 }
 
+const RETAILER_NAMES: Record<string, string> = {
+  wasi: "Wasi.lk",
+  idealz: "iDealz",
+  takas: "Takas",
+  abans: "Abans",
+  acecom: "Acecom",
+  pclk: "PC.LK",
+  computercare: "ComputerCare",
+  laptop_lk: "Laptop.lk",
+  toplaps: "Toplaps",
+};
+
 /** Real retailers present in the snapshot, with record counts. */
 export function getScrapedRetailers(): { id: string; name: string; count: number }[] {
   const counts = new Map<string, number>();
@@ -127,7 +145,7 @@ export function getScrapedRetailers(): { id: string; name: string; count: number
   }
   return [...counts.entries()].map(([id, count]) => ({
     id,
-    name: id === "wasi" ? "Wasi.lk" : id === "idealz" ? "iDealz" : "Takas",
+    name: RETAILER_NAMES[id] ?? id,
     count,
   }));
 }

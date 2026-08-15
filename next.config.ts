@@ -17,6 +17,11 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "www.wasi.lk" },
       { protocol: "https", hostname: "wasi.lk" },
       { protocol: "https", hostname: "idealz.lk" },
+      { protocol: "https", hostname: "buyabans.com" },
+      { protocol: "https", hostname: "acecomlanka.lk" },
+      { protocol: "https", hostname: "www.pc.lk" },
+      { protocol: "https", hostname: "computercare.lk" },
+      { protocol: "https", hostname: "cdn.shopify.com" },
     ],
   },
 };
