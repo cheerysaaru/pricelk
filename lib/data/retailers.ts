@@ -1,0 +1,217 @@
+import type { Retailer } from "@/lib/types";
+
+/**
+ * DEMO RETAILERS
+ * --------------
+ * These are fictional placeholder retailers for the prototype only.
+ * In production this table is replaced by the verified-retailer registry
+ * (country_code = 'LK', is_sri_lankan = true, is_verified = true, is_active = true).
+ *
+ * `priceFactor` scales base prices so each store is consistently priced.
+ */
+
+const LAST_VERIFIED = new Date(Date.now() - 2 * 24 * 60 * 60 * 1000).toISOString();
+const NOW = new Date().toISOString();
+
+export interface RetailerSeed extends Retailer {
+  priceFactor: number;
+  /** Categories this store is strong in — used to pick offers per product. */
+  focuses: string[];
+  /** Bias toward having an offer for a given product (0..1). */
+  coverage: number;
+}
+
+export const RETAILER_SEEDS: RetailerSeed[] = [
+  {
+    id: "lankamart",
+    name: "LankaMart",
+    domain: "lankamart.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: LAST_VERIFIED,
+    logoColor: "#0d9488",
+    initials: "LM",
+    description: "General online store — electronics, home and grocery.",
+    productCount: 12430,
+    updatedMinutesAgo: 12,
+    isDemo: true,
+    priceFactor: 1.0,
+    focuses: ["phones", "laptops", "appliances", "milk-powder", "rice"],
+    coverage: 0.95,
+  },
+  {
+    id: "colombo-digital",
+    name: "Colombo Digital",
+    domain: "colombodigital.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: LAST_VERIFIED,
+    logoColor: "#4f46e5",
+    initials: "CD",
+    description: "Specialist electronics retailer based in Colombo.",
+    productCount: 8412,
+    updatedMinutesAgo: 8,
+    isDemo: true,
+    priceFactor: 0.972,
+    focuses: ["phones", "laptops", "tvs", "headphones"],
+    coverage: 0.92,
+  },
+  {
+    id: "island-tech",
+    name: "Island Tech",
+    domain: "islandtech.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: LAST_VERIFIED,
+    logoColor: "#0284c7",
+    initials: "IT",
+    description: "Electronics and computing with nationwide delivery.",
+    productCount: 9630,
+    updatedMinutesAgo: 20,
+    isDemo: true,
+    priceFactor: 1.018,
+    focuses: ["phones", "laptops", "tvs", "headphones"],
+    coverage: 0.9,
+  },
+  {
+    id: "ceyloncart",
+    name: "CeylonCart",
+    domain: "ceyloncart.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: LAST_VERIFIED,
+    logoColor: "#b45309",
+    initials: "CC",
+    description: "Multi-category marketplace and supermarket range.",
+    productCount: 18720,
+    updatedMinutesAgo: 32,
+    isDemo: true,
+    priceFactor: 1.055,
+    focuses: ["appliances", "milk-powder", "rice", "phones"],
+    coverage: 0.88,
+  },
+  {
+    id: "kandy-electronics",
+    name: "Kandy Electronics",
+    domain: "kandyelectronics.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: LAST_VERIFIED,
+    logoColor: "#7c3aed",
+    initials: "KE",
+    description: "Electronics retailer serving the hill country.",
+    productCount: 5320,
+    updatedMinutesAgo: 45,
+    isDemo: true,
+    priceFactor: 1.087,
+    focuses: ["phones", "laptops", "tvs", "headphones"],
+    coverage: 0.72,
+  },
+  {
+    id: "lanka-home-store",
+    name: "Lanka Home Store",
+    domain: "lankahome.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: LAST_VERIFIED,
+    logoColor: "#16a34a",
+    initials: "LH",
+    description: "Home appliances and essentials.",
+    productCount: 7140,
+    updatedMinutesAgo: 15,
+    isDemo: true,
+    priceFactor: 1.028,
+    focuses: ["appliances", "tvs", "rice", "milk-powder"],
+    coverage: 0.85,
+  },
+];
+
+export const RETAILERS: Retailer[] = RETAILER_SEEDS.map(({ priceFactor, focuses, coverage, ...retailer }) => retailer);
+
+/**
+ * REAL RETAILERS
+ * --------------
+ * Verified Sri Lankan stores whose prices come from the scraper pipeline
+ * (see scrapers/). `isDemo: false` marks them as real.
+ */
+export const REAL_RETAILERS: Retailer[] = [
+  {
+    id: "wasi",
+    name: "Wasi.lk",
+    domain: "wasi.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: NOW,
+    logoColor: "#e11d48",
+    initials: "WA",
+    description: "Sri Lankan electronics, appliances and lifestyle store (WooCommerce).",
+    productCount: 94,
+    updatedMinutesAgo: 0,
+    isDemo: false,
+  },
+  {
+    id: "idealz",
+    name: "iDealz",
+    domain: "idealz.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: NOW,
+    logoColor: "#0891b2",
+    initials: "ID",
+    description: "Sri Lankan gadget and audio retailer (WooCommerce).",
+    productCount: 3,
+    updatedMinutesAgo: 0,
+    isDemo: false,
+  },
+  {
+    id: "takas",
+    name: "Takas",
+    domain: "takas.lk",
+    countryCode: "LK",
+    currency: "LKR",
+    isSriLankan: true,
+    isVerified: true,
+    isActive: true,
+    lastVerified: NOW,
+    logoColor: "#7c3aed",
+    initials: "TK",
+    description: "Sri Lankan electronics, appliances and home store (Magento).",
+    productCount: 580,
+    updatedMinutesAgo: 0,
+    isDemo: false,
+  },
+];
+
+export const ALL_RETAILERS: Retailer[] = [...RETAILERS, ...REAL_RETAILERS];
+
+export function getRetailer(id: string): Retailer | undefined {
+  return ALL_RETAILERS.find((r) => r.id === id);
+}
+
+export function getRetailerSeed(id: string): RetailerSeed | undefined {
+  return RETAILER_SEEDS.find((r) => r.id === id);
+}

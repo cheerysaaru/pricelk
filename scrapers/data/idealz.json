@@ -1,0 +1,50 @@
+[
+  {
+    "retailer": "iDealz",
+    "name": "Apple AirPods Pro 3 with MagSafe Charging Case",
+    "brand": "Apple",
+    "sku": "",
+    "price": 77490.0,
+    "regular_price": 104990.0,
+    "sale_price": 77490.0,
+    "currency": "LKR",
+    "url": "https://idealz.lk/product/apple-airpods-pro-3-with-magsafe-charging-case/",
+    "image": "https://idealz.lk/wp-content/uploads/2025/09/AIRPODS-PRO-3-7.jpg",
+    "category": "audio",
+    "attrs": {},
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "iDealz",
+    "name": "JBL TUNE 520C USB-C",
+    "brand": "JBL",
+    "sku": "",
+    "price": 15990.0,
+    "regular_price": 18990.0,
+    "sale_price": 15990.0,
+    "currency": "LKR",
+    "url": "https://idealz.lk/product/jbl-tune-520c-usb-c/",
+    "image": "https://idealz.lk/wp-content/uploads/2026/07/JBL-Tune-520C-USB-C-4.jpg",
+    "category": "audio",
+    "attrs": {},
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "iDealz",
+    "name": "JBL TUNE 520BT",
+    "brand": "JBL",
+    "sku": "",
+    "price": 13379.0,
+    "regular_price": 21390.0,
+    "sale_price": 13379.0,
+    "currency": "LKR",
+    "url": "https://idealz.lk/product/jbl-tune-520bt/",
+    "image": "https://idealz.lk/wp-content/uploads/2025/03/JBL-720BT-WHITE.jpg",
+    "category": "audio",
+    "attrs": {},
+    "on_sale": true,
+    "junk": false
+  }
+]
