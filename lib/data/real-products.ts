@@ -5,7 +5,7 @@
  * search covers the FULL scraped catalogue (all stores), not just the demo
  * products. Each real product links directly to its retailer product page.
  */
-import type { RealProduct } from "@/lib/types";
+import type { Deal, RealProduct } from "@/lib/types";
 import { getRetailer } from "@/lib/data/retailers";
 import { getScrapedRecords, RETAILER_IDS } from "@/lib/data/scraped";
 
@@ -97,4 +97,71 @@ export function getRealProductsBySlugs(slugs: string[]): RealProduct[] {
 
 export function getRealProductCount(): number {
   return REAL_PRODUCTS.length;
+}
+
+/**
+ * REAL DEALS
+ * ----------
+ * Every scraped record flagged on_sale (sale_price < regular_price) becomes a
+ * Deal card. Sorted by biggest savings first. No invented discounts.
+ */
+function buildRealDeals(): Deal[] {
+  const out: Deal[] = [];
+  for (const r of getScrapedRecords()) {
+    if (r.junk || r.price == null || r.price < 100) continue;
+    if (!r.on_sale || !r.sale_price || !r.regular_price) continue;
+    if (r.sale_price >= r.regular_price) continue;
+    const retailerId = RETAILER_IDS[r.retailer];
+    if (!retailerId) continue;
+    const retailer = getRetailer(retailerId);
+    const category = mapCategory(r.category, r.name);
+    const savings = r.regular_price - r.sale_price;
+    const variantLabel = Object.entries(r.attrs)
+      .map(([k, v]) => `${k}: ${v}`)
+      .join(" · ");
+    out.push({
+      productSlug: `real-${retailerId}-${hashStr(r.name + r.sale_price).toString(36)}`,
+      productName: r.name,
+      brand: r.brand ?? "Unknown",
+      image: r.image,
+      accent: ACCENTS[hashStr(r.brand ?? r.name) % ACCENTS.length],
+      variantLabel: variantLabel || "On sale",
+      retailerName: retailer?.name ?? r.retailer,
+      retailerId,
+      oldPrice: r.regular_price,
+      newPrice: r.sale_price,
+      savings,
+      dropPercent: Math.round((savings / r.regular_price) * 1000) / 10,
+      lastChecked: new Date().toISOString(),
+      category,
+      categoryName: CATEGORY_NAMES[category] ?? "Products",
+      url: r.url,
+    });
+  }
+  return out.sort((a, b) => b.savings - a.savings);
+}
+
+const REAL_DEALS: Deal[] = buildRealDeals();
+
+export function getRealDeals(n?: number): Deal[] {
+  return n == null ? REAL_DEALS : REAL_DEALS.slice(0, n);
+}
+
+export function getRealDealCount(): number {
+  return REAL_DEALS.length;
+}
+
+/**
+ * POPULAR REAL PRODUCTS
+ * ---------------------
+ * Real products have no popularity signal, so pick a varied spread: the
+ * cheapest real product per category, cheapest first.
+ */
+export function getPopularRealProducts(n = 8): RealProduct[] {
+  const byCategory = new Map<string, RealProduct>();
+  for (const p of REAL_PRODUCTS) {
+    const existing = byCategory.get(p.category);
+    if (!existing || p.price < existing.price) byCategory.set(p.category, p);
+  }
+  return [...byCategory.values()].sort((a, b) => a.price - b.price).slice(0, n);
 }

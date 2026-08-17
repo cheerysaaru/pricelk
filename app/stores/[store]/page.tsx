@@ -1,16 +1,14 @@
 import type { Metadata } from "next";
 import { notFound } from "next/navigation";
 import { BadgeCheck, Globe } from "lucide-react";
-import { ALL_RETAILERS, getRetailer } from "@/lib/data/retailers";
-import { getAllProducts, getLowestOfferForVariant } from "@/lib/data/products";
+import { REAL_RETAILERS, getRetailer } from "@/lib/data/retailers";
 import { getScrapedRecords, RETAILER_IDS } from "@/lib/data/scraped";
-import { ProductCard } from "@/components/product/product-card";
 import { RealProductCard } from "@/components/product/real-product-card";
 import { Breadcrumbs } from "@/components/breadcrumbs";
 import { timeAgo } from "@/lib/format";
 
 export function generateStaticParams() {
-  return ALL_RETAILERS.map((retailer) => ({ store: retailer.id }));
+  return REAL_RETAILERS.map((retailer) => ({ store: retailer.id }));
 }
 
 export async function generateMetadata({
@@ -34,11 +32,7 @@ export default async function StorePage({
 }) {
   const { store } = await params;
   const retailer = getRetailer(store);
-  if (!retailer) notFound();
-
-  const products = getAllProducts().filter((p) =>
-    p.offers.some((o) => o.retailerId === retailer.id),
-  );
+  if (!retailer || retailer.isDemo) notFound();
 
   // Real scraped offers from this store (one card per product record).
   const realProducts = getScrapedRecords()
@@ -95,13 +89,10 @@ export default async function StorePage({
         Tracked products at {retailer.name}
       </h2>
       <p className="mt-1 text-sm text-zinc-500">
-        {products.length + realProducts.length} products with prices from this store.
+        {realProducts.length} products with live prices from this store.
       </p>
 
       <div className="mt-6 grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 lg:grid-cols-4">
-        {products.map((p) => (
-          <ProductCard key={p.id} product={p} />
-        ))}
         {realProducts.map((p) => (
           <RealProductCard key={p.slug} product={p} />
         ))}

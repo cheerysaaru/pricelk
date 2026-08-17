@@ -2,11 +2,16 @@ import type { NextConfig } from "next";
 
 const isProd = process.env.NODE_ENV === "production";
 
+// Local verification: build with ASSET_PREFIX=http://localhost:8090/pricelk/ so
+// the static export loads its own JS chunks instead of the live site's.
+const assetPrefix =
+  process.env.ASSET_PREFIX ?? (isProd ? "https://cheerysaaru.github.io/pricelk/" : undefined);
+
 const nextConfig: NextConfig = {
   output: "export",
   trailingSlash: true,
   basePath: isProd ? "/pricelk" : undefined,
-  assetPrefix: isProd ? "https://cheerysaaru.github.io/pricelk/" : undefined,
+  assetPrefix,
   turbopack: {
     root: __dirname,
   },

@@ -1,7 +1,7 @@
 import type { Metadata } from "next";
 import Link from "next/link";
 import { ArrowUpRight, BadgeCheck, Globe, Radio } from "lucide-react";
-import { ALL_RETAILERS } from "@/lib/data/retailers";
+import { REAL_RETAILERS } from "@/lib/data/retailers";
 import { timeAgo } from "@/lib/format";
 
 export const metadata: Metadata = {
@@ -14,12 +14,12 @@ export default function StoresPage() {
     <div className="container-page py-8">
       <h1 className="text-2xl font-semibold tracking-tight text-zinc-900">Stores</h1>
       <p className="mt-1 max-w-xl text-sm text-zinc-500">
-        Every retailer on PriceLK is verified as a Sri Lankan online store — Sri Lankan domain,
-        LKR pricing, local delivery and support.
+        Every retailer on PriceLK is a real Sri Lankan online store we scrape live — Sri Lankan
+        domain, LKR pricing, local delivery and support.
       </p>
 
       <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {ALL_RETAILERS.map((r) => (
+        {REAL_RETAILERS.map((r) => (
           <article
             key={r.id}
             className="flex flex-col rounded-xl border border-zinc-200 bg-white p-5 transition-all duration-200 hover:border-zinc-300 hover:shadow-sm"
@@ -48,12 +48,10 @@ export default function StoresPage() {
                 <BadgeCheck className="h-3 w-3" aria-hidden />
                 Verified · Sri Lanka
               </span>
-              {!r.isDemo && (
-                <span className="inline-flex items-center gap-1 rounded-full bg-sky-50 px-2 py-0.5 font-medium text-sky-700 ring-1 ring-sky-100">
-                  <Radio className="h-3 w-3" aria-hidden />
-                  Live data
-                </span>
-              )}
+              <span className="inline-flex items-center gap-1 rounded-full bg-sky-50 px-2 py-0.5 font-medium text-sky-700 ring-1 ring-sky-100">
+                <Radio className="h-3 w-3" aria-hidden />
+                Live data
+              </span>
             </div>
 
             <dl className="mt-4 grid grid-cols-2 gap-3 border-t border-zinc-100 pt-4 text-sm">
@@ -89,11 +87,6 @@ export default function StoresPage() {
           </article>
         ))}
       </div>
-
-      <p className="mt-8 rounded-lg bg-amber-50 p-3 text-center text-xs font-medium text-amber-700 ring-1 ring-amber-100">
-        Stores marked “Live data” are real Sri Lankan retailers whose prices are collected by the
-        scraper pipeline. Other stores are demo placeholders shown while real coverage grows.
-      </p>
     </div>
   );
 }

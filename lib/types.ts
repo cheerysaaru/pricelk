@@ -142,6 +142,8 @@ export interface Deal {
   lastChecked: string;
   category: string;
   categoryName: string;
+  /** Real scraped deal: direct link to the retailer product page. */
+  url?: string;
 }
 
 /** Response of GET /api/offers — the exact-match comparison payload. */

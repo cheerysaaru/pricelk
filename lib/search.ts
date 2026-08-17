@@ -1,14 +1,11 @@
-import type { Product, SearchResult } from "@/lib/types";
-import { getAllProducts, getStartingPrice, getStoreCount, getStoreNames } from "@/lib/data/products";
+import type { SearchResult } from "@/lib/types";
 import { getRealProducts } from "@/lib/data/real-products";
 
 /**
- * Search over the internal Sri Lankan catalogue only.
- * No external/international sources are ever consulted.
- *
- * The index is the demo catalogue PLUS every real product collected by the
- * scraper pipeline, so a search like "laptop" surfaces real laptops from all
- * scraped Sri Lankan stores, not just the demo products.
+ * Search over the scraped Sri Lankan catalogue only.
+ * No external/international sources are ever consulted, and no demo/fake
+ * products appear here — every result is a real product with a live price
+ * collected from a Sri Lankan retailer's website.
  */
 
 function normalize(s: string): string {
@@ -20,7 +17,7 @@ function normalize(s: string): string {
     .trim();
 }
 
-/** Unified search item: demo product or real scraped product. */
+/** Unified search item: a real scraped product (single-offer). */
 interface SearchItem {
   slug: string;
   name: string;
@@ -30,15 +27,11 @@ interface SearchItem {
   image: string;
   accent: string;
   price: number;
-  stores: number;
   storeNames: string[];
-  popularity: number;
   attrs: Record<string, string[]>;
-  url?: string;
-  retailerId?: string;
-  isReal?: boolean;
-  /** Demo-only: the source product (for saving/deal/recent sorts). */
-  product?: Product;
+  url: string;
+  retailerId: string;
+  lastChecked: number;
 }
 
 function scoreItem(item: SearchItem, q: string): number {
@@ -69,24 +62,6 @@ function scoreItem(item: SearchItem, q: string): number {
   return 0;
 }
 
-function demoItems(): SearchItem[] {
-  return getAllProducts().map((p) => ({
-    slug: p.slug,
-    name: p.name,
-    brand: p.brand,
-    category: p.category,
-    categoryName: p.categoryName,
-    image: p.image,
-    accent: p.accent,
-    price: getStartingPrice(p),
-    stores: getStoreCount(p),
-    storeNames: getStoreNames(p),
-    popularity: p.popularity,
-    attrs: aggregateVariantAttrs(p),
-    product: p,
-  }));
-}
-
 function realItems(): SearchItem[] {
   return getRealProducts().map((p) => ({
     slug: p.slug,
@@ -97,24 +72,12 @@ function realItems(): SearchItem[] {
     image: p.image,
     accent: p.accent,
     price: p.price,
-    stores: 1,
     storeNames: [p.retailerName],
-    popularity: 0,
     attrs: Object.fromEntries(Object.entries(p.attrs).map(([k, v]) => [k, [v]])),
     url: p.url,
     retailerId: p.retailerId,
-    isReal: true,
+    lastChecked: Date.now(),
   }));
-}
-
-function aggregateVariantAttrs(p: Product): Record<string, string[]> {
-  const sets: Record<string, Set<string>> = {};
-  for (const v of p.variants) {
-    for (const [key, value] of Object.entries(v.attributes)) {
-      (sets[key] ??= new Set<string>()).add(value);
-    }
-  }
-  return Object.fromEntries(Object.entries(sets).map(([k, s]) => [k, [...s]]));
 }
 
 export interface SearchOptions {
@@ -123,7 +86,7 @@ export interface SearchOptions {
   minPrice?: number;
   maxPrice?: number;
   attributes?: Record<string, string[]>;
-  sort?: "lowest" | "highest" | "saving" | "deal" | "recent";
+  sort?: "lowest" | "highest" | "recent";
   page?: number;
   pageSize?: number;
 }
@@ -140,7 +103,7 @@ export interface SearchResponse {
 
 export function searchProducts(query: string, opts: SearchOptions = {}): SearchResponse {
   const q = query.trim();
-  let items: SearchItem[] = [...demoItems(), ...realItems()];
+  let items: SearchItem[] = realItems();
 
   if (q) {
     items = items
@@ -149,7 +112,7 @@ export function searchProducts(query: string, opts: SearchOptions = {}): SearchR
       .sort((a, b) => b.score - a.score || a.item.price - b.item.price)
       .map((x) => x.item);
   } else {
-    items = [...items].sort((a, b) => b.popularity - a.popularity || a.price - b.price);
+    items = [...items].sort((a, b) => a.price - b.price);
   }
 
   if (opts.category) items = items.filter((i) => i.category === opts.category);
@@ -193,14 +156,8 @@ export function searchProducts(query: string, opts: SearchOptions = {}): SearchR
     case "highest":
       items.sort((a, b) => b.price - a.price);
       break;
-    case "saving":
-      items.sort((a, b) => biggestSaving(b) - biggestSaving(a));
-      break;
-    case "deal":
-      items.sort((a, b) => b.popularity - a.popularity || a.price - b.price);
-      break;
     case "recent":
-      items.sort((a, b) => newestOffer(b) - newestOffer(a));
+      items.sort((a, b) => b.lastChecked - a.lastChecked);
       break;
   }
 
@@ -219,38 +176,18 @@ export function searchProducts(query: string, opts: SearchOptions = {}): SearchR
     image: i.image,
     accent: i.accent,
     startingPrice: i.price,
-    stores: i.stores,
+    stores: 1,
     storeNames: i.storeNames,
     url: i.url,
     retailerId: i.retailerId,
-    isReal: i.isReal,
+    isReal: true,
   }));
 
   return { results, total, page, pageSize, totalPages, brands, attributeOptions };
 }
 
-function biggestSaving(i: SearchItem): number {
-  const p = i.product;
-  if (!p) return 0;
-  let best = 0;
-  for (const variant of p.variants) {
-    const h = p.priceHistory[variant.id];
-    if (!h || h.length < 2) continue;
-    const current = h[h.length - 1].price;
-    const prev = h[h.length - 2].price;
-    best = Math.max(best, prev - current);
-  }
-  return best;
-}
-
-function newestOffer(i: SearchItem): number {
-  const p = i.product;
-  if (!p) return 0;
-  return Math.max(...p.offers.map((o) => new Date(o.lastChecked).getTime()));
-}
-
 /** Autocomplete: top 8 matches with starting price. */
 export function autocomplete(query: string, limit = 8): SearchResult[] {
-  const res = searchProducts(query, { sort: "deal", pageSize: limit });
+  const res = searchProducts(query, { pageSize: limit });
   return res.results;
 }

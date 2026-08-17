@@ -5,7 +5,6 @@ import { useMemo } from "react";
 import { useSearchParams } from "next/navigation";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 import { searchProducts } from "@/lib/search";
-import { getProductsBySlugs } from "@/lib/data/products";
 import { getRealProductsBySlugs } from "@/lib/data/real-products";
 import { CATEGORIES } from "@/lib/data/categories";
 import { Filters, SortSelect } from "@/components/filters/filters";
@@ -35,8 +34,8 @@ const ATTRIBUTE_LABELS: Record<string, string> = {
 
 /**
  * Client-side search page. Reads filters from the URL in the browser and runs
- * the search over the bundled catalogue (demo + all real scraped products),
- * so the site stays fully static-exportable (no API routes needed).
+ * the search over the bundled real scraped catalogue, so the site stays fully
+ * static-exportable (no API routes needed).
  */
 export function SearchContent() {
   const searchParams = useSearchParams();
@@ -72,7 +71,7 @@ export function SearchContent() {
 
   const products: GridProduct[] = useMemo(() => {
     const slugs = res.results.map((r) => r.slug);
-    return [...getProductsBySlugs(slugs), ...getRealProductsBySlugs(slugs)];
+    return getRealProductsBySlugs(slugs);
   }, [res]);
 
   const current: Record<string, string> = {};

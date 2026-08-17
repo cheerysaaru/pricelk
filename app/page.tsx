@@ -4,7 +4,7 @@ import { ArrowRight, Search, Settings2, Store } from "lucide-react";
 import { SearchBar } from "@/components/search/search-bar";
 import { ProductGrid } from "@/components/product/product-grid";
 import { DealCard } from "@/components/deals/deal-card";
-import { getDeals, getPopularProducts } from "@/lib/data/products";
+import { getRealDeals, getPopularRealProducts } from "@/lib/data/real-products";
 
 export const metadata: Metadata = {
   title: "Compare before you buy",
@@ -33,8 +33,8 @@ const STEPS = [
 ];
 
 export default function HomePage() {
-  const deals = getDeals(6);
-  const popular = getPopularProducts(8);
+  const deals = getRealDeals(6);
+  const popular = getPopularRealProducts(8);
 
   return (
     <div>
@@ -98,7 +98,7 @@ export default function HomePage() {
             Popular comparisons
           </h2>
           <p className="mt-1 text-sm text-zinc-500">
-            What shoppers in Sri Lanka are comparing right now.
+            A taste of the real products and live prices we track across Sri Lankan stores.
           </p>
           <div className="mt-6">
             <ProductGrid products={popular} />

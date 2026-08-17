@@ -286,8 +286,6 @@ export function SortSelect({ current }: { current: Record<string, string> }) {
   const options = [
     { value: "lowest", label: "Lowest price" },
     { value: "highest", label: "Highest price" },
-    { value: "saving", label: "Biggest saving" },
-    { value: "deal", label: "Best deal" },
     { value: "recent", label: "Recently updated" },
   ];
   const value = current.sort ?? "lowest";
