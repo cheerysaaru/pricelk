@@ -15,9 +15,15 @@ from common.woocommerce import save_json  # noqa: E402
 import abans  # noqa: E402
 import acecom  # noqa: E402
 import computercare  # noqa: E402
+import gamestreet  # noqa: E402
 import idealz  # noqa: E402
+import lapshop  # noqa: E402
 import laptop_lk  # noqa: E402
+import mcentre  # noqa: E402
+import nanotek  # noqa: E402
 import pclk  # noqa: E402
+import redline  # noqa: E402
+import singersl  # noqa: E402
 import takas  # noqa: E402
 import toplaps  # noqa: E402
 import wasi  # noqa: E402
@@ -101,6 +107,24 @@ def main() -> None:
         ("computercare", computercare),
         ("laptop_lk", laptop_lk),
         ("toplaps", toplaps),
+    ):
+        try:
+            rows = module.scrape_all_products()
+            rows = [r for r in rows if r["price"]]
+            save_json(rows, os.path.join(DATA_DIR, f"{name}.json"))
+            print(f"  {name}: {len(rows)} with price")
+            merged.extend(rows)
+        except Exception as e:  # noqa: BLE001
+            print(f"  {name}: FAILED ({e.__class__.__name__}: {e})")
+
+    # Bespoke HTML-listing laptop retailers (no JSON API).
+    for name, module in (
+        ("redline", redline),
+        ("nanotek", nanotek),
+        ("gamestreet", gamestreet),
+        ("mcentre", mcentre),
+        ("lapshop", lapshop),
+        ("singersl", singersl),
     ):
         try:
             rows = module.scrape_all_products()

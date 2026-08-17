@@ -1,0 +1,417 @@
+[
+  {
+    "retailer": "GameStreet",
+    "name": "Lenovo Legion Pro 5 16IAX10 83FD05TLK Intel Core Ultre 9 275HX | RTX 5060, 8GB GDDR6 | 32GB DDR5 5600MHz | 1TB M.2 NVMe SSD | 16\" Inch WQXGA 165Hz 100% SRGB OLED Display | Windows 11 Home ( 2 Years Warranty )",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 699000.0,
+    "regular_price": 699000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzI5Ng==",
+    "image": "https://www.gamestreet.lkimages/products/9704.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "ACER ASPIRE Lite A15 AL15 49P R72J AMD Ryzen R7 7730U | AMD Radeon Graphics | 8GB DDR5 | 512GB Gen 4 M.2 NVMe SSD | 15.6\" Inch FHD IPS Display | Windows 11 Home-Light Silver ( 2 Years Warranty )",
+    "brand": "Acer",
+    "sku": "",
+    "price": 268500.0,
+    "regular_price": 268500.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM1Nw==",
+    "image": "https://www.gamestreet.lkimages/products/9886.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB",
+      "color": "Silver"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "Asus TUF Gaming A15 FA506NCQ AMD RYZEN 7-170 | RTX 3050, 4GB GDDR6 | 16GB DDR5 4800MHZ | 512GB M.2 NVMe SSD | 15.6\" Inch FHD IPS 144Hz Display | Windows 11 | ( 2 YEARS WARRANTY)",
+    "brand": "ASUS",
+    "sku": "",
+    "price": 385000.0,
+    "regular_price": 385000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MjM4Ng==",
+    "image": "https://www.gamestreet.lkimages/products/6947.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "4GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "HP Victus Gaming 15-FA2275TX Intel I5-13420H | RTX 3050 , 6GB GDDR6 | 8GB DDR4 | 512 NVMe M.2 SSD | 15.6 Inch FHD IPS Display | Windows 11 Home | (2 Years Warranty )",
+    "brand": "HP",
+    "sku": "",
+    "price": 309000.0,
+    "regular_price": 309000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzA4NA==",
+    "image": "https://www.gamestreet.lkimages/products/9027.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "HP Victus Gaming 15-fa2277TX Intel I5-13420H | RTX 2050 , 4GB GDDR6 | 8GB DDR4 | 512 NVMe M.2 SSD | 15.6 Inch FHD IPS Display | Windows 11 Home | (2 Years Warranty )",
+    "brand": "HP",
+    "sku": "",
+    "price": 285000.0,
+    "regular_price": 285000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzA4Mw==",
+    "image": "https://www.gamestreet.lkimages/products/9024.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "4GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "HP Victus Gaming 15-FB3105AX AMD Ryzen R7-8845Hs | RTX 4050 , 6GB GDDR6 | 16GB DDR5 | 512 NVMe M.2 SSD | 15.6 Inch FHD IPS Display | Windows 11 Home (2 Years Warranty )",
+    "brand": "HP",
+    "sku": "",
+    "price": 415000.0,
+    "regular_price": 415000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzMzOQ==",
+    "image": "https://www.gamestreet.lkimages/products/9832.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "HP Victus Gaming 15-FB3166AX AMD Ryzen R5-8645Hs | RTX 2050 , 4GB GDDR6 | 8GB DDR5 | 512 NVMe M.2 SSD | 15.6 Inch FHD IPS Display | Windows 11 Home | (2 Years Warranty )",
+    "brand": "HP",
+    "sku": "",
+    "price": 275000.0,
+    "regular_price": 275000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzA4Mg==",
+    "image": "https://www.gamestreet.lkimages/products/9021.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "4GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "Lenovo Legion Pro 5 15IRX10 83LYDOH ALK Intel I9 14900HX | RTX 5070, 8GB GDDR6 | 16GB DDR5 5600MHz | 512GB M.2 NVMe SSD | 15.1\" Inch OLED WQXGA 165Hz 100% SRGB OLED Display | Windows 11 Home",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 669000.0,
+    "regular_price": 669000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzI5Nw==",
+    "image": "https://www.gamestreet.lkimages/products/9707.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "Lenovo LOQ 15IRX10 83JE00WPLK Intel I7-13650HX | RTX 5050, 8GB GDDR6 | 16GB DDR5 4800MHz | 512GB M.2 NVMe SSD | 15.6 FHD Display | DOS | ( 2 Years Warranty )",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 440000.0,
+    "regular_price": 440000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM3MQ==",
+    "image": "https://www.gamestreet.lkimages/products/9946.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "Lenovo LOQ Essential 15ARP10E AMD Ryzen 7 7735HS | RTX 4050, 6GB GDDR6 | 16GB DDR5| 512GB M.2 NVMe SSD | 15.6\" Inch IPS 144Hz Thin Bezel Display | Windows 11 Home ( 2 Years Warranty )",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 375000.0,
+    "regular_price": 375000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzIyNg==",
+    "image": "https://www.gamestreet.lkimages/products/9451.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "Lenovo LOQ Essential 15ARP10E AMD Ryzen 7 7735HS | RTX 3050, 6GB GDDR6 | 16GB DDR5| 512GB M.2 NVMe SSD | 15.6\" Inch IPS 144Hz Thin Bezel Display | Windows 11 Home ( 2 Years Warranty )",
+    "brand": "Lenovo",
+    "sku": "",
+    "price": 357000.0,
+    "regular_price": 357000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM1Ng==",
+    "image": "https://www.gamestreet.lkimages/products/9883.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI CYBORG 15 AI B2HWEKG 079LK LAPTOP | AMD Ryzen 7 260 |RTX5050, 8GB GDDR6 | 16GB DDR5 | 512 NVME SSD | 15.6 Inch FHD 144Hz Display| (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 551000.0,
+    "regular_price": 551000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzEyNw==",
+    "image": "https://www.gamestreet.lkimages/products/9156.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI CYBORG 15 AI B2HWFKG 078LK LAPTOP | AMD Ryzen 7 260 |RTX5060, 8GB GDDR6 | 16GB DDR5 | 512 NVME SSD | 15.6 Inch FHD 144Hz Display| Windows 11 Home | (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 594500.0,
+    "regular_price": 594500.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzEyNg==",
+    "image": "https://www.gamestreet.lkimages/products/9153.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI CYBORG 15 B2RWEKG 214LK LAPTOP | INTEL Core 7 240H |RTX5050, 8GB GDDR6 | 16GB DDR5 4800MHZ | 1TB NVME SSD | 15.6 Inch FHD 144Hz Display| Windows 11 Home | (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 551500.0,
+    "regular_price": 551500.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MjkyNg==",
+    "image": "https://www.gamestreet.lkimages/products/8556.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI CYBORG 15 B2RWFKG 213LK LAPTOP | INTEL Core 7 240H |RTX5060, 8GB GDDR6 | 16GB DDR5 4800MHZ | 1TB NVME SSD | 15.6 Inch FHD 144Hz Display| Windows 11 Home | (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 606000.0,
+    "regular_price": 606000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MjkyNQ==",
+    "image": "https://www.gamestreet.lkimages/products/8553.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI CYBORG 15 Black Edition A13UC 2451XLK LAPTOP | INTEL I5-13420H |RTX3050, 4GB GDDR6 | 16GB DDR5 4800MHZ | 512GB NVME SSD | 15.6 Inch FHD 144Hz Display | (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 340000.0,
+    "regular_price": 340000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM3NA==",
+    "image": "https://www.gamestreet.lkimages/products/9955.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "4GB",
+      "screen": "15.6",
+      "color": "Black"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI CYBORG 15 Black Edition A13UDX 2407XLK LAPTOP | INTEL I7-13620H |RTX3050, 6GB GDDR6 | 16GB DDR5 4800MHZ | 512GB NVME SSD | 15.6 Inch FHD 144Hz Display | (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 373000.0,
+    "regular_price": 373000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzI2MQ==",
+    "image": "https://www.gamestreet.lkimages/products/9593.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB",
+      "screen": "15.6",
+      "color": "Black"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI CYBORG 15 Black Edition A13VE 2449XLK LAPTOP | INTEL I7-13620H |RTX4050, 6GB GDDR6 | 16GB DDR5 4800MHZ | 512GB NVME SSD | 15.6 Inch FHD 144Hz Display | (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 414000.0,
+    "regular_price": 414000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM3Mw==",
+    "image": "https://www.gamestreet.lkimages/products/9952.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB",
+      "screen": "15.6",
+      "color": "Black"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI CYBORG 15 Black Edition A13VE 2450XLK LAPTOP | INTEL I5-13420H |RTX4050, 6GB GDDR6 | 16GB DDR5 4800MHZ | 512GB NVME SSD | 15.6 Inch FHD 144Hz Display | (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 389000.0,
+    "regular_price": 389000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzI2MA==",
+    "image": "https://www.gamestreet.lkimages/products/9590.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB",
+      "screen": "15.6",
+      "color": "Black"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI Katana 15 B14WGK Laptop | Intel I9-14900HX | RTX5070, 8GB GDDR6 | 16GB DDR5 | 1TB Gen4 NVMe SSD | 15.6 QHD (2560*1440) IPS Level 165Hz Thin Bezel Display | Windows 11 Home (2 Years Warranty)",
+    "brand": "MSI",
+    "sku": "",
+    "price": 708000.0,
+    "regular_price": 708000.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzAzNg==",
+    "image": "https://www.gamestreet.lkimages/products/8883.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI Thin A15 B7VE 628XLK LAPTOP | Ryzen 7 7735HS |RTX4050, 6GB GDDR6 | 16GB DDR5 | 512GB NVME SSD | 15.6 Inch FHD 144Hz Display | ( 2 Years Warranty )",
+    "brand": "MSI",
+    "sku": "",
+    "price": 405500.0,
+    "regular_price": 405500.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzEyOA==",
+    "image": "https://www.gamestreet.lkimages/products/9159.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "6GB",
+      "screen": "15.6"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "GameStreet",
+    "name": "MSI Vector 16 HX AI A8WHG 037LK Laptop | AMD Ryzen 9 8940HX | RTX 5070TI 12GB | 16GB DDR5 | 1TB NVMe SSD GEN4 | 16 Inch (2560 X 1600) QHD + 240 Hz IPS Display | Windows 11 Home ( 2 YEARS WARRANTY )",
+    "brand": "MSI",
+    "sku": "",
+    "price": 930500.0,
+    "regular_price": 930500.0,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzEyNQ==",
+    "image": "https://www.gamestreet.lkimages/products/9150.jpg",
+    "category": "laptops",
+    "attrs": {
+      "storage": "12GB",
+      "screen": "16"
+    },
+    "on_sale": false,
+    "junk": false
+  }
+]

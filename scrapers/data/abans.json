@@ -2141,24 +2141,6 @@
   },
   {
     "retailer": "Abans",
-    "name": "LG 55 Inch OLED evo AI C6 4K Smart TV",
-    "brand": "LG",
-    "sku": "",
-    "price": 649999.0,
-    "regular_price": 749999.0,
-    "sale_price": 649999.0,
-    "currency": "LKR",
-    "url": "https://buyabans.com/lg-55-inch-oled-evo-ai-c6-4k-smart-tv",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/18843/wFtG8o2IDwwAWq7Ow6UWsweyrEYKn00amonyl7Xo.webp/public",
-    "category": "tvs",
-    "attrs": {
-      "screen": "55"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
     "name": "Xiaomi 43 Inch A Pro 4K QLED Smart TV",
     "brand": "Xiaomi",
     "sku": "",
@@ -2225,6 +2207,24 @@
     "category": "tvs",
     "attrs": {
       "screen": "65"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "LG 55 Inch OLED evo AI C6 4K Smart TV",
+    "brand": "LG",
+    "sku": "",
+    "price": 649999.0,
+    "regular_price": 749999.0,
+    "sale_price": 649999.0,
+    "currency": "LKR",
+    "url": "https://buyabans.com/lg-55-inch-oled-evo-ai-c6-4k-smart-tv",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/18843/wFtG8o2IDwwAWq7Ow6UWsweyrEYKn00amonyl7Xo.webp/public",
+    "category": "tvs",
+    "attrs": {
+      "screen": "55"
     },
     "on_sale": true,
     "junk": false
@@ -2589,42 +2589,6 @@
   },
   {
     "retailer": "Abans",
-    "name": "JBL Tune 520BT - Blue",
-    "brand": "JBL",
-    "sku": "",
-    "price": 14999.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://buyabans.com/jbl-tune-520bt---blue",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/12077/tmb0OUBxe9cHuakKV1pCPrh7NHT9XxIyGjbEx9Q1.png/public",
-    "category": "audio",
-    "attrs": {
-      "color": "Blue"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
-    "name": "JBL Tune 520BT - Black",
-    "brand": "JBL",
-    "sku": "",
-    "price": 14999.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://buyabans.com/jbl-tune-520bt---black",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/12076/ktIzQztSpAohaVKcwAvbRITHIoVwY7E3YfvtsOga.png/public",
-    "category": "audio",
-    "attrs": {
-      "color": "Black"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
     "name": "JBL Tune 670NC - White",
     "brand": "JBL",
     "sku": "",
@@ -2729,6 +2693,24 @@
       "color": "Black"
     },
     "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "Miniso Lovely Headphone (Black)",
+    "brand": null,
+    "sku": "",
+    "price": 2250.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/miniso-lovely-headphone-black",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/5803/500007242_small.jpg/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Black"
+    },
+    "on_sale": false,
     "junk": false
   },
   {
@@ -2871,6 +2853,42 @@
   },
   {
     "retailer": "Abans",
+    "name": "JBL Tune 520BT - Blue",
+    "brand": "JBL",
+    "sku": "",
+    "price": 14999.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/jbl-tune-520bt---blue",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/12077/tmb0OUBxe9cHuakKV1pCPrh7NHT9XxIyGjbEx9Q1.png/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Blue"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "JBL Tune 520BT - Black",
+    "brand": "JBL",
+    "sku": "",
+    "price": 14999.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/jbl-tune-520bt---black",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/12076/ktIzQztSpAohaVKcwAvbRITHIoVwY7E3YfvtsOga.png/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Black"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
     "name": "JBL Tune 720BT - White",
     "brand": "JBL",
     "sku": "",
@@ -2979,6 +2997,24 @@
   },
   {
     "retailer": "Abans",
+    "name": "MINISO Foldable Headphones (Grey Black)",
+    "brand": null,
+    "sku": "",
+    "price": 3750.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/miniso-foldable-headphones-grey-and-black",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10345/neahjka_a_project.png/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Grey"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
     "name": "JBL Tune 720BT - Blue",
     "brand": "JBL",
     "sku": "",
@@ -3051,6 +3087,24 @@
   },
   {
     "retailer": "Abans",
+    "name": "Miniso Lovely Headphone (White)",
+    "brand": null,
+    "sku": "",
+    "price": 4750.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/miniso-lovely-headphone-white",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/5806/500007243_small_1_.jpg/public",
+    "category": "audio",
+    "attrs": {
+      "color": "White"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
     "name": "Miniso Lovely Headphone (Pink)",
     "brand": null,
     "sku": "",
@@ -3060,6 +3114,24 @@
     "currency": "LKR",
     "url": "https://buyabans.com/miniso-lovely-headphone-pink",
     "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/5802/500007241_small.jpg/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Pink"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "Miniso Foldable Headphone (Pink and Black)",
+    "brand": null,
+    "sku": "",
+    "price": 2990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/miniso-foldable-headphone-pink-and-black",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/5801/0500007233_small.jpg/public",
     "category": "audio",
     "attrs": {
       "color": "Pink"
@@ -3391,24 +3463,6 @@
   },
   {
     "retailer": "Abans",
-    "name": "Abans Portable Audio Speaker (Black)",
-    "brand": "Abans",
-    "sku": "",
-    "price": 3999.0,
-    "regular_price": 4499.0,
-    "sale_price": 3999.0,
-    "currency": "LKR",
-    "url": "https://buyabans.com/abpotbspa644b",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10605/new_hju___oject.png/public",
-    "category": "audio",
-    "attrs": {
-      "color": "Black"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
     "name": "Abans Portable Audio Speaker",
     "brand": "Abans",
     "sku": "",
@@ -3471,24 +3525,6 @@
     "category": "audio",
     "attrs": {
       "color": "Black"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
-    "name": "Abans Portable Audio Speaker (Red)",
-    "brand": "Abans",
-    "sku": "",
-    "price": 2799.0,
-    "regular_price": 3499.0,
-    "sale_price": 2799.0,
-    "currency": "LKR",
-    "url": "https://buyabans.com/abpotbspa352r",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10599/abpotbspa352r_sm.jpg/public",
-    "category": "audio",
-    "attrs": {
-      "color": "Red"
     },
     "on_sale": true,
     "junk": false
@@ -3575,22 +3611,6 @@
   },
   {
     "retailer": "Abans",
-    "name": "LG XBOOM Speaker",
-    "brand": "LG",
-    "sku": "",
-    "price": 31999.0,
-    "regular_price": 36999.0,
-    "sale_price": 31999.0,
-    "currency": "LKR",
-    "url": "https://buyabans.com/lg-speaker",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10211/new_pahju_aoject_1.png/public",
-    "category": "audio",
-    "attrs": {},
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
     "name": "Harman Kardon Luna Portable Bluetooth Speaker - Black",
     "brand": null,
     "sku": "",
@@ -3604,6 +3624,22 @@
     "attrs": {
       "color": "Black"
     },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "Harman Kardon Go + Play 3 Portable Bluetooth Speaker",
+    "brand": null,
+    "sku": "",
+    "price": 129999.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/hk-go-play-3-speaker",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/9894/new_projlo9_p____ct.png/public",
+    "category": "audio",
+    "attrs": {},
     "on_sale": false,
     "junk": false
   },
@@ -4057,6 +4093,42 @@
   },
   {
     "retailer": "Abans",
+    "name": "Abans Portable Audio Speaker (Black)",
+    "brand": "Abans",
+    "sku": "",
+    "price": 3999.0,
+    "regular_price": 4499.0,
+    "sale_price": 3999.0,
+    "currency": "LKR",
+    "url": "https://buyabans.com/abpotbspa644b",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10605/new_hju___oject.png/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Black"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "Abans Portable Audio Speaker (Red)",
+    "brand": "Abans",
+    "sku": "",
+    "price": 2799.0,
+    "regular_price": 3499.0,
+    "sale_price": 2799.0,
+    "currency": "LKR",
+    "url": "https://buyabans.com/abpotbspa352r",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10599/abpotbspa352r_sm.jpg/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Red"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
     "name": "JVC Portable HIFI Party Speaker 1600W PMPO Wireless Mic & Remote Control - Black",
     "brand": null,
     "sku": "",
@@ -4127,6 +4199,22 @@
   },
   {
     "retailer": "Abans",
+    "name": "LG XBOOM Speaker",
+    "brand": "LG",
+    "sku": "",
+    "price": 31999.0,
+    "regular_price": 36999.0,
+    "sale_price": 31999.0,
+    "currency": "LKR",
+    "url": "https://buyabans.com/lg-speaker",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10211/new_pahju_aoject_1.png/public",
+    "category": "audio",
+    "attrs": {},
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
     "name": "Harman Kardon Onyx Studio 8 Portable Stereo Bluetooth Speaker (Blue)",
     "brand": null,
     "sku": "",
@@ -4158,22 +4246,6 @@
     "attrs": {
       "color": "Black"
     },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
-    "name": "Harman Kardon Go + Play 3 Portable Bluetooth Speaker",
-    "brand": null,
-    "sku": "",
-    "price": 129999.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://buyabans.com/hk-go-play-3-speaker",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/9894/new_projlo9_p____ct.png/public",
-    "category": "audio",
-    "attrs": {},
     "on_sale": false,
     "junk": false
   },
@@ -5011,24 +5083,6 @@
   },
   {
     "retailer": "Abans",
-    "name": "Xiaomi Redmi 5C Buds - Black",
-    "brand": "Xiaomi",
-    "sku": "",
-    "price": 7999.0,
-    "regular_price": 13499.0,
-    "sale_price": 7999.0,
-    "currency": "LKR",
-    "url": "https://buyabans.com/redmi-buds-5c-black",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/18366/37ZKQLLDIbZZ0Q19PPu3soWEpw2ND9wZURJvW4Zy.webp/public",
-    "category": "audio",
-    "attrs": {
-      "color": "Black"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
     "name": "Xiaomi Redmi 5A Buds - Black",
     "brand": "Xiaomi",
     "sku": "",
@@ -5079,6 +5133,22 @@
       "color": "Black"
     },
     "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "JBL Live Pro 2 TWS In-Ear Bluetooth Headphones",
+    "brand": "JBL",
+    "sku": "",
+    "price": 54999.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/jbl-live-pro-2-tws-in-ear-bluetooth-headphones",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/15580/tpl3f2HAG846XDWYKDLYfDriSm8G6Bg03c5qSIje.webp/public",
+    "category": "audio",
+    "attrs": {},
+    "on_sale": false,
     "junk": false
   },
   {
@@ -5269,42 +5339,6 @@
     "category": "audio",
     "attrs": {
       "color": "White"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
-    "name": "Sudio (Sweden) T3 True Wireless Earbuds (Blue)",
-    "brand": null,
-    "sku": "",
-    "price": 8599.0,
-    "regular_price": 17999.0,
-    "sale_price": 8599.0,
-    "currency": "LKR",
-    "url": "https://buyabans.com/sudio-sweden-t3-true-wireless-earbuds-blue",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10923/UdlsOd3jQW0FzSTKGzPpVfzQwmweskbJOPY7Jsc6.png/public",
-    "category": "audio",
-    "attrs": {
-      "color": "Blue"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
-    "name": "Sudio (Sweden) D1 True Wireless Earbuds (Black)",
-    "brand": null,
-    "sku": "",
-    "price": 4199.0,
-    "regular_price": 12999.0,
-    "sale_price": 4199.0,
-    "currency": "LKR",
-    "url": "https://buyabans.com/sudio-sweden-d1-true-wireless-earbuds-black",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10921/3z5GgB7xvXTnW6PqjJiGfwgpAs2VNJhrIwZjiJNT.png/public",
-    "category": "audio",
-    "attrs": {
-      "color": "Black"
     },
     "on_sale": true,
     "junk": false
@@ -5595,6 +5629,24 @@
   },
   {
     "retailer": "Abans",
+    "name": "Xiaomi Redmi 5C Buds - Black",
+    "brand": "Xiaomi",
+    "sku": "",
+    "price": 7999.0,
+    "regular_price": 13499.0,
+    "sale_price": 7999.0,
+    "currency": "LKR",
+    "url": "https://buyabans.com/redmi-buds-5c-black",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/18366/37ZKQLLDIbZZ0Q19PPu3soWEpw2ND9wZURJvW4Zy.webp/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Black"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
     "name": "JBL Live Pro 2 True Wireless Earbuds - Silver",
     "brand": "JBL",
     "sku": "",
@@ -5608,22 +5660,6 @@
     "attrs": {
       "color": "Silver"
     },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Abans",
-    "name": "JBL Live Pro 2 TWS In-Ear Bluetooth Headphones",
-    "brand": "JBL",
-    "sku": "",
-    "price": 54999.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://buyabans.com/jbl-live-pro-2-tws-in-ear-bluetooth-headphones",
-    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/15580/tpl3f2HAG846XDWYKDLYfDriSm8G6Bg03c5qSIje.webp/public",
-    "category": "audio",
-    "attrs": {},
     "on_sale": false,
     "junk": false
   },
@@ -5791,6 +5827,42 @@
   },
   {
     "retailer": "Abans",
+    "name": "Sudio (Sweden) T3 True Wireless Earbuds (Blue)",
+    "brand": null,
+    "sku": "",
+    "price": 8599.0,
+    "regular_price": 17999.0,
+    "sale_price": 8599.0,
+    "currency": "LKR",
+    "url": "https://buyabans.com/sudio-sweden-t3-true-wireless-earbuds-blue",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10923/UdlsOd3jQW0FzSTKGzPpVfzQwmweskbJOPY7Jsc6.png/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Blue"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "Sudio (Sweden) D1 True Wireless Earbuds (Black)",
+    "brand": null,
+    "sku": "",
+    "price": 4199.0,
+    "regular_price": 12999.0,
+    "sale_price": 4199.0,
+    "currency": "LKR",
+    "url": "https://buyabans.com/sudio-sweden-d1-true-wireless-earbuds-black",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/10921/3z5GgB7xvXTnW6PqjJiGfwgpAs2VNJhrIwZjiJNT.png/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Black"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
     "name": "Sudio (Sweden) A1 True Wireless Earbuds (Pink)",
     "brand": null,
     "sku": "",
@@ -5931,6 +6003,24 @@
       "color": "Black"
     },
     "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "MINISO Type-C Earphones (Black)",
+    "brand": null,
+    "sku": "",
+    "price": 1990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://buyabans.com/miniso-type-c-in-ear-earphones-black",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/6527/new_project18aacsav.png/public",
+    "category": "audio",
+    "attrs": {
+      "color": "Black"
+    },
+    "on_sale": false,
     "junk": false
   },
   {
@@ -6700,6 +6790,25 @@
     "category": "appliances",
     "attrs": {
       "capacity": "7KG"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Abans",
+    "name": "LG 12KG INVERTER TOP LOADER WASHING MACHINE-MIDDLE BLACK",
+    "brand": "LG",
+    "sku": "",
+    "price": 149990.0,
+    "regular_price": 189990.0,
+    "sale_price": 149990.0,
+    "currency": "LKR",
+    "url": "https://buyabans.com/-lg-smart-inverter-top-loader-washing-machine-12kg-middle-black",
+    "image": "https://buyabans.com/cdn-cgi/imagedelivery/OgVIyabXh1YHxwM0lBwqgA/product/20426/iCmFegDJy1nYUj7cnDq5a01srlShpk7JUa415Y7j.webp/public",
+    "category": "appliances",
+    "attrs": {
+      "capacity": "12KG",
+      "color": "Black"
     },
     "on_sale": true,
     "junk": false

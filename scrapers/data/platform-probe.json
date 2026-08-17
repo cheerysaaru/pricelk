@@ -1,0 +1,232 @@
+[
+  {
+    "site": "nanotek",
+    "base": "https://www.nanotek.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "redline",
+    "base": "https://www.redlinetech.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "laptop.lk",
+    "base": "https://www.laptop.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "OK",
+    "shopify_count": 1,
+    "magento": "404"
+  },
+  {
+    "site": "laptopcare",
+    "base": "https://www.laptopcare.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "laptopstore",
+    "base": "https://www.laptopstore.lk",
+    "woo_store": "200:text/html",
+    "woo_v3": "200:text/html",
+    "wp": "200:text/html",
+    "shopify": "200:text/html",
+    "magento": "200:text/html"
+  },
+  {
+    "site": "techzone",
+    "base": "https://techzone.lk",
+    "woo_store": "403",
+    "woo_v3": "403",
+    "wp": "403",
+    "shopify": "403",
+    "magento": "403"
+  },
+  {
+    "site": "sellx",
+    "base": "https://gallelaptop.com",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "200:text/html",
+    "shopify": "200:text/html",
+    "magento": "404"
+  },
+  {
+    "site": "chama",
+    "base": "https://www.chamacomputers.lk",
+    "woo_store": "403",
+    "woo_v3": "403",
+    "wp": "403",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "wsg",
+    "base": "https://wsg.lk",
+    "woo_store": "500",
+    "woo_v3": "500",
+    "wp": "500",
+    "shopify": "500",
+    "magento": "500"
+  },
+  {
+    "site": "mcentre",
+    "base": "https://www.mcentre.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "acecom",
+    "base": "https://acecomlanka.lk",
+    "woo_store": "OK",
+    "woo_store_count": 1,
+    "woo_v3": "401",
+    "wp": "OK",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "gamestreet",
+    "base": "https://www.gamestreet.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "pc.lk",
+    "base": "https://www.pc.lk",
+    "woo_store": "OK",
+    "woo_store_count": 1,
+    "woo_v3": "401",
+    "wp": "OK",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "computercare",
+    "base": "https://computercare.lk",
+    "woo_store": "OK",
+    "woo_store_count": 1,
+    "woo_v3": "401",
+    "wp": "OK",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "lapshop",
+    "base": "https://www.lapshop.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "200:text/html",
+    "shopify": "ERR:ReadTimeout",
+    "magento": "404"
+  },
+  {
+    "site": "toplaps",
+    "base": "https://toplaps.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "OK",
+    "shopify_count": 1,
+    "magento": "404"
+  },
+  {
+    "site": "singersl",
+    "base": "https://www.singersl.com",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "softlogic",
+    "base": "https://softlogic.lk",
+    "woo_store": "ERR:ReadTimeout",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "mysoftlogic",
+    "base": "https://mysoftlogic.lk",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "istore",
+    "base": "https://istore.lk",
+    "woo_store": "ERR:ConnectionError",
+    "woo_v3": "ERR:ConnectionError",
+    "wp": "ERR:ConnectionError",
+    "shopify": "ERR:ConnectionError",
+    "magento": "ERR:ConnectionError"
+  },
+  {
+    "site": "kapruka",
+    "base": "https://www.kapruka.com",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "abtronics",
+    "base": "https://abtronics.lk",
+    "woo_store": "500",
+    "woo_v3": "401",
+    "wp": "OK",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "trx",
+    "base": "https://www.trxcomputers.lk",
+    "woo_store": "403",
+    "woo_v3": "403",
+    "wp": "403",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "smartstorelk",
+    "base": "https://smartstorelk.com",
+    "woo_store": "404",
+    "woo_v3": "404",
+    "wp": "404",
+    "shopify": "404",
+    "magento": "404"
+  },
+  {
+    "site": "bestlap",
+    "base": "https://bestlap.lk",
+    "woo_store": "403",
+    "woo_v3": "403",
+    "wp": "403",
+    "shopify": "404",
+    "magento": "404"
+  }
+]

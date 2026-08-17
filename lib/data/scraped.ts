@@ -48,6 +48,12 @@ export const RETAILER_IDS: Record<string, string> = {
   "ComputerCare": "computercare",
   "Laptop.lk": "laptop_lk",
   "Toplaps": "toplaps",
+  "Redline": "redline",
+  "Nanotek": "nanotek",
+  "GameStreet": "gamestreet",
+  "mCentre": "mcentre",
+  "LapShop": "lapshop",
+  "Singer": "singersl",
 };
 
 function normalize(s: string): string {
@@ -134,6 +140,12 @@ const RETAILER_NAMES: Record<string, string> = {
   computercare: "ComputerCare",
   laptop_lk: "Laptop.lk",
   toplaps: "Toplaps",
+  redline: "Redline",
+  nanotek: "Nanotek",
+  gamestreet: "GameStreet",
+  mcentre: "mCentre",
+  lapshop: "LapShop",
+  singersl: "Singer",
 };
 
 /** Real retailers present in the snapshot, with record counts. */
