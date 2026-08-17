@@ -138,7 +138,10 @@ class ListingSite:
         url = ""
         if link_el is not None:
             href = link_el.get("href", "")
-            url = href if href.startswith("http") else self.base_url + href
+            if href.startswith("http"):
+                url = href
+            elif href:
+                url = self.base_url + ("/" if not href.startswith("/") else "") + href
 
         image = ""
         if img_el is not None:
@@ -147,7 +150,10 @@ class ListingSite:
                 m = _BG_URL_RE.search(raw)
                 if m:
                     raw = m.group(1)
-            image = raw if raw.startswith("http") else self.base_url + raw
+            if raw.startswith("http"):
+                image = raw
+            elif raw:
+                image = self.base_url + ("/" if not raw.startswith("/") else "") + raw
 
         price = regular = None
         if self.price_mode == "first":

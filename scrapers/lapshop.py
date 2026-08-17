@@ -26,7 +26,14 @@ _IMG_CLEAN = re.compile(r"^\.\./+")
 
 
 def _abs_img(raw: str) -> str:
-    """Normalize ../-prefixed image paths to an absolute https URL."""
+    """Normalize ../-prefixed image paths to an absolute https URL.
+
+    ListingSite.extract may already return an absolute URL (base + path);
+    strip the base prefix first, then remove leading ../ segments so the
+    path resolves under the site root.
+    """
+    if raw.startswith(BASE_URL):
+        raw = raw[len(BASE_URL):]
     return f"{BASE_URL}/{_IMG_CLEAN.sub('', raw.lstrip('/'))}"
 
 

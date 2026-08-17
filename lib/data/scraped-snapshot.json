@@ -1731,25 +1731,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Redmi Pad 2 4GB 128GB 9.7inch 4G Tab",
-    "brand": "Xiaomi",
-    "sku": "",
-    "price": 72900.0,
-    "regular_price": 74999.0,
-    "sale_price": 72900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/redmi-pad-2-4gb-128gb-9-7inch-4g-tab.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-pad-2-97-2.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "4GB",
-      "screen": "9.7"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Samsung Galaxy A57 5G 8GB 256GB",
     "brand": "Samsung",
     "sku": "",
@@ -1780,6 +1761,25 @@
     "category": "phones",
     "attrs": {
       "storage": "12GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Redmi Pad 2 4GB 128GB 9.7inch 4G Tab",
+    "brand": "Xiaomi",
+    "sku": "",
+    "price": 72900.0,
+    "regular_price": 74999.0,
+    "sale_price": 72900.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/redmi-pad-2-4gb-128gb-9-7inch-4g-tab.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-pad-2-97-2.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "4GB",
+      "screen": "9.7"
     },
     "on_sale": true,
     "junk": false
@@ -1930,24 +1930,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Xiaomi Redmi 15C 8GB 256GB",
-    "brand": "Xiaomi",
-    "sku": "",
-    "price": 63990.0,
-    "regular_price": 65999.0,
-    "sale_price": 63990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-15c-8gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-15c-4g-1_1_3.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "8GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Samsung Galaxy A37 5G 8GB 256GB",
     "brand": "Samsung",
     "sku": "",
@@ -1978,6 +1960,24 @@
     "category": "phones",
     "attrs": {
       "storage": "12GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Xiaomi Redmi 15C 8GB 256GB",
+    "brand": "Xiaomi",
+    "sku": "",
+    "price": 63990.0,
+    "regular_price": 65999.0,
+    "sale_price": 63990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-15c-8gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-15c-4g-1_1_3.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "8GB"
     },
     "on_sale": true,
     "junk": false
@@ -2236,6 +2236,24 @@
   },
   {
     "retailer": "Takas",
+    "name": "Tecno Spark Go 3 4GB 64GB",
+    "brand": "Tecno",
+    "sku": "",
+    "price": 46900.0,
+    "regular_price": 48499.0,
+    "sale_price": 46900.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/tecno-spark-go-3-4gb-64gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/e/tecno-spark-go3-1.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "4GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
     "name": "Xiaomi Redmi A5 4GB 128GB",
     "brand": "Xiaomi",
     "sku": "",
@@ -2254,15 +2272,15 @@
   },
   {
     "retailer": "Takas",
-    "name": "Tecno Spark Go 3 4GB 64GB",
-    "brand": "Tecno",
+    "name": "ZTE Blade A56 4GB 128GB",
+    "brand": null,
     "sku": "",
-    "price": 46900.0,
-    "regular_price": 48499.0,
-    "sale_price": 46900.0,
+    "price": 40900.0,
+    "regular_price": 42999.0,
+    "sale_price": 40900.0,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/tecno-spark-go-3-4gb-64gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/e/tecno-spark-go3-1.jpg",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/zte-blade-a56.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/z/t/zte-blade-a56-1.jpg",
     "category": "phones",
     "attrs": {
       "storage": "4GB"
@@ -2290,18 +2308,19 @@
   },
   {
     "retailer": "Takas",
-    "name": "ZTE Blade A56 4GB 128GB",
-    "brand": null,
+    "name": "OnePlus 15 16GB 512GB - Infinity Black",
+    "brand": "OnePlus",
     "sku": "",
-    "price": 40900.0,
-    "regular_price": 42999.0,
-    "sale_price": 40900.0,
+    "price": 379900.0,
+    "regular_price": 389990.0,
+    "sale_price": 379900.0,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/zte-blade-a56.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/z/t/zte-blade-a56-1.jpg",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/oneplus-15-16gb-512gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/o/n/oneplus-15-1_3.jpg",
     "category": "phones",
     "attrs": {
-      "storage": "4GB"
+      "storage": "16GB",
+      "color": "Black"
     },
     "on_sale": true,
     "junk": false
@@ -2326,19 +2345,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "OnePlus 15 16GB 512GB - Infinity Black",
-    "brand": "OnePlus",
+    "name": "Xiaomi Redmi A7 Pro 4GB 64GB",
+    "brand": "Xiaomi",
     "sku": "",
-    "price": 379900.0,
-    "regular_price": 389990.0,
-    "sale_price": 379900.0,
+    "price": 45690.0,
+    "regular_price": 46999.0,
+    "sale_price": 45690.0,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/oneplus-15-16gb-512gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/o/n/oneplus-15-1_3.jpg",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-a7-pro-4gb-64gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-a7-pro-1.jpg",
     "category": "phones",
     "attrs": {
-      "storage": "16GB",
-      "color": "Black"
+      "storage": "4GB"
     },
     "on_sale": true,
     "junk": false
@@ -2375,24 +2393,6 @@
     "category": "phones",
     "attrs": {
       "storage": "12GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Xiaomi Redmi A7 Pro 4GB 64GB",
-    "brand": "Xiaomi",
-    "sku": "",
-    "price": 45690.0,
-    "regular_price": 46999.0,
-    "sale_price": 45690.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-a7-pro-4gb-64gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-a7-pro-1.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "4GB"
     },
     "on_sale": true,
     "junk": false
@@ -2471,24 +2471,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Tecno Spark 40 Pro 8GB 256GB",
-    "brand": "Tecno",
-    "sku": "",
-    "price": 72900.0,
-    "regular_price": 74999.0,
-    "sale_price": 72900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/tecno-spark-40-pro-8gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/e/techno-spark-40-pro-1.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "8GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Xiaomi Redmi Pad Pro 5G 8GB 256GB",
     "brand": "Xiaomi",
     "sku": "",
@@ -2498,6 +2480,24 @@
     "currency": "LKR",
     "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-pad-pro-5g-8gb-256gb.html",
     "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-pad-pro-5g-1.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Tecno Spark 40 Pro 8GB 256GB",
+    "brand": "Tecno",
+    "sku": "",
+    "price": 72900.0,
+    "regular_price": 74999.0,
+    "sale_price": 72900.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/tecno-spark-40-pro-8gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/e/techno-spark-40-pro-1.jpg",
     "category": "phones",
     "attrs": {
       "storage": "8GB"
@@ -2597,18 +2597,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "HONOR Play 10 4GB 128GB",
-    "brand": "HONOR",
+    "name": "Nubia V80 Design 8GB 256GB",
+    "brand": null,
     "sku": "",
-    "price": 39900.0,
-    "regular_price": 41999.0,
-    "sale_price": 39900.0,
+    "price": 56900.0,
+    "regular_price": 58999.0,
+    "sale_price": 56900.0,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/honor-play-10-4gb-128gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/h/o/honor-play10-003_1.jpg",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/nubia-v80-design-8gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/z/t/zte-blade-nubia-v80-design-1.jpg",
     "category": "phones",
     "attrs": {
-      "storage": "4GB"
+      "storage": "8GB"
     },
     "on_sale": true,
     "junk": false
@@ -2624,24 +2624,6 @@
     "currency": "LKR",
     "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-note-15-5g-8gb-256gb.html",
     "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-note-15-global-1_2_1.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "8GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Nubia V80 Design 8GB 256GB",
-    "brand": null,
-    "sku": "",
-    "price": 56900.0,
-    "regular_price": 58999.0,
-    "sale_price": 56900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/nubia-v80-design-8gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/z/t/zte-blade-nubia-v80-design-1.jpg",
     "category": "phones",
     "attrs": {
       "storage": "8GB"
@@ -2688,24 +2670,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung Galaxy S26 12GB 256GB",
-    "brand": "Samsung",
-    "sku": "",
-    "price": 314990.0,
-    "regular_price": 331611.0,
-    "sale_price": 314990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/samsung-mobile-s26-12gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s26-3.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "12GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Honor 600 Lite 5G 8GB 256GB",
     "brand": "HONOR",
     "sku": "",
@@ -2718,6 +2682,24 @@
     "category": "phones",
     "attrs": {
       "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Samsung Galaxy S26 12GB 256GB",
+    "brand": "Samsung",
+    "sku": "",
+    "price": 314990.0,
+    "regular_price": 331611.0,
+    "sale_price": 314990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/samsung-mobile-s26-12gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s26-3.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "12GB"
     },
     "on_sale": true,
     "junk": false
@@ -2794,25 +2776,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "HONOR X8B (8GB / 512GB) Green",
-    "brand": "HONOR",
-    "sku": "",
-    "price": 99999.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/honor-x8b-8gb-512gb-green.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/8/x8bg.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "8GB",
-      "color": "Green"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Apple iPhone 17 Pro Max 256GB",
     "brand": "Apple",
     "sku": "",
@@ -2843,6 +2806,25 @@
     "category": "phones",
     "attrs": {
       "storage": "3GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "HONOR X8B (8GB / 512GB) Green",
+    "brand": "HONOR",
+    "sku": "",
+    "price": 99999.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/honor-x8b-8gb-512gb-green.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/8/x8bg.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "8GB",
+      "color": "Green"
     },
     "on_sale": false,
     "junk": false
@@ -3282,24 +3264,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung Galaxy S26 Ultra 12GB 256GB",
-    "brand": "Samsung",
-    "sku": "",
-    "price": 499990.0,
-    "regular_price": 531073.0,
-    "sale_price": 499990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/samsung-galaxy-s26-ultra-12gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s26-ultra-2.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "12GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Samsung Galaxy F07 4GB 64GB",
     "brand": "Samsung",
     "sku": "",
@@ -3314,6 +3278,24 @@
       "storage": "4GB"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Samsung Galaxy S26 Ultra 12GB 256GB",
+    "brand": "Samsung",
+    "sku": "",
+    "price": 499990.0,
+    "regular_price": 531073.0,
+    "sale_price": 499990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/samsung-galaxy-s26-ultra-12gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s26-ultra-2.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "12GB"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -3716,6 +3698,22 @@
     "currency": "LKR",
     "url": "https://takas.lk/electronics-computers/laptops-desktops/laptop/asus-b1400cepe-ek0910-i7-laptop.html",
     "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_expertbook_b1_b1400_1.jpg",
+    "category": "laptops",
+    "attrs": {},
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Apple MacBook Air M3 Chip 15-inch (2024)",
+    "brand": "Apple",
+    "sku": "",
+    "price": 422990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/laptops-desktops/laptop/apple-macbook-air-m3-chip-15-inch-2024.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/g/q/gq-mobiles-laptop-netbook-macbook-air-m3-15-inch-2024-midnight.png",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -8951,20 +8949,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sharp Inverter 401L 4 Door Refrigerator",
-    "brand": "Sharp",
+    "name": "Sanford 251L No Frost Refrigerator",
+    "brand": null,
     "sku": "",
-    "price": 429990.0,
-    "regular_price": 537138.0,
-    "sale_price": 429990.0,
+    "price": 115990.0,
+    "regular_price": null,
+    "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sharp-inverter-401l-4-door-refrigerator.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/j/sj-vx40pg-bk-min.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sanford-251l-no-frost-refrigerator.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1724rf1_6d876ac8-49f9-4f2c-a446-80cf19034669.jpg",
     "category": "refrigerators",
     "attrs": {
-      "capacity": "401L"
+      "capacity": "251L"
     },
-    "on_sale": true,
+    "on_sale": false,
     "junk": false
   },
   {
@@ -8985,20 +8983,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 251L No Frost Refrigerator",
-    "brand": null,
+    "name": "Samsung Refrigerator 345L – RT37B4513S8/IG",
+    "brand": "Samsung",
     "sku": "",
-    "price": 115990.0,
-    "regular_price": null,
-    "sale_price": null,
+    "price": 259990.0,
+    "regular_price": 289990.0,
+    "sale_price": 259990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sanford-251l-no-frost-refrigerator.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1724rf1_6d876ac8-49f9-4f2c-a446-80cf19034669.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/samsung-refrigerator-345l-rt37b4513s8-ig.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/6/3/63-1.jpg",
     "category": "refrigerators",
     "attrs": {
-      "capacity": "251L"
+      "capacity": "345L"
     },
-    "on_sale": false,
+    "on_sale": true,
     "junk": false
   },
   {
@@ -9036,24 +9034,6 @@
       "color": "Silver"
     },
     "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Samsung Refrigerator 345L – RT37B4513S8/IG",
-    "brand": "Samsung",
-    "sku": "",
-    "price": 259990.0,
-    "regular_price": 289990.0,
-    "sale_price": 259990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/samsung-refrigerator-345l-rt37b4513s8-ig.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/6/3/63-1.jpg",
-    "category": "refrigerators",
-    "attrs": {
-      "capacity": "345L"
-    },
-    "on_sale": true,
     "junk": false
   },
   {
@@ -9167,24 +9147,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sisil Deep Freezer (920L) – SL 980G1",
-    "brand": null,
-    "sku": "",
-    "price": 245580.0,
-    "regular_price": 268884.0,
-    "sale_price": 245580.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sisil-deep-freezer-920l-sl-980g1.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/9/0/9034_1.jpg",
-    "category": "refrigerators",
-    "attrs": {
-      "capacity": "920L"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Sanford 190L Defrost Refrigerator",
     "brand": null,
     "sku": "",
@@ -9199,6 +9161,24 @@
       "capacity": "190L"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Sisil Deep Freezer (920L) – SL 980G1",
+    "brand": null,
+    "sku": "",
+    "price": 245580.0,
+    "regular_price": 268884.0,
+    "sale_price": 245580.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sisil-deep-freezer-920l-sl-980g1.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/9/0/9034_1.jpg",
+    "category": "refrigerators",
+    "attrs": {
+      "capacity": "920L"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -9489,18 +9469,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Telesonic 4.5KG Commercial Rice Cooker - TL-66",
+    "name": "Sanford 1.8L Rice Cooker",
     "brand": null,
     "sku": "",
-    "price": 32290.0,
-    "regular_price": 48095.0,
-    "sale_price": 32290.0,
+    "price": 9990.0,
+    "regular_price": 10990.0,
+    "sale_price": 9990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/telesonic-4-5kg-commercial-rice-cooker-tl-66.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/l/tl-66.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-8l-rice-cooker-86760.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/u/n/untitleddesign_22.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "4.5KG"
+      "capacity": "1.8L"
     },
     "on_sale": true,
     "junk": false
@@ -9523,18 +9503,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 1.8L Rice Cooker",
+    "name": "Sanford 1.5L Rice Cooker",
     "brand": null,
     "sku": "",
-    "price": 9990.0,
-    "regular_price": 10990.0,
-    "sale_price": 9990.0,
+    "price": 6990.0,
+    "regular_price": 7990.0,
+    "sale_price": 6990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-8l-rice-cooker-86760.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/u/n/untitleddesign_22.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-5l-rice-cooker-88017.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf2514rc_new.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "1.5L"
     },
     "on_sale": true,
     "junk": false
@@ -9573,20 +9553,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 1.5L Rice Cooker",
-    "brand": null,
+    "name": "Midea 2.2L Rice Cooker",
+    "brand": "Midea",
     "sku": "",
-    "price": 6990.0,
-    "regular_price": 7990.0,
-    "sale_price": 6990.0,
+    "price": 9990.0,
+    "regular_price": null,
+    "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-5l-rice-cooker-88017.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf2514rc_new.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/midea-2-2l-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/3/4/3423-large_default_f5aa3b66-626a-443c-b661-80fe15e0d95d_1_.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.5L"
+      "capacity": "2.2L"
     },
-    "on_sale": true,
+    "on_sale": false,
     "junk": false
   },
   {
@@ -9627,24 +9607,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Midea 2.2L Rice Cooker",
-    "brand": "Midea",
-    "sku": "",
-    "price": 9990.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/midea-2-2l-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/3/4/3423-large_default_f5aa3b66-626a-443c-b661-80fe15e0d95d_1_.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "2.2L"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Innovex Rice Cooker",
     "brand": null,
     "sku": "",
@@ -9677,24 +9639,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "ABANS- 1.5L RICE COOKER WITH STEAMER",
-    "brand": "Abans",
-    "sku": "",
-    "price": 3145.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/abans-1-5l-rice-cooker-with-steamer.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web_7__1.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "1.5L"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Better One Rice Cooker EK-2.8L",
     "brand": null,
     "sku": "",
@@ -9713,18 +9657,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Mistral 4.2l Rice Cooker MRC42",
-    "brand": null,
+    "name": "ABANS- 1.5L RICE COOKER WITH STEAMER",
+    "brand": "Abans",
     "sku": "",
-    "price": 34570.0,
+    "price": 3145.0,
     "regular_price": null,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/mistral-4-2l-rice-cooker-mrc42.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web-16.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/abans-1-5l-rice-cooker-with-steamer.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web_7__1.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "4.2L"
+      "capacity": "1.5L"
     },
     "on_sale": false,
     "junk": false
@@ -9749,18 +9693,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Masda 1.8 L Automatic Rice Cooker",
+    "name": "Mistral 4.2l Rice Cooker MRC42",
     "brand": null,
     "sku": "",
-    "price": 7500.0,
+    "price": 34570.0,
     "regular_price": null,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/masda-1-8-l-automatic-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_1.png",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/mistral-4-2l-rice-cooker-mrc42.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web-16.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "4.2L"
     },
     "on_sale": false,
     "junk": false
@@ -9821,24 +9765,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 5.6L Rice Cooker - SF-1133RC",
-    "brand": null,
-    "sku": "",
-    "price": 18790.0,
-    "regular_price": 19990.0,
-    "sale_price": 18790.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-5-6l-rice-cooker-sf-1133rc.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1133rc_1.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "5.6L"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Sanford SF-2509RC 8.0 LTR Rice Cooker",
     "brand": null,
     "sku": "",
@@ -9855,18 +9781,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "LMG Rice Cooker - 2.8L",
+    "name": "Sanford 5.6L Rice Cooker - SF-1133RC",
     "brand": null,
     "sku": "",
-    "price": 14616.0,
-    "regular_price": 18539.0,
-    "sale_price": 14616.0,
+    "price": 18790.0,
+    "regular_price": 19990.0,
+    "sale_price": 18790.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-rice-cooker-2-8l.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_2.8l.02.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-5-6l-rice-cooker-sf-1133rc.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1133rc_1.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "2.8L"
+      "capacity": "5.6L"
     },
     "on_sale": true,
     "junk": false
@@ -9892,18 +9818,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Panasonic 2.2L Rice Cooker SR-W22GS",
-    "brand": "Panasonic",
+    "name": "LMG Rice Cooker - 2.8L",
+    "brand": null,
     "sku": "",
-    "price": 24701.0,
-    "regular_price": 29202.0,
-    "sale_price": 24701.0,
+    "price": 14616.0,
+    "regular_price": 18539.0,
+    "sale_price": 14616.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/panasonic-2-2l-rice-cooker-sr-w22gs.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/n/e/new_project_5.png",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-rice-cooker-2-8l.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_2.8l.02.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "2.2L"
+      "capacity": "2.8L"
     },
     "on_sale": true,
     "junk": false
@@ -9928,18 +9854,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Krypton 1.8L Rice Cooker With Steamer - KNRC5283",
-    "brand": null,
+    "name": "Panasonic 2.2L Rice Cooker SR-W22GS",
+    "brand": "Panasonic",
     "sku": "",
-    "price": 13990.0,
-    "regular_price": 18396.0,
-    "sale_price": 13990.0,
+    "price": 24701.0,
+    "regular_price": 29202.0,
+    "sale_price": 24701.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/krypton-1-8l-rice-cooker-with-steamer-knrc5283.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/k/n/knrc5283.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/panasonic-2-2l-rice-cooker-sr-w22gs.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/n/e/new_project_5.png",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "2.2L"
     },
     "on_sale": true,
     "junk": false
@@ -9960,6 +9886,24 @@
       "capacity": "1.8L"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Krypton 1.8L Rice Cooker With Steamer - KNRC5283",
+    "brand": null,
+    "sku": "",
+    "price": 13990.0,
+    "regular_price": 18396.0,
+    "sale_price": 13990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/krypton-1-8l-rice-cooker-with-steamer-knrc5283.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/k/n/knrc5283.jpg",
+    "category": "rice-cookers",
+    "attrs": {
+      "capacity": "1.8L"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -10031,6 +9975,22 @@
     "attrs": {
       "capacity": "2.8L"
     },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Sanford SF-2502RC 2.2 LTR Rice Cooker",
+    "brand": null,
+    "sku": "",
+    "price": 9990.0,
+    "regular_price": 12450.0,
+    "sale_price": 9990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-sf-2502rc-2-2-ltr-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf2502rc_new.jpg",
+    "category": "rice-cookers",
+    "attrs": {},
     "on_sale": true,
     "junk": false
   },
@@ -39643,8 +39603,8 @@
     "regular_price": 699000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzI5Ng==",
-    "image": "https://www.gamestreet.lkimages/products/9704.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzI5Ng==",
+    "image": "https://www.gamestreet.lk/images/products/9704.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -39661,8 +39621,8 @@
     "regular_price": 268500.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM1Nw==",
-    "image": "https://www.gamestreet.lkimages/products/9886.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzM1Nw==",
+    "image": "https://www.gamestreet.lk/images/products/9886.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -39680,8 +39640,8 @@
     "regular_price": 385000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MjM4Ng==",
-    "image": "https://www.gamestreet.lkimages/products/6947.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MjM4Ng==",
+    "image": "https://www.gamestreet.lk/images/products/6947.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "4GB"
@@ -39698,8 +39658,8 @@
     "regular_price": 309000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzA4NA==",
-    "image": "https://www.gamestreet.lkimages/products/9027.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzA4NA==",
+    "image": "https://www.gamestreet.lk/images/products/9027.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -39717,8 +39677,8 @@
     "regular_price": 285000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzA4Mw==",
-    "image": "https://www.gamestreet.lkimages/products/9024.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzA4Mw==",
+    "image": "https://www.gamestreet.lk/images/products/9024.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "4GB",
@@ -39736,8 +39696,8 @@
     "regular_price": 415000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzMzOQ==",
-    "image": "https://www.gamestreet.lkimages/products/9832.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzMzOQ==",
+    "image": "https://www.gamestreet.lk/images/products/9832.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -39755,8 +39715,8 @@
     "regular_price": 275000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzA4Mg==",
-    "image": "https://www.gamestreet.lkimages/products/9021.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzA4Mg==",
+    "image": "https://www.gamestreet.lk/images/products/9021.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "4GB",
@@ -39774,8 +39734,8 @@
     "regular_price": 669000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzI5Nw==",
-    "image": "https://www.gamestreet.lkimages/products/9707.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzI5Nw==",
+    "image": "https://www.gamestreet.lk/images/products/9707.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -39792,8 +39752,8 @@
     "regular_price": 440000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM3MQ==",
-    "image": "https://www.gamestreet.lkimages/products/9946.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzM3MQ==",
+    "image": "https://www.gamestreet.lk/images/products/9946.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -39810,8 +39770,8 @@
     "regular_price": 375000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzIyNg==",
-    "image": "https://www.gamestreet.lkimages/products/9451.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzIyNg==",
+    "image": "https://www.gamestreet.lk/images/products/9451.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB"
@@ -39828,8 +39788,8 @@
     "regular_price": 357000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM1Ng==",
-    "image": "https://www.gamestreet.lkimages/products/9883.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzM1Ng==",
+    "image": "https://www.gamestreet.lk/images/products/9883.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB"
@@ -39846,8 +39806,8 @@
     "regular_price": 551000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzEyNw==",
-    "image": "https://www.gamestreet.lkimages/products/9156.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzEyNw==",
+    "image": "https://www.gamestreet.lk/images/products/9156.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -39865,8 +39825,8 @@
     "regular_price": 594500.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzEyNg==",
-    "image": "https://www.gamestreet.lkimages/products/9153.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzEyNg==",
+    "image": "https://www.gamestreet.lk/images/products/9153.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -39884,8 +39844,8 @@
     "regular_price": 551500.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MjkyNg==",
-    "image": "https://www.gamestreet.lkimages/products/8556.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MjkyNg==",
+    "image": "https://www.gamestreet.lk/images/products/8556.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -39903,8 +39863,8 @@
     "regular_price": 606000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MjkyNQ==",
-    "image": "https://www.gamestreet.lkimages/products/8553.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MjkyNQ==",
+    "image": "https://www.gamestreet.lk/images/products/8553.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -39922,8 +39882,8 @@
     "regular_price": 340000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM3NA==",
-    "image": "https://www.gamestreet.lkimages/products/9955.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzM3NA==",
+    "image": "https://www.gamestreet.lk/images/products/9955.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "4GB",
@@ -39942,8 +39902,8 @@
     "regular_price": 373000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzI2MQ==",
-    "image": "https://www.gamestreet.lkimages/products/9593.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzI2MQ==",
+    "image": "https://www.gamestreet.lk/images/products/9593.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -39962,8 +39922,8 @@
     "regular_price": 414000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzM3Mw==",
-    "image": "https://www.gamestreet.lkimages/products/9952.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzM3Mw==",
+    "image": "https://www.gamestreet.lk/images/products/9952.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -39982,8 +39942,8 @@
     "regular_price": 389000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzI2MA==",
-    "image": "https://www.gamestreet.lkimages/products/9590.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzI2MA==",
+    "image": "https://www.gamestreet.lk/images/products/9590.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -40002,8 +39962,8 @@
     "regular_price": 708000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzAzNg==",
-    "image": "https://www.gamestreet.lkimages/products/8883.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzAzNg==",
+    "image": "https://www.gamestreet.lk/images/products/8883.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -40020,8 +39980,8 @@
     "regular_price": 405500.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzEyOA==",
-    "image": "https://www.gamestreet.lkimages/products/9159.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzEyOA==",
+    "image": "https://www.gamestreet.lk/images/products/9159.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -40039,8 +39999,8 @@
     "regular_price": 930500.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.gamestreet.lkproduct_view.php?pid=MzEyNQ==",
-    "image": "https://www.gamestreet.lkimages/products/9150.jpg",
+    "url": "https://www.gamestreet.lk/product_view.php?pid=MzEyNQ==",
+    "image": "https://www.gamestreet.lk/images/products/9150.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "12GB",
@@ -40661,8 +40621,8 @@
     "regular_price": 169900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-x1504v-core-3-100u-8gb-ddr5-ram",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/971/450-5560431744product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-x1504v-core-3-100u-8gb-ddr5-ram",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/971/450-5560431744product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -40679,8 +40639,8 @@
     "regular_price": 179900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/lenovo-v15-g4-i3-13th-gen",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/815/450-6130495915product.jpg",
+    "url": "https://www.lapshop.lk/product/lenovo-v15-g4-i3-13th-gen",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/815/450-6130495915product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40695,8 +40655,8 @@
     "regular_price": 179900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-expertbook-b1503cv-intel-core-i3-13th-gen-business-class",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/852/450-9478195224product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-expertbook-b1503cv-intel-core-i3-13th-gen-business-class",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/852/450-9478195224product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40711,8 +40671,8 @@
     "regular_price": 189000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/hp-15-fd0681tu-i3-02-year-authorized-warranty",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/967/450-9796236049product.jpg",
+    "url": "https://www.lapshop.lk/product/hp-15-fd0681tu-i3-02-year-authorized-warranty",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/967/450-9796236049product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40727,8 +40687,8 @@
     "regular_price": 189000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-r1504v-intel-core-i3-13th-gen",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/752/450-1678592696product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-r1504v-intel-core-i3-13th-gen",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/752/450-1678592696product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40743,8 +40703,8 @@
     "regular_price": 189900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/dell-pro-15-essential-core-3-14th-gen",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/953/450-3457117307product.jpg",
+    "url": "https://www.lapshop.lk/product/dell-pro-15-essential-core-3-14th-gen",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/953/450-3457117307product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40759,8 +40719,8 @@
     "regular_price": 192000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-go-15-e1504f-ryzen-5-40-8gb-ddr5-512gb-nvme-ssd",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/972/450-1801926143product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-go-15-e1504f-ryzen-5-40-8gb-ddr5-512gb-nvme-ssd",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/972/450-1801926143product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -40777,8 +40737,8 @@
     "regular_price": 198000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/lenovo-ideapad-slim-3-15iru8-i3-02-year-authorized-warranty",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/968/450-6438826251product.jpg",
+    "url": "https://www.lapshop.lk/product/lenovo-ideapad-slim-3-15iru8-i3-02-year-authorized-warranty",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/968/450-6438826251product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40793,8 +40753,8 @@
     "regular_price": 199900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/chuwi-corebook-plus-ryzen-5-7430u-16gb-ram-16inch-fullhd-ips-display-02-year-authorized-warranty",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/964/450-6134486387product.jpg",
+    "url": "https://www.lapshop.lk/product/chuwi-corebook-plus-ryzen-5-7430u-16gb-ram-16inch-fullhd-ips-display-02-year-authorized-warranty",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/964/450-6134486387product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -40813,8 +40773,8 @@
     "regular_price": 210000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/lenovo-ideapad-slim-3-15irh8-i5-13th-gen-h-prossersor",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/945/450-2650951741product.jpg",
+    "url": "https://www.lapshop.lk/product/lenovo-ideapad-slim-3-15irh8-i5-13th-gen-h-prossersor",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/945/450-2650951741product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40829,8 +40789,8 @@
     "regular_price": 215000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-x1504v-intel-core-5-14th-gen",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/914/450-7060984711product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-x1504v-intel-core-5-14th-gen",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/914/450-7060984711product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40845,8 +40805,8 @@
     "regular_price": 219000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-m15-m1502-amd-ryzen-7-7730u",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/866/450-1353123351product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-m15-m1502-amd-ryzen-7-7730u",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/866/450-1353123351product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40861,8 +40821,8 @@
     "regular_price": 219900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/dell-vostro-3530-i7-13th-gen",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/929/450-8124993379product.jpg",
+    "url": "https://www.lapshop.lk/product/dell-vostro-3530-i7-13th-gen",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/929/450-8124993379product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40877,8 +40837,8 @@
     "regular_price": 225000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/hp-15-fd0154wm-ultra-5-125h-ai-h-processor",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/857/450-1235349502product.jpg",
+    "url": "https://www.lapshop.lk/product/hp-15-fd0154wm-ultra-5-125h-ai-h-processor",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/857/450-1235349502product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40893,8 +40853,8 @@
     "regular_price": 225000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/msi-modern-15-intel-core-5-120u-14th-gen-8gb-512gb-f1mg",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/954/450-8244038755product.jpg",
+    "url": "https://www.lapshop.lk/product/msi-modern-15-intel-core-5-120u-14th-gen-8gb-512gb-f1mg",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/954/450-8244038755product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -40911,8 +40871,8 @@
     "regular_price": 230000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-expertbook-b1503cva-core-5-120u-14th-gen",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/834/450-6861048809product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-expertbook-b1503cva-core-5-120u-14th-gen",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/834/450-6861048809product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40927,8 +40887,8 @@
     "regular_price": 232000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-x1504v-intel-core-7-14th-gen",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/822/450-2784721937product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-x1504v-intel-core-7-14th-gen",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/822/450-2784721937product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40943,8 +40903,8 @@
     "regular_price": 235000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-x1502v-intel-core-i5-13th-gen-h-processor",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/865/450-9544857595product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-x1502v-intel-core-i5-13th-gen-h-processor",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/865/450-9544857595product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40959,8 +40919,8 @@
     "regular_price": 235000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/hp-15-fd1337tu-core-5-120u-03-year-authorized-warranty",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/969/450-6025650925product.jpg",
+    "url": "https://www.lapshop.lk/product/hp-15-fd1337tu-core-5-120u-03-year-authorized-warranty",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/969/450-6025650925product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -40975,8 +40935,8 @@
     "regular_price": 238000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-f1504-core-5-120u-16gb-ram",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/800/450-5731582768product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-f1504-core-5-120u-16gb-ram",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/800/450-5731582768product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -40994,8 +40954,8 @@
     "regular_price": 239000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/chuwi-corebook-air-plus-ryzen-7-255-16gb-ddr5-ram-16inch-fullhd-ips-display-02-year-authorized-warranty",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/965/450-8511581344product.jpg",
+    "url": "https://www.lapshop.lk/product/chuwi-corebook-air-plus-ryzen-7-255-16gb-ddr5-ram-16inch-fullhd-ips-display-02-year-authorized-warranty",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/965/450-8511581344product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -41013,8 +40973,8 @@
     "regular_price": 250000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-expertbook-b1503cva-core-7-150u-14th-gen",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/906/450-1153383878product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-expertbook-b1503cva-core-7-150u-14th-gen",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/906/450-1153383878product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -41029,8 +40989,8 @@
     "regular_price": 272000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-x1502v-intel-core-i7-13th-gen-h-processor-16gb-ram",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/943/450-2058654539product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-x1502v-intel-core-i7-13th-gen-h-processor-16gb-ram",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/943/450-2058654539product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -41048,8 +41008,8 @@
     "regular_price": 278000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-vivobook-a1504v-intel-core-7-14th-gen-16gb-ram-1tb-ssd-15-6-fullhd",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/932/450-7174668883product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-vivobook-a1504v-intel-core-7-14th-gen-16gb-ram-1tb-ssd-15-6-fullhd",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/932/450-7174668883product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -41067,8 +41027,8 @@
     "regular_price": 319000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/hp-ominibook-x-flip-14-fm0013dx-ultra-5-226v-ai",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/983/450-4551858757product.jpg",
+    "url": "https://www.lapshop.lk/product/hp-ominibook-x-flip-14-fm0013dx-ultra-5-226v-ai",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/983/450-4551858757product.jpg",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -41083,8 +41043,8 @@
     "regular_price": 289900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/msi-thin-15-b7uc-ryzen-7-7735hs-4gb-rtx-3050",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/960/450-6052398386product.jpg",
+    "url": "https://www.lapshop.lk/product/msi-thin-15-b7uc-ryzen-7-7735hs-4gb-rtx-3050",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/960/450-6052398386product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "4GB"
@@ -41101,8 +41061,8 @@
     "regular_price": 295000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/hp-victus-fa2013-i5-13420h-6gb-rtx3050",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/757/450-9653004097product.jpg",
+    "url": "https://www.lapshop.lk/product/hp-victus-fa2013-i5-13420h-6gb-rtx3050",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/757/450-9653004097product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB"
@@ -41119,8 +41079,8 @@
     "regular_price": 298000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-tuf-gaming-a15-fa506-amd-ryzen-7-7435hs-4gb-rtx-2050",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/771/450-4783080278product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-tuf-gaming-a15-fa506-amd-ryzen-7-7435hs-4gb-rtx-2050",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/771/450-4783080278product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "4GB"
@@ -41137,8 +41097,8 @@
     "regular_price": 315000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/msi-thin-15-b13udx-intel-core-i7-13620h-gen-6gb-rtx-3050-16gb-ram",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/952/450-8313940782product.jpg",
+    "url": "https://www.lapshop.lk/product/msi-thin-15-b13udx-intel-core-i7-13620h-gen-6gb-rtx-3050-16gb-ram",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/952/450-8313940782product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -41156,8 +41116,8 @@
     "regular_price": 325000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-tuf-gaming-a15-fa506-amd-ryzen-7-7435hs-4gb-rtx-3050-16gb-ddr5-ram",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/897/450-6096221183product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-tuf-gaming-a15-fa506-amd-ryzen-7-7435hs-4gb-rtx-3050-16gb-ddr5-ram",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/897/450-6096221183product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "4GB"
@@ -41174,8 +41134,8 @@
     "regular_price": 329900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-tuf-f16-fx607v-core-5-210h-6gb-rtx-3050-16gb-ddr5",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/823/450-8628873790product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-tuf-f16-fx607v-core-5-210h-6gb-rtx-3050-16gb-ddr5",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/823/450-8628873790product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB"
@@ -41192,8 +41152,8 @@
     "regular_price": 329900.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/lenovo-loq-15arp10e-ryzen-7-7435hs-6gb-rtx-3050-16gb-ddr5-ram",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/958/450-7303338038product.jpg",
+    "url": "https://www.lapshop.lk/product/lenovo-loq-15arp10e-ryzen-7-7435hs-6gb-rtx-3050-16gb-ddr5-ram",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/958/450-7303338038product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB"
@@ -41210,8 +41170,8 @@
     "regular_price": 389000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-tuf-a16-fa607-ryzen-7-170-6gb-rtx-4050-16gb-ram-2026-edition",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/942/450-2135083935product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-tuf-a16-fa607-ryzen-7-170-6gb-rtx-4050-16gb-ram-2026-edition",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/942/450-2135083935product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -41229,8 +41189,8 @@
     "regular_price": 395000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/asus-tuf-f16-fx607v-i7-13620h-gen-6gb-rtx-4050-16gb-ddr5-ram",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/961/450-9942640910product.jpg",
+    "url": "https://www.lapshop.lk/product/asus-tuf-f16-fx607v-i7-13620h-gen-6gb-rtx-4050-16gb-ddr5-ram",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/961/450-9942640910product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "6GB"
@@ -41247,8 +41207,8 @@
     "regular_price": 409000.0,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://www.lapshop.lkproduct/msi-cyborg-15-b13wfkg-i7-13620h-gen-8gb-rtx-5060-16gb-ram",
-    "image": "https://www.lapshop.lk/https://www.lapshop.lk/../lapshop-data/product-images/1/959/450-8931572588product.jpg",
+    "url": "https://www.lapshop.lk/product/msi-cyborg-15-b13wfkg-i7-13620h-gen-8gb-rtx-5060-16gb-ram",
+    "image": "https://www.lapshop.lk/lapshop-data/product-images/1/959/450-8931572588product.jpg",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -44085,7 +44045,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015ahp9%20%7C%20ryzen%207-7445hs%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%203050%206gb%20%7C%2015.6%20fhd%20%7C%20dos%20%7C%20luna%20grey%20%7C%20backlit%20keyboard",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -44142,7 +44102,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20fa506hcq-hn038%20%7C%20ryzen%207%20170%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%203050%204gb%20%7C%2015.6%22%20fhd%20ips%20144hz%20%7C%20dos%20%7C%20graphite%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -45015,7 +44975,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015irh8%20%7C%20i5-13500h%20%7C%2016gb%20%7C%201tb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6fhd''%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -47499,7 +47459,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20s%2016%20flip%20tp3604va-is93t%20%7C%20i9-13900h%20%7C%201tb%20ssd%20%7C%2016gb%20ram%20%7C%2016%22fhd",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "1TB",
@@ -47536,7 +47496,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1404za-i38128%20%7C%20i3-1215u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2014%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -47554,7 +47514,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1502va%20%7C%20i5-13420h%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos%20%7C%20quiet%20blue",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -47610,7 +47570,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1502va-nj852%20%7C%20i7-13620h%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20quiet%20blue",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -47667,7 +47627,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1502z%20%7C%20i3-1215u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -47685,7 +47645,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1502za%20%7C%20i3-1220p%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -47703,7 +47663,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-bq141%20%7C%20i7-1355u%20%7C%2016gb%20ddr4%20%7C%201tb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -47721,7 +47681,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-bq141%20%7C%20i7-1355u%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20iris%20xe%20graphics%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -47739,7 +47699,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-bq143%20%7C%20i3-1315u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%20fhd%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -47794,7 +47754,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-nj1367%20%7C%20i3-1315u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%20fhd%20%7C%20win%2011%20%7C%20fingerprint",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -47812,7 +47772,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-nj739%20%7C%20i3-1315u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%20fhd%20%7C%20dos%20%7C%20quiet%20blue",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -47831,7 +47791,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504za%20%7C%20i7-1255u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -47849,7 +47809,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504za-nj061%20%7C%20i5-1235u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -47867,7 +47827,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x515ma-br1023%20%7C%20celeron%20n4020%20%7C%208gb%20ddr4%20%7C%20256gb%20nvme%20%7C%2015.6hd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -47885,7 +47845,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%2015x%20k3504v%20%7C%20i5-1335u%20%7C%2016gb%20ram%20%7C%201tb%20nvme%20%7C%2015.6fhd%20%7C%20win%2011h",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -47922,7 +47882,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20f1504va%20%7C%20i5%201335u%20%7C%2012gb%20ram%20%7C%20512gb%20nvme%20%7C%2015.6%C3%A2%C2%80%C2%9D%20fhd%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "12GB",
@@ -47997,7 +47957,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20f1605v%20%7C%20i5-13500h%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2016''%20wuxga%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48015,7 +47975,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20f1605va%20%7C%20i5%2013500h%20%7C%20ddr4%208gb%20ram%20%7C%20512gb%20nvme%20%7C%2016.0%C3%A2%C2%80%C2%9Dwuxga%20%7C%20win%2011h",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -48034,7 +47994,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20go%20e1404fa-nk185w%20%7C%20ryzen%205-7520u%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2014''%20fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48052,7 +48012,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20go%20e1404fa-th31%20%7C%20ryzen%203-7320u%20%7C%204gb%20ddr5%20%7C%20128gb%20nvme%20%7C%2014''%20fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "4GB"
@@ -48070,7 +48030,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20s%2015%20s5507%20-snapdragon%20x%20plus%20x1p",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -48086,7 +48046,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20tp3604v%20%7C%20i9-13900h%20%7C%2016gb%20ddr4%20%7C%201tb%20nvme%20%7C%2016''%20wuxga%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48104,7 +48064,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1502z%20%7C%20i3-1215u%20%7C%208gb%20ddr4%20%7C%20256gb%20nvme%20%7C%2015.6%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48122,7 +48082,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1502za-ej1429%20%7C%20i7-12700h%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48140,7 +48100,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va%20%7C%20i7-1355u%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48158,7 +48118,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-nj379%20%7C%20i7-1355u%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48176,7 +48136,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-nj435%20%7C%20i7-1355u%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos%20%7C%20fingerprint",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48194,7 +48154,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-nj451%20%7C%20i3-1315u%20%7C%208gb%20ddr4%20%7C%20256gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48212,7 +48172,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-nj725%20%7C%20i3-1315u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48230,7 +48190,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20zenbook%20ux3402va-is94t%20%7C%20i9-13900h%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%2014''%20oled%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48285,7 +48245,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20zenbook%20q410va%20%7C%20i5%2013500h%20%7C%208gb%20ram%20%7C%20512gb%20nvme%20%7C%2014.5%C3%A2%C2%80%C2%9D%202.8k%20oled%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -48322,7 +48282,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20zenbook%20q420va%20%7C%20i7-13700h%20evo%7C%2016gb%20ram%20%7C%20512gb%20nvme%20%7C%2014.5%C3%A2%C2%80%C2%9D%202.8k%20oled%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -48341,7 +48301,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/cooler%20master%20notepal%20cmc3%20silent%20fan%20laptop%20cooling%20pad",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -48357,7 +48317,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20inspiron%205510%20i5-11300h%2F8gb%2F512gb%2Firis%20xe%2Fwin%2010",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48375,7 +48335,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20vostro%203520%20i5-1235u%20%7C%208gb%20ddr4%20%7C%20256gb%20nvme%20%7C%20windows%2011%20pro",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48393,7 +48353,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20vostro%203520%20i5-1235u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20windows%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48430,7 +48390,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20alienware%2018%20area-51%20aa18250%20gaming%20core%C3%A2%C2%84%C2%A2%C3%AF%C2%B8%C2%8F%20ultra%209-275hx%202tb%20ssd%2064gb%2018%22qhd%20%282560x1600%29%20300hz%20win11%20nvidia%C3%A2%C2%AE%C3%AF%C2%B8%C2%8F%20rtx%205090%2024gb%20liquid%20teal",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "2TB"
@@ -48448,7 +48408,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20inspiron%203520%20%7C%20i5-1235u%20%7C%208gb%20ddr4%20%7C%20512nvme%20%7C%2015.6%20fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48484,7 +48444,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20vostro%203520%20i3-1215u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48502,7 +48462,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20vostro%203520%20i5-1215u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20win%2011%20pro",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48520,7 +48480,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/gigabyte%20g5%20kf5%20%7C%20i7-13620h%20%7C16gb%20%7C%20512gb%20%7C%204060%208gb%20%7C15.6%22fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48554,7 +48514,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015%20fd0075tg%20%7C%20i5%201335u%20%7C%208gb%20ram%20%7C%20512gb%20nvme%20ssd%20%7C%2015%2C6%C3%A2%C2%80%C2%9D%20fhd%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -48573,7 +48533,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015-dy5131wm%20%7C%20i3-1215u%20%7C%208gb%20ddr4%20ram%20%7C%20256gb%20nvme%20%7C%2015.6%22fhd%20%7C%20win%2011%20%7C%20fingerprint",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48610,7 +48570,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015-fd0687t0%20core%20i5%201334u%20%7C%208gb%20%7C%20512gb%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48628,7 +48588,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015s%20%C3%A2%C2%80%C2%93%20fd0355nia%20%7C%20i5-1235u%20%7C%208gb%20ddr4%20ram%20%7C%20512%20gb%20nvme%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48646,7 +48606,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20elitebook%20840%20%7C%20i7-1355u%20%7C%2016%20gb%20ram%20%7C%20512gb%20nvme%20%7C%2014%22wuxga%20%7C%20win%2011%20pro",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -48683,7 +48643,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20envy%20x360-14%20es0013dx-convertible%20%7C%20i5-1335u%20%7C%208gb%20ddr4%20ram%20%7C%20512gb%20ssd%20%7C%2014%20''%20ips%20fhd%20%7C%20win%2011%20home",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48701,7 +48661,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20elitebook%20640%20i5%206th%20gen%208gb%20%7C%20256gb%20laptop%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48737,7 +48697,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20elitebook%20840%20i7%208th%20gen%208gb%20%7C%20256gb%20laptop%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48773,7 +48733,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20omen%2016-wf0083%20%7C%20i9-13900hx%20%7C%201tb%20nvme%20%7C%2016gb%20ddr5%20%7C%2016.1%22%20fhd%20165hz%20%7C%20rtx%204060%208gb%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "1TB"
@@ -48809,7 +48769,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20omen%2016-wd0073dx%20%7C%20i7-13620h%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%204060%20%7C%2016.1''%20165hz%20fhd%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48827,7 +48787,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20probook%20450%20%7C%20i5-1335u%20%7C%208gb%20ram%20%7C%20512gb%20nvme%20%7C%2015.6%22fhd%20%7C%20win%2011%20h",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -48864,7 +48824,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20victus%2015%20i5%2013th%20gen%20%7C%20rtx%203050%206gb%20%7C%208gb%20ram%20%7C%20512gb%20nvme%20%7C%2015.6%22%20full%20hd%20144hz%20%7C%20win%2011%20home",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -48883,7 +48843,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20victus%2015-fa1082%20%7C%20i5-13420h%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6%22%20fhd%20144hz%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -48919,7 +48879,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20victus%2015%20%7C%20ryzen%205-7535hs%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%202050%204gb%20%7C%2015.6%22%20ips%20144hz%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48955,7 +48915,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20victus%2015-fa1100ne%2015%20%7C%20i5-12450h%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20rtx%202050%204gb%20%7C%2015.6''%20fhd%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -48973,7 +48933,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20victus%2015-fb2082wm%20ryzen%205-8645hs%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6%22%20ips%20144hz%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49009,7 +48969,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%203%2015ach6%20gaming%20%2Famd%20ryzen%C3%A2%C2%84%C2%A2%C3%AF%C2%B8%C2%8F%205%205600h%2F256gb%20ssd%2F8gb%2F15.6%22%20laptop",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "256GB"
@@ -49027,7 +48987,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%2015amn7%20amd%20r3%207320u%2Fddr5%208gb%2F512gb%2F15.6%C3%A2%C2%80%C2%99%C3%A2%C2%80%C2%99%20fhd%2Famd%20radeon",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49045,7 +49005,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%203%2015igl05%20celeron%20%7C%204gb%20ram%20%7C%20256gb%20nvme%20%7C%2015.6%C3%A2%C2%80%C2%99%C3%A2%C2%80%C2%99%20hd%20%7C%20win%2011%20home",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "4GB",
@@ -49064,7 +49024,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%20flex%205%2014alc7%20%7C%20ryzen%205%205500u%20%7C%20ddr4%2016gb%20%7C%20512gb%20nvme%20%7C%2014%22%20wuxga%20ips%20touch%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49082,7 +49042,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%20slim%203%2015irh10%20%7C%20i7%2013620h%20%7C%20ddr5%2024gb%20%7C%20512gb%20%7C%2015.3%C3%A2%C2%80%C2%B3%20wuxga%20%281920%C3%A3%C2%971200%29%20ips%20%7Cntel%20uhd%20%7C%20luna%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "24GB",
@@ -49101,7 +49061,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%205%2015arp8%20ryzen%207%207735hs%20%7C%20rtx%204060%208gb%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%20wqhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49119,7 +49079,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%20ryzen%207%207840hs%20%7C%208gb%20ddr5%20%7C%20512gb%20vme%20%7C%20rtx%204050%20%7C%2015.6%22%20fhd%20%7C%20win%2011%20home",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49137,7 +49097,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%20i5-13420h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%202050%204gb%20%7C%20backlit%20kb%20%7C%2015.6%22%20ips%20144hz%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49155,7 +49115,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%20slim%205%2016ahp9%20ryzen%207%208845hs%20%7C%2016gb%20ddr5%20%7C%201tb%20gen4%20nvme%20%7C%20rtx%204060%208gb%20%7C%2016%22%20wqxga%20%282560x1600%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49191,7 +49151,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenove%20thinkpad%20i5%20t470%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -49207,7 +49167,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ip%20slim3%20%7C%20i3-1305u%20%7C%208gb%20ddr4%20%7C%20256gb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49225,7 +49185,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%205%202-in-1%2014akp10%20%C3%A2%C2%80%C2%93%20ryzen%20ai%205%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2014%C3%A2%C2%80%C2%B3%20wuxga%20%7C%20win%2011%20%7C%20touch%20screen",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49243,7 +49203,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%20slim%203%2015irh10%20%7C%20i7-13620h%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%2015.3''%20wuxga%20%7C%20dos%20%7C%20luna%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -49300,7 +49260,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%20slim%203%2015iru8%20intel%20core%20i3-1305u%20processor%20%C3%A2%C2%80%C2%93%20512gb%20m.2%20nvme%20ssd%20%C3%A2%C2%80%C2%93%208gb",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "512GB"
@@ -49318,7 +49278,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%20slim%205%2016akp10%20%C3%A2%C2%80%C2%93%20amd%20ryzen%20al%207-350%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%2016.1''%202.8k%20oled%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -49336,7 +49296,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%20slim%205%2016imh9%20%C3%A2%C2%80%C2%93%20ultra%207%20%7C%20ddr5%2016gb%20%7C%20512gb%20m.2%20%7C%20intel%20arc%20graphics%20%7C%2016%C3%A2%C2%80%C2%B3%20wuxga%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49409,7 +49369,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015arp9%20ryzen%207-7735hs%20%7C%2016gb%20ddr5%20%7C%20512%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6%22%20fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49445,7 +49405,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015arp9%20ryzen%207-7435hs%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49463,7 +49423,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015arp9%20ryzen%207-7435hs%20%7C%2024gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%204060%208gb%20%7C%2015.6%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "24GB"
@@ -49481,7 +49441,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015arp9%20ryzen%207-7435hs%20%7C%2024gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "24GB"
@@ -49573,7 +49533,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015irx9%20%7C%20i7-13650hx%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20rtx%203050%206gb%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49609,7 +49569,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%207%20pro%2016iax10h%20%7C%20u9-275hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20%7C16%22%20wqxga%20240hz%20%7C%20rtx%205090%2024gb%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -49627,7 +49587,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%205%20151rx10%20%7C%20ultra%207%20255hx%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%2016.0%C3%A2%C2%80%C2%9D%20wqxga%20oled%202k%20%7C%20rtx%205060%208gb%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49664,7 +49624,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%205%2015irx10%20%7C%20core%20i9-14900hx%20%7C%2024gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx5070%208gb%20%7C%2015.1%22%20wqxga%20%7C%20windows%2011%20home",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "24GB"
@@ -49700,7 +49660,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%205%2016iax10%20%7C%20core%20ultra%209-275hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx5060%208gb%20%7C%2016''%20wqxga%20%7C%20win11%20%7C%20storm%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -49719,7 +49679,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%205%2016irx9%20%7C%20i7-14650hx%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%204060%208gb%20%7C%2016%C3%A2%C2%80%C2%B3%20wqxga%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49755,7 +49715,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%20pro%205%2016iax10%20%7C%20ultra%209-275hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx5070%20%7C%2016''%20wqxga%20oled%20%7C%20windows%2011%20home",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -49773,7 +49733,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20thinkbook%2016%20g8%20irl%7C%20core%205%20210h%7C%2016gb%20ddr5%7C%20512gb%20nvme%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49791,7 +49751,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20thinkpad%20e14%20gen%207%20%7C%20core%20ultra%207%20255h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2014%22%20wuxga%20%7C%20dos%20%7C%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -49828,7 +49788,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20thinkpad%20t14%20%7C%20ultra%207%20255h%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%2014%22%20wuxga%20%7C%20win%2011%20pro%20%7C%20fingerprint",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -49846,7 +49806,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20v15%20g3%20iap%20%7C%20i5-1235u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49864,7 +49824,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20v15%20g4%20iru%20i5-1335u%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -49882,7 +49842,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20v15%20g4%20iru%20i5-1335u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49936,7 +49896,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20bravo%2015%20b5d%20ryzen%205%205th%20gen%208gb%20ram%20512gb%20ssd%20rx5500m%20black%20laptop",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -49956,7 +49916,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20commercial%2014%20%7C%20i5-13420h%20%7C%208gb%20%7C%20512gb%20%7C%2014fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49974,7 +49934,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20commercial%2014h%20i5%2013th%20%7Ciris%20xe%20graphics%20%7C%208gb%20%7C%20512gb%20nvme%7Cfhd%2Bips%7C%20win%2011%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -49992,7 +49952,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20creator%20m16%20b13ve-1661us%20%7C%20i7-14700hx%20%7C%2032gb%20%7C%201tb%20%7C%20rtx%204050%20%7C%2016fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -50010,7 +49970,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20creator%20m16%20b13vf-1011us%20%7C%20i7-14700hx%20%7C%2032gb%20%7C%201tb%20%7C%20rtx%204060%20%7C%2016fhd%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -50028,7 +49988,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a12ve%20i5%2012450h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%C3%A2%C2%80%C2%9D%20fhd%20144hz%20%7C%20rtx%204050%206gb%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50046,7 +50006,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a12ve%20i7%2014th%20%7C%20rtx%204050%208gb%20%7C%2016gb%20%7C%20512gb%20nvme%20%7C%20win%2011%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -50064,7 +50024,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a12ve%20laptop%20%7C%20intel%20i7-12650h%20%7Crtx4050%2C%206gb%20gddr6%20%7C%2016gb%20ddr5%204800mhz%20%7C%20512gb%20nvme%20ssd%20%7C%2015.6%22fhd%20ips%20level%20144hz",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "6GB"
@@ -50082,7 +50042,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a13udx%20%7C%20i7-13620h%20%7C%20rtx3050%206gb%20gddr6%20%7C%208gb%20ddr5%204800mhz%20%7C%20512gb%20gen4%20nvme%20ssd%20%7C%2015.6%20inch%20fhd",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -50119,7 +50079,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a13ve%20i7%20%7C%2013620h%20%7C%2016gb%20ram%20%7C%20rtx%204050%206gb%20%7C%20512gb%20nvme%20%7C%20gaming%20laptop",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -50156,7 +50116,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a13vek%20%7C%20i7%2013620h%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6%20fhd%20144hz%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50174,7 +50134,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20ai%20a1vfk%20%7C%20intel%20core%20ultra%207%20155h%20%7Crtx4060%208gb%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%2015.6%C3%A2%C2%80%C2%9D%20fhd%20144hz%20%7Cwindows%2011%20home",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -50192,7 +50152,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a12vf%20%7C%20i7-12650h%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%204060%208gb%20%7C%2015.6%C3%A2%C2%80%C2%9D%20ips%20144hz%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -50228,7 +50188,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a13ucx%20%7C%20i7-13420h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%202050%20%7C%2015.6%C3%A2%C2%80%C2%9D%20ips%20144hz%20%7C%20win%2011%20%7C%20gaming%20laptop",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50246,7 +50206,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a13ucx-15%20i5-13420h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%202050%204gb%20%7C%2015.6%22%20fhd%20ips%20144hz%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50264,7 +50224,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20a13ve%20-%20218us%20%7C%20i7-13620h%20%7C%2016gb%20ddr5%20%7C%20rtx%204050%206gb%20%7C%20512gb%20nvmee%7C%2015.6%20fhd%20%7C%20win11%20%7C%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50300,7 +50260,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20gf63%2012ucx%20i5%2012450h%20%7C%2016gb%20%7C%20512gb%20%7C%20rtx%202050%204gb%20%7C%20144hz%20%7C%20win%2011%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50318,7 +50278,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20gf63%2012ucx%20i5%2012450h%20%7C%208gb%20%7C%20512gb%20%7C%20rtx%202050%204gb%20%7C%20144hz%20%7C%20win%2011%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -50336,7 +50296,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20gf63%2012ucx%20i7%2012650h%20%7C%2016gb%7C512gb%20nvme%20%7C%20rtx%202050%204gb%20%7C%20144hz%20%7C%20win%2011%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50354,7 +50314,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20gf63%2012ucx%20i7%2012650h%20%7C%208gb%2F%20512gbvme%20%7C%20rtx%202050%204gb%20%7C%20144hz%20%7C%20win%2011%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -50372,7 +50332,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20gf63%2012ve%20i7-12650h%2F%208gb%2F%20512gb%2F%20rtx%204050%206gb%20%2F%20144hz%20%2F%20win%2011%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -50408,7 +50368,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20katana%20a15%20ai%20b8vg-435lk%20%7C%20ryzen%209-8945hs%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx4070%208gb%20%7C%2015.6''%20fhd%20ips%20144hz%20%7C%20w11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50426,7 +50386,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2014%20c11m%2Fsilver%2F15-1155g7%2F8g%2F512gb%2F14%22%20fhd%20wif1%2Fbt%2F%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "512GB",
@@ -50445,7 +50405,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2014%20c11m%2Fsilver%2F15-1155g7%2F8g%2F512gb%2F14%22%20fhd%20wif1%2Fbt%2Fdos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "512GB",
@@ -50464,7 +50424,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20b11m%20i5-1155g7%20%2F%20512gb%20%2F%2016gb%20%2F%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "512GB"
@@ -50482,7 +50442,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20b13m%20-%20i5%2013th%20gen%2F16gb%20ram%2F512%20nvme%2Fintel%20iris%20xe%20graphics%2F15.6%22%20fhd%20ips",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -50501,7 +50461,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20b13m%20-%20i7%2013th%20gen%2F16gb%20ram%2F512%20nvme%2Fintel%20iris%20xe%20graphics%2F15.6%22%20fhd%20ips",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -50520,7 +50480,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20b13m%20i3%2013th%20gen%2F8gb%20ram%2F512%20nvme%2Fuhd%20graphics%2F15.6%22%20fhd%20ips",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -50539,7 +50499,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20b7m%20amd%20ryzen%205%207430u%20%7C%20amd%20radeon%20graphics%20%7C%2016gb%20ddr4%203200mhz%20%7C%20512gb%20nvme%20m.2%20ssd%20%7C%2015.6'%20inch%20fhd%20ips%20level%20thin%20bezel%20display",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50557,7 +50517,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20b7m%20amd%20ryzen%207%207730u%20%7C%20amd%20radeon%20graphics%20%7C%2016gb%20ddr4%203200mhz%20%7C%20512gb%20nvme%20m.2%20ssd%20%7C%2015.6'%20inch%20fhd%20ips%20level%20thin%20bezel%20display",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50575,7 +50535,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20f13mf%20%7C%20i7-1355u%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50612,7 +50572,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20f13mg%20%7C%20i7-1355u%20%7C%2016gb%20ddr4%20%7C%20512%20nvme%20%7C%2015.6''%20fhd%20%7C%20dos%7C%20platinum%20gray%20%7C",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -50631,7 +50591,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20f1mg%20intel%20core%205%20processor%20120u%20%7C%20intel%20graphics%20%7C%2016gb%20ddr4%203200mhz%20%7C%20512gb%20gen4%20nvme%20m.2%20ssd%20%7C%2015.6%22%20inch%20fhd%20ips%20level%20display",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50649,7 +50609,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20f1mg%20%7C%20core%205%20-120u%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20iris%20xe%20graphics%7C%2015.6%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50667,7 +50627,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20f1mg%20%7C%20core%207%20-150u%20%7C%2016gb%20ddr4%20%7C%201tb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50685,7 +50645,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20pulse%2015%20b13vfk%20i7%2013th%20%2F%20rtx%204060%208gb%20%2F%2016gb%20d5%20%2F%20144hz%20%2F%20512gb%20nvme%20%2F%20win%2011%20gaming",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -50703,7 +50663,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20prestige%2016%20ai%20evo%20b1mg%20ultra%207%20intel%20arc%20graphics%20professional%20laptop",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -50737,7 +50697,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20sword%2016%20hx%20b14vekg%20%7C%20i7%2014700hx%20%7C%2016gb%20%7C%20rtx%204050%206gb%20%7C%2016%20fhd%20ips%20144hz%20%7C%201tb%20nvme%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50755,7 +50715,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20thin%2015%20b13ucx%20%7C%20i5-13420h%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20rtx%202050%204gb%20%7C%2015.6fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50791,7 +50751,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20thin%2015%20b13uc%20i7-13620h%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20rtx%203050%204gb%20%7C%2015.6''%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -50862,7 +50822,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/zenbook%20duo%20oled%20ux8406ma%20ultra%209%20%282024%29%20with%20arc%20graphics",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -50916,7 +50876,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20expertbook%20b1503cva-s71506%20intel%C3%A2%C2%AE%20core%C3%A2%C2%84%C2%A2%205%20120u%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%20ips%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -51388,7 +51348,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20modern%2015%20f13mg%20826xlk%20%7C%20i5-%201334u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20uhd%20graphics%20%7C%20urban%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -51444,7 +51404,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20omnibook%205%20ai%2016-af1017wm%20%7C%20core%20ultra%207-255u%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%2016%22%20wuxga%202k%20%7C%20touch%20screen%20%7C%20win%2011%20%7C%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -51520,7 +51480,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20ominibook%205%20ai%2016-af1017wm%20%7C%20ultra7%20255u%20%7C%2016gb%20ddr5%20%28onboard%29%20%7C%201tb%20nvme%20%7C%2016.0%22%20wuxga%202k%20ips%20%7C%20touchscreen%20%7C%20win%2011%20%7C%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -51577,7 +51537,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20thinkpad%20e16%20gen%203%20%7C%20core%20ultra%207-255h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2016%22%20wuxga%20%7C%20dos%20%7C%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -51596,7 +51556,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/macbook%20pro%20m5%2014''%2024gb%201tb%20space%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "24GB",
@@ -51938,7 +51898,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015ahp10%20ryzen%207ai-250%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%205050%208gb%20%7C%2015.6%C3%A2%C2%80%C2%9D%20fhd%20ips%20144hz%20%7C%20win11%20%7C%20luna%20grey%20%28copy%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -51957,7 +51917,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20v14%20g4%20iru%20%7C%20i7-13620h%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2014''%20fhd%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -51993,7 +51953,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20rog%20strix%20g16%20%7C%20amd%20ryzen%209%208940hx%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205070%208gb%20%7C%2016%22%20fhd%20165hz%20%7C%20win11%20%7C%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52012,7 +51972,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%205%202%20in%201%2014ial10%20core%20u5-225u%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2014.0%22%20wuxga%20touch%20%7C%20win11%20%7C%20luna%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -52051,7 +52011,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20omnibook%205%20%7C%20ryzen%20ai%207%20350%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2016.0%22%202k%20ips%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -52125,7 +52085,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015iax9e%20%7C%20i7-12650hx%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%22%20%281920x1080%29%20144hz%20%7C%20rtx%204050%206gb%20%7C%20luna%20grey%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52163,7 +52123,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20omnibook%205%2016-af1017wm%20intel%20core%20ultra%207%20ai%20pc%2016gb%20ram%201tb%20nvme%2016%20inch%20touch%20screen%20windows%2011%20silver%20laptop",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52202,7 +52162,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/acer%20aspire%2014%20ai-a14-52mt-701k-intel%20core%20ultra%207-258v%20%7C%2032gb%20ddr5x%20%7C%201tb%20ssd%20%7C%2014%22%20%281920%20x%201200%29%20wuxga%20ips%2060hz%2Btouch%20screen%20%7C%20arc%20130v%20gpu%20%7C%20win%2011%20home%20%7C%20eng%20%7C%20steel%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -52240,7 +52200,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20rog%20strix%20g16%20g615jmr-ds94%20gaming%20core%C3%A2%C2%84%C2%A2%20i9-14900hx%201tb%20ssd%2016gb%2016%22%20wuxga%20%281920x1200%29%20165hz%20ips%20win11%20ir%20webcam%20nvidia%C3%A2%C2%AE%20rtx%205060%208gb%20eclipse%20gray%20rgb%20backlit%20keyboard",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "1TB",
@@ -52259,7 +52219,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/macbook%20pro%20m5%2014''%2024gb%201tb%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "24GB",
@@ -52297,7 +52257,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/macbook%20air%20m5%2013''%20%7C%2016gb%20%7C%20512gb%20%7C%20midnight",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -52315,7 +52275,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%2015%20x1504vap%20%7C%20core%205-120u%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%C3%A2%C2%80%C2%9D%20fhd%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -52352,7 +52312,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/macbook%20air%20m5%2013''%20%7C%2016gb%20%7C%20512gb%20%7C%20sky%20blue",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52371,7 +52331,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20rog%20strix%20g18%20gaming%20%7C%20ultra%209%20275hx%20%7C%202tb%20nvme%20%7C%2032gb%20ddr5%20%7C%2018%22%20wqxga%20%282560x1600%29%20240hz%20%7C%20rtx%205070ti%2012gb%20%7C%20win11%20%7C%20eclipse%20gray%20%7C%20rgb%20backlit%20keyboard",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "2TB",
@@ -52390,7 +52350,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ip1-15amn7%20ryzen%203%207320u%7C%204gb%20ddr4%20%7C%20128gb%20nvme%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "4GB"
@@ -52446,7 +52406,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20vector%20a16%20hx%20a8whg-004%20%7C%20amd%20ryzen%209%208940hx%20%7C%201tb%20nvme%20%7C%2016gb%20ddr5%20%7C%2016%22%20%282560x1600%29%20240hz%20%7C%20rtx%205070ti%2012gb%20%7C%20cosmo%20gray%20%7C%20rgb%20gaming%20keyboard%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "1TB",
@@ -52465,7 +52425,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20yoga-7%20amd%20ryzen-7-8840hs%20%7C16gb%20ram%7C%20512gb%20nvme%7Cwin-11%2016%22%20wuxga%20%7Ctouch%202%20in%201%20eng%20%7Carctic%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52523,7 +52483,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ip1-15amn7%20%7C%20ryzen%203%207320u%20%7C%204gb%20%7C%20128ssd%20%7C%20w11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "4GB"
@@ -52615,7 +52575,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%2015%20dc15250%20core%C3%A2%C2%84%C2%A2%20i7-1355u%20%7C%201tb%20ssd%20%7C%2016gb%2015.6%22%20%281920x1080%29%20touchscreen%20%7C%20win11%20%7C%20carbon%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "1TB",
@@ -52634,7 +52594,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/acer%20nitro%20lite%20nl16-71g-74gc%20%7C%20core%20i7%2013620h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx3050%206gb%20%7C%2016%22%20wuxga%20ips%20180hz%20%7C%20win%2011%20%7C%20shale%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52653,7 +52613,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/acer%20predator%20helios%20neo%2016s%20ai-phn16s%20%7C%20core%20u9-275hx%20%7C%2016gb%20ddr5%206400mhz%20%7C%201tb%20nvme%20%7C%20rtx5070ti%2012gb%20%7C%2016%22%20wqxga%20240hz%20%7C%20win%2011%20rgb%20backlit%20keyboard%20%7C%20obsidian%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52691,7 +52651,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20rog%20strix%20g16%20g615jmr-ds94%20%7C%20core%20i9-14900hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%2016%22%20wuxga%20%281920x1200%29%20165hz%20ips%20%7C%20rtx%205070%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -52709,7 +52669,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504v%20core%205%20120u%7C16gb%20ddr4%20ram%7C512gb%20nvme%7C15.6%22%20fhd%7Cwin11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -52727,7 +52687,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015-fd0215dx%20%7C%20core%205-120u%20%7C%2016gb%20%7C%20512gb%20%7C%2015.6%22%20fhd%20tch%20%7C%20win11%20%7C%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52801,7 +52761,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20255r%20g10%20ryzen%205-7535u%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20dos%20%7C%20turbo%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52820,7 +52780,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20expertbook%20p1503cva%20%7C%20i5-13420h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6''fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -52838,7 +52798,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015-fd0113%20%7C%20core%20i3-n305%20%7C%20128gb%20nvme%20%7C%208gb%20%7C%2015.6%22%20%281366x768%29%7C%20win11%20%7C%20natural%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "128GB",
@@ -52876,7 +52836,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/acer%20nitro%20lite%20nl16-71g-76se%20%7C%20i7-13620h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2016''wuxga%20ips%20165hz%20%7C%20dos%20%7C%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52913,7 +52873,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/elitebook%20850%20g8%20%7C%20i7%2011th%20gen%20%7C%2016gb%20ddr4%20%7C%20512gb%20%7C%20win%2011%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -52950,7 +52910,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20thin%2015%20b2rve%20%7C%20core%205%20210h%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6%22%20fhd%20144hz%20ips%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -52968,7 +52928,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20gaming%20a16%20fa607nuq%20%7C%20ryzen%207%20170%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20gen%204%20%7C%20rtx%204050%206gb%20%7C%2016''%20fhd%2B%20144hz%20%7C%20win%2011%20%7C%20mecha%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -52987,7 +52947,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/macbook%20air%20m5%2015''%20%7C%2016gb%20%7C%20512gb%20%7C%20midnight",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -53005,7 +52965,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20latitude%207280%20i5%208gb%20ram%20256ssd%2006th%20gen%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -53100,7 +53060,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20250r%20%7C%20core%C3%A2%C2%84%C2%A2%207%20150u%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20%281920%20x%201080%29%7C%20dos%20%7C%20turbo%20silver%7C",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -53119,7 +53079,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20thinkpad%20x1%20carbon%20i5%2010th%20gen%20%7C%2016gb%20%7C%20256gb%20nvme%20%7C%2014%C3%A2%C2%80%C2%9D%20touch%20display",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -53155,7 +53115,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20elitebook%20840%20g7%20i7%2010th%20gen%20%7C%2016gb%20%7C%20256gb%20nvme%20%7C%2014%C3%A2%C2%80%C2%9D%20display",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -53173,7 +53133,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%2015%20dc15250%7Ccore%C3%A2%C2%84%C2%A2%20i5-1334u%7C512gb%20nvme%7C16gb%20ddr4%7C15.6%22%20%281920x1080%29%20touchscreen%20120hz%7Cwin11%20%7Ccarbon%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "512GB",
@@ -53248,7 +53208,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20ideapad%205%202-in-1%2014ial10%20%7C%20core%20ultra%205%20225u%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2014.0%22%20wuxga%20touch%20x360%20%7C%20win11%20home%20%7C%20luna%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -53267,7 +53227,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015-fd0130wm%20%7C%20core%20i3-n305%20%7C%208gb%20ddr4%20%7C%20256gb%20nvme%20%7C%2015.6%22%20fhd%20ips%20touch%20%7C%20win11%20%7C%20moonlight%20blue",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -53305,7 +53265,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%2015%20x1504vap%20%7C%20core%207%20120u%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20cool%20siver%20%7C%20windows%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -53380,7 +53340,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1404vap-v14%20%7C%20core%205%20120u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2014%22%20%281920x1080%29%20%7C%20win11%20%7C%20quiet%20blue",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -53434,7 +53394,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20thin%2015%20b13ve%20%7C%20i7-13620h%20%7C%20rtx4050%206gb%20gddr6%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20144hz%20%7C%20win%2011",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "6GB"
@@ -53452,7 +53412,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20rog%20strix%20g18%20g815jpr-is96%20%7C%20i9-14900hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%2018%22%20wuxga%20144hz%20%7C%20rtx%205070%20%7C%20win%2011%20%7C%20eclipes%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -53471,7 +53431,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20gaming%20core%20i7-13620h%20%7C512gb%20ssd%20%7C16gb%20ram%7C%20rtx%205060%208gb%7C%2015.6%22%20%281920x1080%29%20144hz%20win11%7C%20translucent%20black%20rgb%20backlit%20eng_kb",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "512GB",
@@ -53491,7 +53451,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20latitude%207420%20%7C%20i7%2011th%20gen%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20ssd%20%7C%2014''%20fhd%20ips%20display%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -53564,7 +53524,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20lattitude%203450%20ultra%205%20125u%20%7C%208gb%20ddr5%20%7C%20512gbnvme%20%7C%2014%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -53582,7 +53542,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20f16%20fx608jmr-bs74%20%7C%20intel%20i7-14650hx%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205070%208gb%20%7C%2016''%20fhd%2B%20wuxga%20165hz%20g-sync%20%7C%20win11%20home%20%7C%20jaeger%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -53639,7 +53599,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015irx10%20%7C%20i7-13650hx%20%7C%2032gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%205060%208gb%20%7C%2015.6%C3%A2%C2%80%C2%9D%20fhd%20%7C%20win11%20%7C%20luna%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -53658,7 +53618,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20a15%20fa506ncq%20amd%20ryzen%207-170%20%7C%20rtx%203050%204gb%20gddr6%20%7C%2016gb%20ddr5%204800mhz%20%7C%20512gb%20m.2%20nvme%20ssd%20%7C%2015.6%22%20inch%20fhd%20ips%20144hz%20display%20%7C%20windows%2011%20gaming%20laptop",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "4GB"
@@ -53676,7 +53636,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20probook%204%20g1i14%20%7C%20core%20u5%20225h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2014%22%20fhd%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -53694,7 +53654,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20think%20pad%20t460%20-%20i5%206th%20gen%20%7C8gb%7C256gb%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -53731,7 +53691,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/macbook%20air%20m5%2013''%20%7C%2016gb%20%7C%20512gb%20%7C%20starlight",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -53823,7 +53783,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20s%20s5406sa-wh79%20intel%20core%20ultra%207%20258v%20%7C%2032gb%20lpddr5x%20%7C%201tb%20ssd%20%7C%2014%22%20wuxga%20oled%20%7C%20windows%2011%20home%20%7C%20neutral%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -53842,7 +53802,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20omnibook%205%20ai%2016-af1017wm%20%7C%20core%20ultra%207-255u%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2014%22%20oled%202k%20%7C%20touch%20screen%20%7C%20win%2011%20%7C%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -53861,7 +53821,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015-fd0127dx%20%7C%20core%207%20150u%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20ips%20%7C%20touch%20screen%20%7C%20win%2011%20%7C%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -53880,7 +53840,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20f16%20fx607vjb-rl164%20%7C%20intel%20core%205-210h%20%7C%2016gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20rtx%203050%206gb%20%7C%2016%C3%A2%C2%80%C2%9D%20wuxga%20%7C%20dos%20%7C%20mecha%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -53899,7 +53859,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20rog%20strix%20g18%20g815lm-is96%20%7C%20intel%20core%20ultra%209%20275hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205060%208gb%20%7C%2018.0%22%20wqxga%202.5k%20240hz%20ips%20%7C%20windows%2011%20home%20%7C%20eclipse%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -53918,7 +53878,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20vector%2016%20hx%20ai%20a2xwig-420us%20%7C%20intel%20core%20ultra%209%20275hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205080%2016gb%20%7C%2016.0%22%20qhd%2B%20ips%20240hz%20%7C%20windows%2011%20home%20%7C%20cosmos%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -53956,7 +53916,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20elitebook%20640%20g9%20intel%20core%20i5-1235u%20%7C%2016gb%20ram%20%7C%20256gb%20ssd%20%7C%2014%22%20%7C%20windows%2011%20pro%20%7C%20silver%20%7C%20with%20ac%20adapter%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -53995,7 +53955,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20latitude%207410%20chromebook%20intel%20core%20i5-10310u%20%7C%2016gb%20ram%20%7C%20128gb%20ssd%20%28upgradable%29%20%7C%2014%22%20%7C%20black%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54015,7 +53975,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20zenbook%20ux3407qa-x1p512%20%7C%20snapdragon%20x%20plus%20%7C%2016gb%20%7C%20512gb%20nvme%20%7C%2014%22%20wuxga%20%7C%20win11%20%7C%20zabriskie%20beige",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54072,7 +54032,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20f16%20fx608jmr%20%7C%20intel%20i7-14650hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205060%208gb%20%7C%2016%22%20fhd%20165hz%20%7C%20win%2011%20%7C%20jaeger%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -54091,7 +54051,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20x1504va-bq4368%20%7C%20core%207-150u%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20backlit%20keyboard%20%7C%20dos%20%7C%20quiet%20blue",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54129,7 +54089,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20x1404va%20%7C%20core%207%20150u%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2014.0%22%20fhd%20%7C%20dos%20%7C%20backlit%20keyboard%20%7C%20cool%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -54186,7 +54146,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20b2rwekg%20214lk%20%7C%20intel%20core%207%20240h%20%7Crtx5050%2C%208gb%20gddr6%20%7C%2016gb%20ddr5%204800mhz%20%7C%201tb%20nvme%20ssd%20%7C%2015.6%20inch%20fhd%20144hz%20display%7C%20win%2011%20home",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -54205,7 +54165,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20gaming%20a16%20fa607nuq%20%7C%20ryzen%207%20170%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20gen%204%20%7C%20rtx%204050%206gb%20%7C%2016''%20fhd%2B%20144hz%20%7C%20dos%20%7C%20mecha%20gray%282y%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54224,7 +54184,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20b2rwfkg%20%7C%20core%207%20240h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%205060%208gb%20%7C%2015.6%22%20fhd%20144hz%20ips%20%7C%20win%2011%20%7C%202y",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -54242,7 +54202,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20gaming%20a17%20fa707nug-hx154%20%7C%20ryzen%207%207445hs%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20gen%204%20%7C%20rtx%204050%206gb%20%7C%2016''%20fhd%2B%20144hz%20%7C%20dos%20%7C%20mecha%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54261,7 +54221,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20laptop%2015-fd0127dx%20intel%20core%207%20150u%7C%20512gb%20ssd%7C%2016gb%20ram%20ddr4%7C%2015.6%22%20fhd%20ips%20%7C%20touch%20screen%7C%20win%2011%7C%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "512GB",
@@ -54281,7 +54241,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015irx9%20%7C%20i7-13650hx%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20%7C%20rtx%203050%206gb%20%7C%20dos%7C%20luna%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54300,7 +54260,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/acer%20nitro%20v15%20anv15-51-76er%20intel%20core%20i7-13620h%20%7C%2016gb%20ddr5%20%7C%20512gb%20ssd%20%7C%20nvidia%20geforce%20rtx%204050%206gb%20%7C%2015.6%C3%A2%C2%80%C2%9D%20fhd%20ips%20165hz%20%7C%20dos%20%7C%20obsidian%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54319,7 +54279,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015arp10e%20ryzen%207-7735hs%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%204050%206gb%20%7C%2015.6%C3%A2%C2%80%C2%9D%20fhd%20%7C%20dos%20%7C%20luna%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54338,7 +54298,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/acer%20nitro%20v16%20ai%20anv16-61-r0yw%20%7C%20ryzen%20ai%207%20350%20%7C%2016gb%20ddr5%20%7C%201tb%20ssd%20%7C%20rtx%205060%208gb%20%7C%2016%22%20wuxga%20ips%20180hz%20%7C%20win%2011h%20%7C%20shale%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -54376,7 +54336,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20expertbook%20b3605cca%20%7C%20intel%20core%20ultra%207%20255h%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20ssd%20%7C%2016%22%20fhd%20%7C%20fingerprint%20%7C%20ir%20camera%20%7C%20backlit%20%7C%20dos%20%7C",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -54394,7 +54354,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20think%20pad%20t470%20i5%206th%20gen%20%7C%208gb%20%7C%20256gb%20%28used%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB"
@@ -54431,7 +54391,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20a15%20fa506ncg-hn198%20%7C%20ryzen%207-7445hs%20%7C%208gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%204050%204gb%20%7C%2015.6%22%20fhd%20144hz%20%7C%20dos%20%7C%20graphite%20black",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -54450,7 +54410,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20expertbook%20b3605cca%20%7C%20intel%20core%20ultra%207%20255h%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20ssd%20%7C%2016%22%20fhd%20%7C%20fingerprint%20%7C%20ir%20camera%20%7C%20backlit%20%7C%20dos",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -54506,7 +54466,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20f16%20fx607vj-bb53%20%7C%20intel%20core%205-210h%20%7C%2032gb%20ddr4%20%7C%20512gb%20nvme%20%7C%20rtx%203050%206gb%20%7C%2016%C3%A2%C2%80%C2%9D%20wuxga%20%7C%20win%2011%20%7C%20mecha%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -54751,7 +54711,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%20pro%205%2016iax10h%20%7C%20ultra%209%20275hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205060%208gb%20%7C%2016''%20wqxga%20165hz%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -55054,7 +55014,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20laptop%2015-fc0146dx%20%7C%20amd%20ryzen%205%207520u%7C%208gb%20ddr5%20ram%7C%20512gb%20nvme%7C%2015.6%22%20fhd%20ips%20touch%20display%7C%20english%20keyboard%7C%20windows%2011%20home%7C%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -55073,7 +55033,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%2015-fd2050wm%7C%20intel%20core%20ultra%205%20225u%7C%208gb%20ddr5%20ram%7C%20512gb%20nvme%7C%2015.6%22%20fhd%20ips%20touch%20display%7C%20english%20keyboard%7C%20windows%2011%20home%7C%20silver",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -55130,7 +55090,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%207%2016iax10%20%7C%20intel%20core%20ultra%207%20255hx%20%7C%2032gb%20ddr5%20ram%20%7C1tb%20pcie%20nvme%20ssd%20%7C%20rtx%205060",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"
@@ -55148,7 +55108,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20legion%205%2015irx10%20%7C%20i9-14900hx%20%7C%2016gb%20ddr5%20%7C%20512gb%20nvme%20%7C%20rtx%205070%208gb%20%7C%2015.1%22%20wqxga%20oled%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB"
@@ -55223,7 +55183,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/hp%20omnibook%20x%20flip%2014-kb0023dx%7C%20intel%20core%20ultra%207%20355%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%2014%22%202k%20oled%20x360%20touchscreen%20300%20nits%20%7C%20windows%2011%20%7C%20grey",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -55425,7 +55385,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/macbook%20m5%20air%2015%22%20%7C24gb%20%7C%201tb",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "24GB"
@@ -55443,7 +55403,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/acer%20aspire%2014%20ai%20copilot%2B%20a14-52mt-94h5%20intel%20core%20ultra%209%20288v%20%7C%2032gb%20lpddr5x%20%7C%201tb%20ssd%20%7C%2014%22%20wuxga%20ips%20%7C%20backlit%20keyboard%20%7C%20windows%2011%20home%20%7C%20steel%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -55462,7 +55422,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20vivobook%20r1504va-bq477%20%7C%20core%20i3%201315u%20%7C%208gb%20ddr4%20%7C%20512gb%20nvme%20%7C%2015.6%22%20fhd%20%7C%20dos%20%7C%20backlit%20keyboard%20%7C%20quite%20blue%282y%29",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "8GB",
@@ -55481,7 +55441,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20tuf%20gaming%20f16%20fx608jmr-bs74%20%7C%20core%20i7-14650hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205060%208gb%20%7C%2016%C3%A2%C2%80%C2%B3%20wuxga%20ips%20165hz%20%7C%20win%2011%20%7C%20backlit%20keyboard%20%7C%20jaeger%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -55500,7 +55460,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20black%20edition%20a13ve%202449xlk%20laptop%20%7C%20intel%20i7-13620h%20%7Crtx4050%2C%206gb%20gddr6%20%7C%2016gb%20ddr5%204800mhz%20%7C%20512gb%20nvme%20ssd%20%7C%2015.6%20inch%20fhd%20144hz%20display",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -55520,7 +55480,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/msi%20cyborg%2015%20black%20edition%20a13ve%202450xlk%20%7C%20intel%20i5-13420h%20%7C%20rtx%204050%206gb%20gddr6%20%7C%2016gb%20ddr5%204800mhz%20%7C%20512gb%20nvme%20%7C%2015.6''%20fhd%20144hz",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "6GB",
@@ -55539,7 +55499,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/lenovo%20loq%2015irx10%20%7C%20i7-13645hx%20%7C%2016gb%20ddr5%20%7C%201tb%20nvme%20%7C%2015.6%22%20%281920x1080%29%20144hz%20%7C%20rtx%205050%208gb%20%7C%20luna%20grey%20%7C%20win11",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "16GB",
@@ -55558,7 +55518,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/asus%20rog%20strix%20g16%20g615lw-as96%20%7C%20intel%20core%20u9-275hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205080%2016gb%20%7C%2016''%202.5k%20%282560%20%C3%A3%C2%97%201600%29%20wqxga%20ips%20240hz%20%7C%20win11%20%7C%20eclipse%20gray",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB",
@@ -55577,7 +55537,7 @@
     "sale_price": null,
     "currency": "LKR",
     "url": "https://www.chamacomputers.lk/products/laptops/dell%20alienware%2018%20area-51%20aa18250%20%7C%20intel%20core%20u9-275hx%20%7C%2032gb%20ddr5%20%7C%201tb%20nvme%20%7C%20rtx%205080%2016gb%20%7C%2018%22%202.5k%20%282560%20%C3%A3%C2%97%201600%29%20qhd%2B%20300hz%20%7C%20win%2011%20%7C%20liquid%20teal",
-    "image": "$undefined",
+    "image": "",
     "category": "laptops",
     "attrs": {
       "storage": "32GB"

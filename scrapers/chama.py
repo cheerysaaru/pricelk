@@ -126,6 +126,9 @@ def scrape_all_products() -> list[dict]:
                 continue
             seen.add(key)
             sale = price if regular > price else None
+            img = prod.get("image", "")
+            if not img or img == "$undefined" or not img.startswith("http"):
+                img = ""
             rows.append(
                 {
                     "retailer": RETAILER,
@@ -137,7 +140,7 @@ def scrape_all_products() -> list[dict]:
                     "sale_price": sale,
                     "currency": "LKR",
                     "url": _product_url(name),
-                    "image": prod.get("image", ""),
+                    "image": img,
                     "category": "laptops",
                     "attrs": extract_attrs(name),
                     "on_sale": sale is not None,

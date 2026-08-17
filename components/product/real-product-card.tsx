@@ -10,6 +10,7 @@ import { getRetailer } from "@/lib/data/retailers";
  */
 export function RealProductCard({ product }: { product: RealProduct }) {
   const retailer = getRetailer(product.retailerId);
+  const image = product.image && product.image.startsWith("http") ? product.image : "";
 
   return (
     <article className="group flex flex-col overflow-hidden rounded-xl border border-zinc-200 bg-white transition-all duration-200 hover:-translate-y-0.5 hover:border-brand-300 hover:shadow-md">
@@ -21,9 +22,9 @@ export function RealProductCard({ product }: { product: RealProduct }) {
         aria-label={`${product.name} at ${product.retailerName}`}
       >
         <div className="relative aspect-square overflow-hidden bg-zinc-50">
-          {product.image ? (
+          {image ? (
             <Image
-              src={product.image}
+              src={image}
               alt={product.name}
               fill
               sizes="(max-width: 640px) 50vw, (max-width: 1024px) 33vw, 25vw"

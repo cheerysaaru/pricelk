@@ -1,25 +1,6 @@
 [
   {
     "retailer": "Takas",
-    "name": "Redmi Pad 2 4GB 128GB 9.7inch 4G Tab",
-    "brand": "Xiaomi",
-    "sku": "",
-    "price": 72900.0,
-    "regular_price": 74999.0,
-    "sale_price": 72900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/redmi-pad-2-4gb-128gb-9-7inch-4g-tab.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-pad-2-97-2.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "4GB",
-      "screen": "9.7"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Samsung Galaxy A57 5G 8GB 256GB",
     "brand": "Samsung",
     "sku": "",
@@ -50,6 +31,25 @@
     "category": "phones",
     "attrs": {
       "storage": "12GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Redmi Pad 2 4GB 128GB 9.7inch 4G Tab",
+    "brand": "Xiaomi",
+    "sku": "",
+    "price": 72900.0,
+    "regular_price": 74999.0,
+    "sale_price": 72900.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/redmi-pad-2-4gb-128gb-9-7inch-4g-tab.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-pad-2-97-2.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "4GB",
+      "screen": "9.7"
     },
     "on_sale": true,
     "junk": false
@@ -200,24 +200,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Xiaomi Redmi 15C 8GB 256GB",
-    "brand": "Xiaomi",
-    "sku": "",
-    "price": 63990.0,
-    "regular_price": 65999.0,
-    "sale_price": 63990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-15c-8gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-15c-4g-1_1_3.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "8GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Samsung Galaxy A37 5G 8GB 256GB",
     "brand": "Samsung",
     "sku": "",
@@ -248,6 +230,24 @@
     "category": "phones",
     "attrs": {
       "storage": "12GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Xiaomi Redmi 15C 8GB 256GB",
+    "brand": "Xiaomi",
+    "sku": "",
+    "price": 63990.0,
+    "regular_price": 65999.0,
+    "sale_price": 63990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-15c-8gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-15c-4g-1_1_3.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "8GB"
     },
     "on_sale": true,
     "junk": false
@@ -506,6 +506,24 @@
   },
   {
     "retailer": "Takas",
+    "name": "Tecno Spark Go 3 4GB 64GB",
+    "brand": "Tecno",
+    "sku": "",
+    "price": 46900.0,
+    "regular_price": 48499.0,
+    "sale_price": 46900.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/tecno-spark-go-3-4gb-64gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/e/tecno-spark-go3-1.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "4GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
     "name": "Xiaomi Redmi A5 4GB 128GB",
     "brand": "Xiaomi",
     "sku": "",
@@ -524,15 +542,15 @@
   },
   {
     "retailer": "Takas",
-    "name": "Tecno Spark Go 3 4GB 64GB",
-    "brand": "Tecno",
+    "name": "ZTE Blade A56 4GB 128GB",
+    "brand": null,
     "sku": "",
-    "price": 46900.0,
-    "regular_price": 48499.0,
-    "sale_price": 46900.0,
+    "price": 40900.0,
+    "regular_price": 42999.0,
+    "sale_price": 40900.0,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/tecno-spark-go-3-4gb-64gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/e/tecno-spark-go3-1.jpg",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/zte-blade-a56.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/z/t/zte-blade-a56-1.jpg",
     "category": "phones",
     "attrs": {
       "storage": "4GB"
@@ -560,18 +578,19 @@
   },
   {
     "retailer": "Takas",
-    "name": "ZTE Blade A56 4GB 128GB",
-    "brand": null,
+    "name": "OnePlus 15 16GB 512GB - Infinity Black",
+    "brand": "OnePlus",
     "sku": "",
-    "price": 40900.0,
-    "regular_price": 42999.0,
-    "sale_price": 40900.0,
+    "price": 379900.0,
+    "regular_price": 389990.0,
+    "sale_price": 379900.0,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/zte-blade-a56.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/z/t/zte-blade-a56-1.jpg",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/oneplus-15-16gb-512gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/o/n/oneplus-15-1_3.jpg",
     "category": "phones",
     "attrs": {
-      "storage": "4GB"
+      "storage": "16GB",
+      "color": "Black"
     },
     "on_sale": true,
     "junk": false
@@ -596,19 +615,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "OnePlus 15 16GB 512GB - Infinity Black",
-    "brand": "OnePlus",
+    "name": "Xiaomi Redmi A7 Pro 4GB 64GB",
+    "brand": "Xiaomi",
     "sku": "",
-    "price": 379900.0,
-    "regular_price": 389990.0,
-    "sale_price": 379900.0,
+    "price": 45690.0,
+    "regular_price": 46999.0,
+    "sale_price": 45690.0,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/oneplus-15-16gb-512gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/o/n/oneplus-15-1_3.jpg",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-a7-pro-4gb-64gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-a7-pro-1.jpg",
     "category": "phones",
     "attrs": {
-      "storage": "16GB",
-      "color": "Black"
+      "storage": "4GB"
     },
     "on_sale": true,
     "junk": false
@@ -645,24 +663,6 @@
     "category": "phones",
     "attrs": {
       "storage": "12GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Xiaomi Redmi A7 Pro 4GB 64GB",
-    "brand": "Xiaomi",
-    "sku": "",
-    "price": 45690.0,
-    "regular_price": 46999.0,
-    "sale_price": 45690.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-a7-pro-4gb-64gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-a7-pro-1.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "4GB"
     },
     "on_sale": true,
     "junk": false
@@ -741,24 +741,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Tecno Spark 40 Pro 8GB 256GB",
-    "brand": "Tecno",
-    "sku": "",
-    "price": 72900.0,
-    "regular_price": 74999.0,
-    "sale_price": 72900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/tecno-spark-40-pro-8gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/e/techno-spark-40-pro-1.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "8GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Xiaomi Redmi Pad Pro 5G 8GB 256GB",
     "brand": "Xiaomi",
     "sku": "",
@@ -768,6 +750,24 @@
     "currency": "LKR",
     "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-pad-pro-5g-8gb-256gb.html",
     "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-pad-pro-5g-1.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Tecno Spark 40 Pro 8GB 256GB",
+    "brand": "Tecno",
+    "sku": "",
+    "price": 72900.0,
+    "regular_price": 74999.0,
+    "sale_price": 72900.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/tecno-spark-40-pro-8gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/e/techno-spark-40-pro-1.jpg",
     "category": "phones",
     "attrs": {
       "storage": "8GB"
@@ -867,18 +867,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "HONOR Play 10 4GB 128GB",
-    "brand": "HONOR",
+    "name": "Nubia V80 Design 8GB 256GB",
+    "brand": null,
     "sku": "",
-    "price": 39900.0,
-    "regular_price": 41999.0,
-    "sale_price": 39900.0,
+    "price": 56900.0,
+    "regular_price": 58999.0,
+    "sale_price": 56900.0,
     "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/honor-play-10-4gb-128gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/h/o/honor-play10-003_1.jpg",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/nubia-v80-design-8gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/z/t/zte-blade-nubia-v80-design-1.jpg",
     "category": "phones",
     "attrs": {
-      "storage": "4GB"
+      "storage": "8GB"
     },
     "on_sale": true,
     "junk": false
@@ -894,24 +894,6 @@
     "currency": "LKR",
     "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/xiaomi-redmi-note-15-5g-8gb-256gb.html",
     "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/i/xiaomi-redmi-note-15-global-1_2_1.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "8GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Nubia V80 Design 8GB 256GB",
-    "brand": null,
-    "sku": "",
-    "price": 56900.0,
-    "regular_price": 58999.0,
-    "sale_price": 56900.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/nubia-v80-design-8gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/z/t/zte-blade-nubia-v80-design-1.jpg",
     "category": "phones",
     "attrs": {
       "storage": "8GB"
@@ -958,24 +940,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung Galaxy S26 12GB 256GB",
-    "brand": "Samsung",
-    "sku": "",
-    "price": 314990.0,
-    "regular_price": 331611.0,
-    "sale_price": 314990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/samsung-mobile-s26-12gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s26-3.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "12GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Honor 600 Lite 5G 8GB 256GB",
     "brand": "HONOR",
     "sku": "",
@@ -988,6 +952,24 @@
     "category": "phones",
     "attrs": {
       "storage": "8GB"
+    },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Samsung Galaxy S26 12GB 256GB",
+    "brand": "Samsung",
+    "sku": "",
+    "price": 314990.0,
+    "regular_price": 331611.0,
+    "sale_price": 314990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/samsung-mobile-s26-12gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s26-3.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "12GB"
     },
     "on_sale": true,
     "junk": false
@@ -1064,25 +1046,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "HONOR X8B (8GB / 512GB) Green",
-    "brand": "HONOR",
-    "sku": "",
-    "price": 99999.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/honor-x8b-8gb-512gb-green.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/8/x8bg.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "8GB",
-      "color": "Green"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Apple iPhone 17 Pro Max 256GB",
     "brand": "Apple",
     "sku": "",
@@ -1113,6 +1076,25 @@
     "category": "phones",
     "attrs": {
       "storage": "3GB"
+    },
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "HONOR X8B (8GB / 512GB) Green",
+    "brand": "HONOR",
+    "sku": "",
+    "price": 99999.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/honor-x8b-8gb-512gb-green.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/x/8/x8bg.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "8GB",
+      "color": "Green"
     },
     "on_sale": false,
     "junk": false
@@ -1552,24 +1534,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Samsung Galaxy S26 Ultra 12GB 256GB",
-    "brand": "Samsung",
-    "sku": "",
-    "price": 499990.0,
-    "regular_price": 531073.0,
-    "sale_price": 499990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/samsung-galaxy-s26-ultra-12gb-256gb.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s26-ultra-2.jpg",
-    "category": "phones",
-    "attrs": {
-      "storage": "12GB"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Samsung Galaxy F07 4GB 64GB",
     "brand": "Samsung",
     "sku": "",
@@ -1584,6 +1548,24 @@
       "storage": "4GB"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Samsung Galaxy S26 Ultra 12GB 256GB",
+    "brand": "Samsung",
+    "sku": "",
+    "price": 499990.0,
+    "regular_price": 531073.0,
+    "sale_price": 499990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/mobile-phones/smartphones/samsung-galaxy-s26-ultra-12gb-256gb.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/a/samsung-galaxy-s26-ultra-2.jpg",
+    "category": "phones",
+    "attrs": {
+      "storage": "12GB"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -1986,6 +1968,22 @@
     "currency": "LKR",
     "url": "https://takas.lk/electronics-computers/laptops-desktops/laptop/asus-b1400cepe-ek0910-i7-laptop.html",
     "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/a/s/asus_expertbook_b1_b1400_1.jpg",
+    "category": "laptops",
+    "attrs": {},
+    "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Apple MacBook Air M3 Chip 15-inch (2024)",
+    "brand": "Apple",
+    "sku": "",
+    "price": 422990.0,
+    "regular_price": null,
+    "sale_price": null,
+    "currency": "LKR",
+    "url": "https://takas.lk/electronics-computers/laptops-desktops/laptop/apple-macbook-air-m3-chip-15-inch-2024.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/g/q/gq-mobiles-laptop-netbook-macbook-air-m3-15-inch-2024-midnight.png",
     "category": "laptops",
     "attrs": {},
     "on_sale": false,
@@ -7221,20 +7219,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sharp Inverter 401L 4 Door Refrigerator",
-    "brand": "Sharp",
+    "name": "Sanford 251L No Frost Refrigerator",
+    "brand": null,
     "sku": "",
-    "price": 429990.0,
-    "regular_price": 537138.0,
-    "sale_price": 429990.0,
+    "price": 115990.0,
+    "regular_price": null,
+    "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sharp-inverter-401l-4-door-refrigerator.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/j/sj-vx40pg-bk-min.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sanford-251l-no-frost-refrigerator.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1724rf1_6d876ac8-49f9-4f2c-a446-80cf19034669.jpg",
     "category": "refrigerators",
     "attrs": {
-      "capacity": "401L"
+      "capacity": "251L"
     },
-    "on_sale": true,
+    "on_sale": false,
     "junk": false
   },
   {
@@ -7255,20 +7253,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 251L No Frost Refrigerator",
-    "brand": null,
+    "name": "Samsung Refrigerator 345L – RT37B4513S8/IG",
+    "brand": "Samsung",
     "sku": "",
-    "price": 115990.0,
-    "regular_price": null,
-    "sale_price": null,
+    "price": 259990.0,
+    "regular_price": 289990.0,
+    "sale_price": 259990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sanford-251l-no-frost-refrigerator.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1724rf1_6d876ac8-49f9-4f2c-a446-80cf19034669.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/samsung-refrigerator-345l-rt37b4513s8-ig.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/6/3/63-1.jpg",
     "category": "refrigerators",
     "attrs": {
-      "capacity": "251L"
+      "capacity": "345L"
     },
-    "on_sale": false,
+    "on_sale": true,
     "junk": false
   },
   {
@@ -7306,24 +7304,6 @@
       "color": "Silver"
     },
     "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
-    "name": "Samsung Refrigerator 345L – RT37B4513S8/IG",
-    "brand": "Samsung",
-    "sku": "",
-    "price": 259990.0,
-    "regular_price": 289990.0,
-    "sale_price": 259990.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/samsung-refrigerator-345l-rt37b4513s8-ig.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/6/3/63-1.jpg",
-    "category": "refrigerators",
-    "attrs": {
-      "capacity": "345L"
-    },
-    "on_sale": true,
     "junk": false
   },
   {
@@ -7437,24 +7417,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sisil Deep Freezer (920L) – SL 980G1",
-    "brand": null,
-    "sku": "",
-    "price": 245580.0,
-    "regular_price": 268884.0,
-    "sale_price": 245580.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sisil-deep-freezer-920l-sl-980g1.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/9/0/9034_1.jpg",
-    "category": "refrigerators",
-    "attrs": {
-      "capacity": "920L"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Sanford 190L Defrost Refrigerator",
     "brand": null,
     "sku": "",
@@ -7469,6 +7431,24 @@
       "capacity": "190L"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Sisil Deep Freezer (920L) – SL 980G1",
+    "brand": null,
+    "sku": "",
+    "price": 245580.0,
+    "regular_price": 268884.0,
+    "sale_price": 245580.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/refrigerators/sisil-deep-freezer-920l-sl-980g1.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/9/0/9034_1.jpg",
+    "category": "refrigerators",
+    "attrs": {
+      "capacity": "920L"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -7759,18 +7739,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Telesonic 4.5KG Commercial Rice Cooker - TL-66",
+    "name": "Sanford 1.8L Rice Cooker",
     "brand": null,
     "sku": "",
-    "price": 32290.0,
-    "regular_price": 48095.0,
-    "sale_price": 32290.0,
+    "price": 9990.0,
+    "regular_price": 10990.0,
+    "sale_price": 9990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/telesonic-4-5kg-commercial-rice-cooker-tl-66.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/t/l/tl-66.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-8l-rice-cooker-86760.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/u/n/untitleddesign_22.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "4.5KG"
+      "capacity": "1.8L"
     },
     "on_sale": true,
     "junk": false
@@ -7793,18 +7773,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 1.8L Rice Cooker",
+    "name": "Sanford 1.5L Rice Cooker",
     "brand": null,
     "sku": "",
-    "price": 9990.0,
-    "regular_price": 10990.0,
-    "sale_price": 9990.0,
+    "price": 6990.0,
+    "regular_price": 7990.0,
+    "sale_price": 6990.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-8l-rice-cooker-86760.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/u/n/untitleddesign_22.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-5l-rice-cooker-88017.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf2514rc_new.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "1.5L"
     },
     "on_sale": true,
     "junk": false
@@ -7843,20 +7823,20 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 1.5L Rice Cooker",
-    "brand": null,
+    "name": "Midea 2.2L Rice Cooker",
+    "brand": "Midea",
     "sku": "",
-    "price": 6990.0,
-    "regular_price": 7990.0,
-    "sale_price": 6990.0,
+    "price": 9990.0,
+    "regular_price": null,
+    "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-1-5l-rice-cooker-88017.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf2514rc_new.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/midea-2-2l-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/3/4/3423-large_default_f5aa3b66-626a-443c-b661-80fe15e0d95d_1_.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.5L"
+      "capacity": "2.2L"
     },
-    "on_sale": true,
+    "on_sale": false,
     "junk": false
   },
   {
@@ -7897,24 +7877,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Midea 2.2L Rice Cooker",
-    "brand": "Midea",
-    "sku": "",
-    "price": 9990.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/midea-2-2l-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/3/4/3423-large_default_f5aa3b66-626a-443c-b661-80fe15e0d95d_1_.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "2.2L"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Innovex Rice Cooker",
     "brand": null,
     "sku": "",
@@ -7947,24 +7909,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "ABANS- 1.5L RICE COOKER WITH STEAMER",
-    "brand": "Abans",
-    "sku": "",
-    "price": 3145.0,
-    "regular_price": null,
-    "sale_price": null,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/abans-1-5l-rice-cooker-with-steamer.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web_7__1.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "1.5L"
-    },
-    "on_sale": false,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Better One Rice Cooker EK-2.8L",
     "brand": null,
     "sku": "",
@@ -7983,18 +7927,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Mistral 4.2l Rice Cooker MRC42",
-    "brand": null,
+    "name": "ABANS- 1.5L RICE COOKER WITH STEAMER",
+    "brand": "Abans",
     "sku": "",
-    "price": 34570.0,
+    "price": 3145.0,
     "regular_price": null,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/mistral-4-2l-rice-cooker-mrc42.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web-16.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/abans-1-5l-rice-cooker-with-steamer.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web_7__1.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "4.2L"
+      "capacity": "1.5L"
     },
     "on_sale": false,
     "junk": false
@@ -8019,18 +7963,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Masda 1.8 L Automatic Rice Cooker",
+    "name": "Mistral 4.2l Rice Cooker MRC42",
     "brand": null,
     "sku": "",
-    "price": 7500.0,
+    "price": 34570.0,
     "regular_price": null,
     "sale_price": null,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/masda-1-8-l-automatic-rice-cooker.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_1.png",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/mistral-4-2l-rice-cooker-mrc42.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/w/e/web-16.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "4.2L"
     },
     "on_sale": false,
     "junk": false
@@ -8091,24 +8035,6 @@
   },
   {
     "retailer": "Takas",
-    "name": "Sanford 5.6L Rice Cooker - SF-1133RC",
-    "brand": null,
-    "sku": "",
-    "price": 18790.0,
-    "regular_price": 19990.0,
-    "sale_price": 18790.0,
-    "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-5-6l-rice-cooker-sf-1133rc.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1133rc_1.jpg",
-    "category": "rice-cookers",
-    "attrs": {
-      "capacity": "5.6L"
-    },
-    "on_sale": true,
-    "junk": false
-  },
-  {
-    "retailer": "Takas",
     "name": "Sanford SF-2509RC 8.0 LTR Rice Cooker",
     "brand": null,
     "sku": "",
@@ -8125,18 +8051,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "LMG Rice Cooker - 2.8L",
+    "name": "Sanford 5.6L Rice Cooker - SF-1133RC",
     "brand": null,
     "sku": "",
-    "price": 14616.0,
-    "regular_price": 18539.0,
-    "sale_price": 14616.0,
+    "price": 18790.0,
+    "regular_price": 19990.0,
+    "sale_price": 18790.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-rice-cooker-2-8l.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_2.8l.02.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-5-6l-rice-cooker-sf-1133rc.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf1133rc_1.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "2.8L"
+      "capacity": "5.6L"
     },
     "on_sale": true,
     "junk": false
@@ -8162,18 +8088,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Panasonic 2.2L Rice Cooker SR-W22GS",
-    "brand": "Panasonic",
+    "name": "LMG Rice Cooker - 2.8L",
+    "brand": null,
     "sku": "",
-    "price": 24701.0,
-    "regular_price": 29202.0,
-    "sale_price": 24701.0,
+    "price": 14616.0,
+    "regular_price": 18539.0,
+    "sale_price": 14616.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/panasonic-2-2l-rice-cooker-sr-w22gs.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/n/e/new_project_5.png",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/lmg-rice-cooker-2-8l.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/r/i/rice_cooker_2.8l.02.jpg",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "2.2L"
+      "capacity": "2.8L"
     },
     "on_sale": true,
     "junk": false
@@ -8198,18 +8124,18 @@
   },
   {
     "retailer": "Takas",
-    "name": "Krypton 1.8L Rice Cooker With Steamer - KNRC5283",
-    "brand": null,
+    "name": "Panasonic 2.2L Rice Cooker SR-W22GS",
+    "brand": "Panasonic",
     "sku": "",
-    "price": 13990.0,
-    "regular_price": 18396.0,
-    "sale_price": 13990.0,
+    "price": 24701.0,
+    "regular_price": 29202.0,
+    "sale_price": 24701.0,
     "currency": "LKR",
-    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/krypton-1-8l-rice-cooker-with-steamer-knrc5283.html",
-    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/k/n/knrc5283.jpg",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/panasonic-2-2l-rice-cooker-sr-w22gs.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/n/e/new_project_5.png",
     "category": "rice-cookers",
     "attrs": {
-      "capacity": "1.8L"
+      "capacity": "2.2L"
     },
     "on_sale": true,
     "junk": false
@@ -8230,6 +8156,24 @@
       "capacity": "1.8L"
     },
     "on_sale": false,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Krypton 1.8L Rice Cooker With Steamer - KNRC5283",
+    "brand": null,
+    "sku": "",
+    "price": 13990.0,
+    "regular_price": 18396.0,
+    "sale_price": 13990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/krypton-1-8l-rice-cooker-with-steamer-knrc5283.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/k/n/knrc5283.jpg",
+    "category": "rice-cookers",
+    "attrs": {
+      "capacity": "1.8L"
+    },
+    "on_sale": true,
     "junk": false
   },
   {
@@ -8301,6 +8245,22 @@
     "attrs": {
       "capacity": "2.8L"
     },
+    "on_sale": true,
+    "junk": false
+  },
+  {
+    "retailer": "Takas",
+    "name": "Sanford SF-2502RC 2.2 LTR Rice Cooker",
+    "brand": null,
+    "sku": "",
+    "price": 9990.0,
+    "regular_price": 12450.0,
+    "sale_price": 9990.0,
+    "currency": "LKR",
+    "url": "https://takas.lk/home-garden/home-appliances/kitchen-appliance/rice-cookers/sanford-sf-2502rc-2-2-ltr-rice-cooker.html",
+    "image": "https://cdn.takas.lk/media/catalog/product/cache/1/small_image/250x/9df78eab33525d08d6e5fb8d27136e95/s/f/sf2502rc_new.jpg",
+    "category": "rice-cookers",
+    "attrs": {},
     "on_sale": true,
     "junk": false
   },
