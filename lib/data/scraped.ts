@@ -54,6 +54,8 @@ export const RETAILER_IDS: Record<string, string> = {
   "mCentre": "mcentre",
   "LapShop": "lapshop",
   "Singer": "singersl",
+  "Winsoft": "winsoft",
+  "Chama": "chama",
 };
 
 function normalize(s: string): string {
@@ -146,6 +148,8 @@ const RETAILER_NAMES: Record<string, string> = {
   mcentre: "mCentre",
   lapshop: "LapShop",
   singersl: "Singer",
+  winsoft: "Winsoft",
+  chama: "Chama",
 };
 
 /** Real retailers present in the snapshot, with record counts. */

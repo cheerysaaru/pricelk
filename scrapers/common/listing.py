@@ -76,7 +76,12 @@ class ListingSite:
 
     # -- page walking ----------------------------------------------------
     def page_urls(self) -> list[str]:
-        """First page + any numbered ?page=N links found on it (page order)."""
+        """First page + numbered ?page=N pages in order.
+
+        Handles compressed pagination (e.g. "2 3 ... 54 55"): when the
+        visible numbered links skip a range, all pages up to the max are
+        generated so no products are missed.
+        """
         urls = [self.start_url]
         if self.page_param is None:
             return urls
@@ -90,12 +95,31 @@ class ListingSite:
             t = a.get_text(strip=True)
             if _PAGE_NUM_RE.match(t):
                 numbered.append((int(t), a.get("href", "")))
+        if not numbered:
+            return urls
+
+        max_page = max(p for p, _ in numbered)
+        visible = len(numbered)
+        href_by_num = {p: h for p, h in numbered}
+
+        def full(href: str) -> str:
+            return href if href.startswith("http") else self.base_url + href
+
+        # Compressed pagination: "1 2 3 ... 54 55" shows ~5-7 numbers for
+        # many pages. If the max page is well beyond what's visible, expand.
+        if max_page > visible + 2:
+            return [self.start_url] + [
+                full(href_by_num.get(p) or f"{self.start_url}?{self.page_param}={p}")
+                for p in range(2, max_page + 1)
+            ]
+
+        # Normal case: just the visible numbered pages, in order.
         seen: set[str] = set()
         for _, href in sorted(numbered, key=lambda p: p[0]):
-            full = href if href.startswith("http") else self.base_url + href
-            if full not in seen:
-                seen.add(full)
-                urls.append(full)
+            f = full(href)
+            if f not in seen:
+                seen.add(f)
+                urls.append(f)
         return urls
 
     # -- card extraction --------------------------------------------------

@@ -14,6 +14,7 @@ from common.woocommerce import save_json  # noqa: E402
 
 import abans  # noqa: E402
 import acecom  # noqa: E402
+import chama  # noqa: E402
 import computercare  # noqa: E402
 import gamestreet  # noqa: E402
 import idealz  # noqa: E402
@@ -27,6 +28,7 @@ import singersl  # noqa: E402
 import takas  # noqa: E402
 import toplaps  # noqa: E402
 import wasi  # noqa: E402
+import winsoft  # noqa: E402
 
 DATA_DIR = os.path.join(os.path.dirname(os.path.abspath(__file__)), "data")
 os.makedirs(DATA_DIR, exist_ok=True)
@@ -125,6 +127,8 @@ def main() -> None:
         ("mcentre", mcentre),
         ("lapshop", lapshop),
         ("singersl", singersl),
+        ("winsoft", winsoft),
+        ("chama", chama),
     ):
         try:
             rows = module.scrape_all_products()

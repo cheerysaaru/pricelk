@@ -29,6 +29,8 @@ const nextConfig: NextConfig = {
       { protocol: "https", hostname: "www.lapshop.lk" },
       { protocol: "https", hostname: "singerwebcdn.azureedge.net" },
       { protocol: "https", hostname: "www.singersl.com" },
+      { protocol: "https", hostname: "www.winsoft.lk" },
+      { protocol: "https", hostname: "cdn.sanity.io" },
     ],
   },
 };
