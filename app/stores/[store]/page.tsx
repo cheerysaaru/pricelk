@@ -3,7 +3,9 @@ import { notFound } from "next/navigation";
 import { BadgeCheck, Globe } from "lucide-react";
 import { ALL_RETAILERS, getRetailer } from "@/lib/data/retailers";
 import { getAllProducts, getLowestOfferForVariant } from "@/lib/data/products";
+import { getScrapedRecords, RETAILER_IDS } from "@/lib/data/scraped";
 import { ProductCard } from "@/components/product/product-card";
+import { RealProductCard } from "@/components/product/real-product-card";
 import { Breadcrumbs } from "@/components/breadcrumbs";
 import { timeAgo } from "@/lib/format";
 
@@ -37,6 +39,26 @@ export default async function StorePage({
   const products = getAllProducts().filter((p) =>
     p.offers.some((o) => o.retailerId === retailer.id),
   );
+
+  // Real scraped offers from this store (one card per product record).
+  const realProducts = getScrapedRecords()
+    .filter((r) => RETAILER_IDS[r.retailer] === retailer.id && !r.junk && r.price != null)
+    .map((r) => ({
+      slug: `real-${retailer.id}-${r.name.slice(0, 24)}`,
+      name: r.name,
+      brand: r.brand ?? "Unknown",
+      category: r.category,
+      categoryName: r.category,
+      image: r.image,
+      accent: retailer.logoColor ?? "#71717a",
+      price: r.price as number,
+      retailerId: retailer.id,
+      retailerName: retailer.name,
+      url: r.url,
+      sku: r.sku,
+      attrs: r.attrs,
+      isReal: true as const,
+    }));
 
   return (
     <div className="container-page py-8">
@@ -73,12 +95,15 @@ export default async function StorePage({
         Tracked products at {retailer.name}
       </h2>
       <p className="mt-1 text-sm text-zinc-500">
-        {products.length} products with prices from this store.
+        {products.length + realProducts.length} products with prices from this store.
       </p>
 
       <div className="mt-6 grid grid-cols-2 gap-3 sm:gap-4 md:grid-cols-3 lg:grid-cols-4">
         {products.map((p) => (
           <ProductCard key={p.id} product={p} />
+        ))}
+        {realProducts.map((p) => (
+          <RealProductCard key={p.slug} product={p} />
         ))}
       </div>
     </div>
