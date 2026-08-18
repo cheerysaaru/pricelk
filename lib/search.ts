@@ -17,6 +17,82 @@ function normalize(s: string): string {
     .trim();
 }
 
+/**
+ * Keywords that prove a product name actually describes its category. Used to
+ * rank real category matches (e.g. a MacBook when searching "laptop") above
+ * accessories that a retailer happened to file under that category (e.g. CMOS
+ * batteries filed under laptops, or "Laptop Backpack" items).
+ *
+ * `strong` = model/type words that almost always mean the real product
+ *            (macbook, thinkpad, oled, iphone, ...).
+ * `generic` = the plain category word itself ("laptop", "tv", "phone"), which
+ *             also appears in accessory names like "Laptop Power Cable".
+ */
+const CATEGORY_KEYWORDS: Record<string, { strong: string[]; generic: string[] }> = {
+  laptops: {
+    strong: [
+      "macbook", "notebook", "thinkpad", "ideapad", "vivobook", "zenbook",
+      "chromebook", "surface", "aspire", "pavilion", "gaming", "ultrabook",
+    ],
+    generic: ["laptop"],
+  },
+  phones: {
+    strong: [
+      "galaxy", "iphone", "pixel", "redmi", "xiaomi", "realme", "oppo",
+      "vivo", "infinix", "nokia", "honor", "oneplus", "tecno",
+    ],
+    generic: ["phone", "smartphone"],
+  },
+  tvs: {
+    strong: ["television", "oled", "qled", "nano"],
+    generic: ["tv", "led"],
+  },
+  headphones: {
+    strong: ["airpod", "earbud", "headset", "soundbar"],
+    generic: ["headphone", "earphone", "speaker"],
+  },
+  appliances: {
+    strong: [
+      "washing", "washer", "dryer", "refrigerator", "fridge", "microwave",
+      "oven", "vacuum", "kettle", "blender", "mixer", "conditioner", "heater",
+    ],
+    generic: ["iron", "fan", "cooker"],
+  },
+  refrigerators: {
+    strong: ["refrigerator", "fridge", "freezer"],
+    generic: [],
+  },
+  "rice-cookers": {
+    strong: ["rice cooker", "cooker"],
+    generic: [],
+  },
+  "milk-powder": {
+    strong: ["milk"],
+    generic: ["powder"],
+  },
+  rice: {
+    strong: ["rice"],
+    generic: [],
+  },
+};
+
+/**
+ * Words that mark a product as an accessory or consumable rather than the
+ * category product itself ("Laptop Power Cable", "Notebook Cooling Pad",
+ * "CMOS Battery", "Gaming Chair", "Barcode Scanner"). Used to keep accessories
+ * below real products when the query is a category word.
+ */
+const ACCESSORY_WORDS = [
+  "cable", "backpack", "bag", "sleeve", "stand", "cooler", "adapter",
+  "charger", "battery", "keyboard", "mouse", "headset", "case", "cover",
+  "protector", "holder", "mount", "strap", "dock", "hub", "cleaner", "mat",
+  "pad", "light", "lamp", "fan", "filter", "cartridge", "ink", "toner",
+  "paper", "glass", "film", "screen", "casing", "cabinet", "chair", "combo",
+  "kit", "psu", "power supply", "monitor", "webcam", "microphone", "printer",
+  "scanner", "thermal", "label", "barcode", "speaker", "earbud", "controller",
+  "joystick", "cooling", "wrist", "glove", "sleeve", "bag", "backpack",
+];
+
 /** Unified search item: a real scraped product (single-offer). */
 interface SearchItem {
   slug: string;
@@ -38,6 +114,7 @@ function scoreItem(item: SearchItem, q: string): number {
   const nq = normalize(q);
   if (!nq) return 0;
   const name = normalize(item.name);
+  const nameCompact = name.replace(/\s+/g, "");
   const brand = normalize(item.brand);
   const category = normalize(item.categoryName);
   const attrText = normalize(Object.values(item.attrs).flat().join(" "));
@@ -48,18 +125,43 @@ function scoreItem(item: SearchItem, q: string): number {
   // attrs), so "samsung 55" does not return every Samsung phone.
   if (tokens.length > 1 && !tokens.every((t) => combined.includes(t))) return 0;
 
-  if (name === nq) return 1000;
-  if (name.startsWith(nq)) return 900;
-  if (name.includes(nq)) return 700;
-  if (brand.startsWith(nq)) return 600;
-  if (brand.includes(nq)) return 500;
-  if (category.includes(nq)) return 400;
-  if (attrText.includes(nq)) return 300;
+  // If the user explicitly searched for an accessory word ("monitor",
+  // "keyboard", "cable"), accessories are the desired result — no cap.
+  const queryIsAccessory = ACCESSORY_WORDS.includes(nq);
+  const hasAccessory = !queryIsAccessory && ACCESSORY_WORDS.some((a) => name.includes(a));
 
-  if (tokens.every((t) => name.includes(t))) return 650;
-  if (tokens.some((t) => name.includes(t))) return 350;
+  // Single-token category-word query ("laptop", "tv", "phone", ...): rank by
+  // whether the name proves it is the real category product.
+  if (tokens.length === 1 && category.includes(nq)) {
+    const kw = CATEGORY_KEYWORDS[item.category];
+    if (kw) {
+      const hasStrong = kw.strong.some(
+        (k) => name.includes(k) || nameCompact.includes(k.replace(/\s+/g, "")),
+      );
+      const hasGeneric = kw.generic.some((k) => name.includes(k));
+      if (hasAccessory) return hasGeneric ? 550 : 500;
+      if (hasStrong) return 800;
+      if (hasGeneric) return 700;
+      return 600; // category match, presumed real product
+    }
+  }
 
-  return 0;
+  let score: number;
+  if (name === nq) score = 1000;
+  else if (name.startsWith(nq)) score = 900;
+  else if (name.includes(nq)) score = 700;
+  else if (brand.startsWith(nq)) score = 600;
+  else if (brand.includes(nq)) score = 500;
+  else if (category.includes(nq)) score = 400;
+  else if (attrText.includes(nq)) score = 300;
+  else if (tokens.every((t) => name.includes(t))) score = 650;
+  else if (tokens.some((t) => name.includes(t))) score = 350;
+  else score = 0;
+
+  // Accessory names that merely contain the query word ("TVS barcode scanner"
+  // for "tv", "Gaming Chair" for "laptop") must not outrank real products.
+  if (hasAccessory && score > 500) return 500;
+  return score;
 }
 
 function realItems(): SearchItem[] {
@@ -105,14 +207,20 @@ export function searchProducts(query: string, opts: SearchOptions = {}): SearchR
   const q = query.trim();
   let items: SearchItem[] = realItems();
 
+  // Relevance scores per slug — kept so the chosen sort never overrides the
+  // query's ranking: with a query, score is primary and the sort is a tiebreak;
+  // without a query, the sort applies fully.
+  const scores = new Map<string, number>();
+
   if (q) {
-    items = items
+    const ranked = items
       .map((item) => ({ item, score: scoreItem(item, q) }))
       .filter((x) => x.score > 0)
-      .sort((a, b) => b.score - a.score || a.item.price - b.item.price)
-      .map((x) => x.item);
-  } else {
-    items = [...items].sort((a, b) => a.price - b.price);
+      .sort((a, b) => b.score - a.score || a.item.price - b.item.price);
+    items = ranked.map((x) => {
+      scores.set(x.item.slug, x.score);
+      return x.item;
+    });
   }
 
   if (opts.category) items = items.filter((i) => i.category === opts.category);
@@ -149,15 +257,24 @@ export function searchProducts(query: string, opts: SearchOptions = {}): SearchR
   const attributeOptions: Record<string, string[]> = {};
   for (const [k, set] of Object.entries(attrSets)) attributeOptions[k] = [...set];
 
+  const withQuery = Boolean(q);
+  const scoreOf = (i: SearchItem) => scores.get(i.slug) ?? 0;
+
   switch (opts.sort ?? "lowest") {
     case "lowest":
-      items.sort((a, b) => a.price - b.price);
+      items.sort((a, b) =>
+        withQuery ? scoreOf(b) - scoreOf(a) || a.price - b.price : a.price - b.price,
+      );
       break;
     case "highest":
-      items.sort((a, b) => b.price - a.price);
+      items.sort((a, b) =>
+        withQuery ? scoreOf(b) - scoreOf(a) || b.price - a.price : b.price - a.price,
+      );
       break;
     case "recent":
-      items.sort((a, b) => b.lastChecked - a.lastChecked);
+      items.sort((a, b) =>
+        withQuery ? scoreOf(b) - scoreOf(a) || b.lastChecked - a.lastChecked : b.lastChecked - a.lastChecked,
+      );
       break;
   }
 
@@ -186,7 +303,7 @@ export function searchProducts(query: string, opts: SearchOptions = {}): SearchR
   return { results, total, page, pageSize, totalPages, brands, attributeOptions };
 }
 
-/** Autocomplete: top 8 matches with starting price. */
+/** Autocomplete: top 8 most relevant matches. */
 export function autocomplete(query: string, limit = 8): SearchResult[] {
   const res = searchProducts(query, { pageSize: limit });
   return res.results;
